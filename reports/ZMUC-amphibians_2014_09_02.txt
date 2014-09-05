@@ -1,0 +1,128 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 1270
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Israel ; Times: 4
+	Country: Sweden ; Times: 45
+	Country: United States ; Times: 28
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-04 ; Times: 1
+	Date: 2014-08-07 ; Times: 1
+	Date: 2014-08-08 ; Times: 3
+	Date: 2014-08-10 ; Times: 1
+	Date: 2014-08-11 ; Times: 1
+	Date: 2014-08-14 ; Times: 11
+	Date: 2014-08-16 ; Times: 1
+	Date: 2014-08-17 ; Times: 9
+	Date: 2014-08-23 ; Times: 38
+	Date: 2014-08-24 ; Times: 1
+	Date: 2014-08-25 ; Times: 4
+	Date: 2014-08-26 ; Times: 1
+	Date: 2014-08-27 ; Times: 7
+	Date: 2014-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Guyana" specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "country:"Kenya" genus:Kinyongia OR Trioceros" ; Times: 1
+	Query: "Naja Iran" ; Times: 1
+	Query: "Gloydius" ; Times: 1
+	Query: "genus:Kinyongia OR Trioceros" ; Times: 2
+	Query: "chironius exoletus" ; Times: 1
+	Query: "Vipera lebetina" ; Times: 7
+	Query: "hyperolius spinigularis" ; Times: 1
+	Query: "agama paragama" ; Times: 1
+	Query: "Vipera renardi" ; Times: 2
+	Query: "Vipera Russia" ; Times: 1
+	Query: "genus:Kinyongia OR Trioceros OR Rhampholeon country:Kenya OR Tanzania OR KENYA" ; Times: 1
+	Query: "chamaesaura tenuior" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 3
+	Query: "country:"Kenya" genus:Kinyongia" ; Times: 1
+	Query: "Vipera ammodytes" ; Times: 2
+	Query: "Pseudocerastes" ; Times: 4
+	Query: "Echis carinatus" ; Times: 1
+	Query: "Vipera Georgia" ; Times: 3
+	Query: "Walterinnesia" ; Times: 2
+	Query: "ku 1305" ; Times: 1
+	Query: "genus:Kinyongia mappable:1" ; Times: 1
+	Query: "Vipera berus" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "genus:Kinyongia OR Trioceros OR Rhampholeon country:Kenya OR Tanzania" ; Times: 4
+	Query: "country:"Colombia" specificepithet:lineatus genus:Liophis" ; Times: 2
+	Query: "Echis Afghanistan" ; Times: 1
+	Query: "Echis multisquamatus" ; Times: 2
+	Query: "melanoseps" ; Times: 1
+	Query: "specificepithet:lineatus genus:Liophis" ; Times: 4
+	Query: "Naja Afghanistan" ; Times: 1
+	Query: "country:"Brazil" specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "Oxyrhopus rhombifer" ; Times: 2
+	Query: "Vipera ZMUC" ; Times: 5
+	Query: "Vipera Yugoslavia" ; Times: 1
+	Query: "country:"Suriname" specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "Echis" ; Times: 1
+	Query: "Vipera Afghanistan" ; Times: 1
+	Query: "Pseudocalotes tympanistriga" ; Times: 1
+	Query: "Chamaesaura tenuior" ; Times: 1
+	Query: "Naja oxiana" ; Times: 5
+	Query: "genus:Kinyongia OR Trioceros OR Rhampholeon country:Kenya OR Tanzania mappable:1" ; Times: 1
+	Query: "leptopelis notatus" ; Times: 4
+	Query: "Blanus strauchi" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 273 download events in this period)
+Total number of records downloaded: 4090 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3228
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-14 ; Times: 3
+	Date: 2014-08-17 ; Times: 3
+	Date: 2014-08-18 ; Times: 1
+	Date: 2014-08-26 ; Times: 1
+	Date: 2014-08-27 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Suriname"" ; Times: 1
+	Query: "family:Chamaeleonidae class:reptilia" ; Times: 1
+	Query: "Sceloporus" ; Times: 4
+	Query: "genus:Kinyongia OR Trioceros OR Rhampholeon country:Kenya OR Tanzania" ; Times: 1
+	Query: "hyperolius spinigularis" ; Times: 1
+	Query: "amphisbaena" ; Times: 1
+	Query: "country:Kenya OR Tanzania class:Reptilia" ; Times: 1
+	Query: "country:"brazil"" ; Times: 2
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 205
+Total number of records retrieved from searches: 1871
+Number of download events that retrieved data from the resource: 32
+Total number of records downloaded: 7840
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 205
+Total number of records retrieved from searches: 1871
+Number of download events that retrieved data from the resource: 32
+Total number of records downloaded: 7840
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
