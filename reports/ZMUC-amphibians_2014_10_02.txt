@@ -1,0 +1,64 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for September, 2014, generated on 2014/10/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 13
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Sweden ; Times: 1
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-02 ; Times: 2
+	Date: 2014-09-09 ; Times: 1
+	Date: 2014-09-12 ; Times: 1
+	Date: 2014-09-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ZFMK" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "leptopelis notatus" ; Times: 1
+	Query: "Hylarana hastypestatus:1" ; Times: 1
+	Query: "country:"Mexico" specificepithet:decorata genus:Rhadinaea" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 164 download events in this period)
+Total number of records downloaded: 4 (out of 2860493 records downloaded for all resources in this period)
+Total number of unique records downloaded: 4
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-07 ; Times: 1
+	Date: 2014-09-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Phrynosoma" ; Times: 1
+	Query: "Pyxicephalus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 210
+Total number of records retrieved from searches: 1884
+Number of download events that retrieved data from the resource: 34
+Total number of records downloaded: 7844
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 210
+Total number of records retrieved from searches: 1884
+Number of download events that retrieved data from the resource: 34
+Total number of records downloaded: 7844
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
