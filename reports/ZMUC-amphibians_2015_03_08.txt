@@ -1,0 +1,166 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 56
+Number of records retrieved in searches: 381
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 3
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Sweden ; Times: 3
+	Country: Switzerland ; Times: 4
+	Country: United Kingdom ; Times: 13
+	Country: United States ; Times: 27
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 1
+	Date: 2015-02-05 ; Times: 2
+	Date: 2015-02-06 ; Times: 1
+	Date: 2015-02-07 ; Times: 3
+	Date: 2015-02-08 ; Times: 5
+	Date: 2015-02-10 ; Times: 4
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-14 ; Times: 2
+	Date: 2015-02-15 ; Times: 1
+	Date: 2015-02-19 ; Times: 8
+	Date: 2015-02-23 ; Times: 10
+	Date: 2015-02-24 ; Times: 12
+	Date: 2015-02-25 ; Times: 2
+	Date: 2015-02-26 ; Times: 3
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Sudan" class:Reptilia" ; Times: 1
+	Query: "Hyperolius rubrovermiculatus" ; Times: 1
+	Query: "KU 6662" ; Times: 2
+	Query: "country:"Venezuela" genus:Dendrophidion" ; Times: 1
+	Query: "country:"Papua New Guinea" genus:Tropidonophis" ; Times: 1
+	Query: "country:"Ecuador" genus:Leptophis" ; Times: 1
+	Query: "Typhlops tenuis" ; Times: 2
+	Query: "Bothrolycus" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "country:"Papua New Guinea" genus:Leiopython" ; Times: 1
+	Query: "country:"Ecuador" genus:Tantilla" ; Times: 1
+	Query: "Pseudocerastes" ; Times: 1
+	Query: "country:"Papua New Guinea" genus:Acrochordus" ; Times: 1
+	Query: "specificepithet:punctatus genus:Bothrops" ; Times: 1
+	Query: "country:"Papua New Guinea" genus:Bothrochilus" ; Times: 1
+	Query: "Plagiopholis nuchalis" ; Times: 4
+	Query: "country:"Papua New Guinea" genus:Boiga" ; Times: 2
+	Query: "country:"papua new guinea" genus:liasis" ; Times: 1
+	Query: "lycodonomorphus" ; Times: 2
+	Query: "Hyperolius mitchelli" ; Times: 2
+	Query: "country:"Colombia" specificepithet:lineatus genus:Liophis institutioncode:ZMUC" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:guianensis genus:Phimophis" ; Times: 1
+	Query: "Vipera berus" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "cantoria violacea" ; Times: 1
+	Query: "Rieppeleon" ; Times: 1
+	Query: "Pseustes poecilonotus" ; Times: 1
+	Query: "boa constrictor venezuela" ; Times: 1
+	Query: "leptodeira nigrofasciata" ; Times: 2
+	Query: "country:"Colombia" specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis" ; Times: 1
+	Query: "country:"papua new guinea" genus:dendrelaphis" ; Times: 1
+	Query: "country:"papua new guinea" genus:leiopython" ; Times: 1
+	Query: "specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "country:"papua new guinea" genus:bothrochilus" ; Times: 1
+	Query: "Imantodes cenchoa Mexico" ; Times: 1
+	Query: "country:"papua new guinea" genus:aspidomorphus" ; Times: 1
+	Query: "Leptopelis flavomaculatus" ; Times: 1
+	Query: "Sibynomorphus country:"Ecuador"" ; Times: 1
+	Query: "country:"Papua New Guinea" genus:Dendrelaphis" ; Times: 1
+	Query: "HEOSEMYS SPINOSA" ; Times: 1
+	Query: "country:"Venezuela" genus:Clelia" ; Times: 1
+	Query: "apostolepis" ; Times: 1
+	Query: "Imantodes gemmistratus" ; Times: 1
+	Query: "country:"Venezuela" genus:Chironius" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:guianensis genus:Phimophis institutioncode:ZMUC" ; Times: 1
+	Query: "country:"Nicaragua" genus:Boa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 326 download events in this period)
+Total number of records downloaded: 3873 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3787
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Russia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-04 ; Times: 2
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-08 ; Times: 1
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-10 ; Times: 1
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-12 ; Times: 4
+	Date: 2015-02-13 ; Times: 5
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-23 ; Times: 2
+	Date: 2015-02-24 ; Times: 3
+	Date: 2015-02-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Triturus vulgaris" ; Times: 1
+	Query: "specificepithet:pipiens" ; Times: 1
+	Query: "country:"Sudan" class:Reptilia" ; Times: 1
+	Query: "country:"Afghanistan" class:Reptilia mappable:1" ; Times: 1
+	Query: "hylidae" ; Times: 1
+	Query: "Cameroon" ; Times: 1
+	Query: "Ctenosaura similis" ; Times: 1
+	Query: "Pyxicephalus adspersus" ; Times: 1
+	Query: "Anura" ; Times: 1
+	Query: "Imantodes" ; Times: 1
+	Query: "sistrurus" ; Times: 2
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "type:specimen country:"cuba" class:amphibia" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "oxybelis aeneus" ; Times: 1
+	Query: "Daboia" ; Times: 1
+	Query: "crotalus ruber" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "CHILE" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 308
+Total number of records retrieved from searches: 2518
+Number of download events that retrieved data from the resource: 39
+Total number of records downloaded: 4014
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 361
+Total number of records retrieved from searches: 3054
+Number of download events that retrieved data from the resource: 106
+Total number of records downloaded: 14115
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
