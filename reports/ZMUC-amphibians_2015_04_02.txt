@@ -1,0 +1,135 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 578
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Israel ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 9
+	Country: United States ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 1
+	Date: 2015-03-04 ; Times: 2
+	Date: 2015-03-09 ; Times: 1
+	Date: 2015-03-10 ; Times: 4
+	Date: 2015-03-12 ; Times: 4
+	Date: 2015-03-13 ; Times: 7
+	Date: 2015-03-14 ; Times: 1
+	Date: 2015-03-16 ; Times: 1
+	Date: 2015-03-19 ; Times: 4
+	Date: 2015-03-20 ; Times: 3
+	Date: 2015-03-26 ; Times: 1
+	Date: 2015-03-27 ; Times: 2
+	Date: 2015-03-28 ; Times: 6
+	Date: 2015-03-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "colubridae new ireland new guinea" ; Times: 1
+	Query: "Python molurus bivittatus type:specimen" ; Times: 1
+	Query: "Oxyrhopus trigeminus" ; Times: 1
+	Query: "cnemaspis dickersoni imatong" ; Times: 1
+	Query: "Stegonotus parvus" ; Times: 1
+	Query: "new ireland reptilia" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 1
+	Query: "anolis roosevelti" ; Times: 5
+	Query: "Rana dalmatina" ; Times: 1
+	Query: "cnemaspis zmuc" ; Times: 1
+	Query: "Tropidodipsas fasciata" ; Times: 1
+	Query: "Mussau Island" ; Times: 2
+	Query: "naja sputatrix" ; Times: 4
+	Query: "lacerta zmuc" ; Times: 1
+	Query: "leptotyphlops albifrons" ; Times: 1
+	Query: "colubridae manus island new guinea" ; Times: 1
+	Query: "pseudocalotes tympanistriga" ; Times: 1
+	Query: "reptilia manus island" ; Times: 1
+	Query: "hypsilurus godeffroyi" ; Times: 1
+	Query: "kotschyi" ; Times: 1
+	Query: "leptodeira nigrofasciata" ; Times: 1
+	Query: "lygodactylus zmuc" ; Times: 2
+	Query: "calotes zmuc" ; Times: 1
+	Query: "Reptilia New Ireland" ; Times: 1
+	Query: "stegonotus modestus" ; Times: 1
+	Query: "Naja atra" ; Times: 2
+	Query: "Chironius Venezuela" ; Times: 1
+	Query: "leptophis diplotropis" ; Times: 1
+	Query: "imantodes gemmistratus KU" ; Times: 1
+	Query: "Leptodeira nigrofasciata KU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 298 download events in this period)
+Total number of records downloaded: 299 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 277
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-03 ; Times: 3
+	Date: 2015-03-05 ; Times: 2
+	Date: 2015-03-09 ; Times: 1
+	Date: 2015-03-12 ; Times: 1
+	Date: 2015-03-13 ; Times: 1
+	Date: 2015-03-16 ; Times: 2
+	Date: 2015-03-17 ; Times: 1
+	Date: 2015-03-23 ; Times: 2
+	Date: 2015-03-24 ; Times: 2
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-27 ; Times: 1
+	Date: 2015-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "agkistrodon contortrix" ; Times: 1
+	Query: "candoia carinata" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "Hylidae" ; Times: 1
+	Query: "micruroides euryxanthus" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: "acrochordus" ; Times: 1
+	Query: "genus:varanus" ; Times: 1
+	Query: "thamnophis elegans" ; Times: 1
+	Query: "paroedura" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "candoia" ; Times: 1
+	Query: "Python molurus type:specimen" ; Times: 1
+	Query: "varanus" ; Times: 1
+	Query: "hypsiglena torquata" ; Times: 1
+	Query: "country:"Indonesia" class:Reptilia mappable:1" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 348
+Total number of records retrieved from searches: 3096
+Number of download events that retrieved data from the resource: 58
+Total number of records downloaded: 4313
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 401
+Total number of records retrieved from searches: 3632
+Number of download events that retrieved data from the resource: 125
+Total number of records downloaded: 14414
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
