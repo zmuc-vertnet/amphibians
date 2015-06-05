@@ -1,0 +1,173 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 106
+Number of records retrieved in searches: 505
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: Philippines ; Times: 1
+	Country: South Africa ; Times: 3
+	Country: Sweden ; Times: 49
+	Country: United Kingdom ; Times: 9
+	Country: United States ; Times: 32
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-06 ; Times: 1
+	Date: 2015-05-07 ; Times: 3
+	Date: 2015-05-09 ; Times: 1
+	Date: 2015-05-10 ; Times: 2
+	Date: 2015-05-11 ; Times: 3
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-13 ; Times: 4
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-15 ; Times: 2
+	Date: 2015-05-16 ; Times: 3
+	Date: 2015-05-17 ; Times: 1
+	Date: 2015-05-18 ; Times: 5
+	Date: 2015-05-19 ; Times: 9
+	Date: 2015-05-20 ; Times: 3
+	Date: 2015-05-21 ; Times: 5
+	Date: 2015-05-23 ; Times: 49
+	Date: 2015-05-24 ; Times: 1
+	Date: 2015-05-26 ; Times: 2
+	Date: 2015-05-27 ; Times: 6
+	Date: 2015-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ramphotyphlops braminus country:"Mexico"" ; Times: 1
+	Query: "Ophiophagus hannah Philippines" ; Times: 1
+	Query: "country:"Iran" genus:Echis" ; Times: 27
+	Query: "Enhydrina" ; Times: 4
+	Query: "RAMPHOTYPHLOPS BRAMINUS country:"mexico"" ; Times: 2
+	Query: "holaspis" ; Times: 3
+	Query: "Vipera lebetina" ; Times: 2
+	Query: "elapoides type:specimen country:"solomon"" ; Times: 1
+	Query: "euleptes" ; Times: 1
+	Query: "atractaspis" ; Times: 1
+	Query: "Pseudocalotes" ; Times: 1
+	Query: "country:"Afghanistan" genus:Echis" ; Times: 5
+	Query: "specificepithet:occipitalis genus:Rhadinaea" ; Times: 1
+	Query: "specificepithet:lineatus genus:Liophis" ; Times: 2
+	Query: "Pseudocerastes" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:lineatus genus:Liophis institutioncode:ZMUC" ; Times: 1
+	Query: "country:"Nicaragua" genus:Phyllodactylus" ; Times: 1
+	Query: "ramphotyphlops braminus country:"mexico"" ; Times: 1
+	Query: "Natriciteres variegata" ; Times: 1
+	Query: "Homoroselaps" ; Times: 3
+	Query: "Lichanura" ; Times: 3
+	Query: "specificepithet:sartorii genus:Tropidodipsas" ; Times: 1
+	Query: "jubata brazil" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "Polemon field museum" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:melanocephala genus:Tantilla" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 3
+	Query: "country:"Colombia" specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "specificepithet:poecilopogon genus:Rhadinaea" ; Times: 1
+	Query: "Chersodromus liebmanni" ; Times: 1
+	Query: "leptopelis macrotis" ; Times: 2
+	Query: "specificepithet:melanocephala genus:Tantilla" ; Times: 3
+	Query: "genus:Tripanurgos" ; Times: 1
+	Query: "Microcephalophis" ; Times: 1
+	Query: "country:"Turkmenistan" genus:Echis" ; Times: 13
+	Query: "trimeresurus trigonocephalus" ; Times: 6
+	Query: "specificepithet:brevirostris genus:Rhadinaea" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 2
+	Query: "country:"Colombia" specificepithet:lineatus genus:Liophis institutioncode:ZMUC" ; Times: 1
+	Query: "quedenfeldtia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 976 download events in this period)
+Total number of records downloaded: 46942 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3621
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 10
+	Country: United States ; Times: 23
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-12 ; Times: 2
+	Date: 2015-05-13 ; Times: 9
+	Date: 2015-05-15 ; Times: 1
+	Date: 2015-05-17 ; Times: 1
+	Date: 2015-05-19 ; Times: 2
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-21 ; Times: 11
+	Date: 2015-05-22 ; Times: 2
+	Date: 2015-05-23 ; Times: 2
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-28 ; Times: 1
+	Date: 2015-05-29 ; Times: 6
+	Date: 2015-05-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "agamidae" ; Times: 2
+	Query: "Enhydrina" ; Times: 2
+	Query: "hydrophis" ; Times: 1
+	Query: "Hydrophiidae mappable:1" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "laticauda" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "elapidae" ; Times: 3
+	Query: "Lapemis" ; Times: 1
+	Query: "phrynosoma platyrhinos" ; Times: 1
+	Query: "callisaurus draconoides" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "astrotia" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "genus:crotalus class:reptilia" ; Times: 1
+	Query: "Homoroselaps" ; Times: 1
+	Query: "Lichanura" ; Times: 1
+	Query: "agamidae mappable:1" ; Times: 1
+	Query: "pelamis" ; Times: 1
+	Query: "subocularis" ; Times: 1
+	Query: "python reticulatus" ; Times: 2
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "arizona elegans" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 2
+	Query: "aipysurus" ; Times: 1
+	Query: "Microcephalophis" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "Hypsilurus" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "tachymenis peruviana" ; Times: 1
+	Query: "Disteira" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 454
+Total number of records retrieved from searches: 3601
+Number of download events that retrieved data from the resource: 100
+Total number of records downloaded: 51255
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 507
+Total number of records retrieved from searches: 4137
+Number of download events that retrieved data from the resource: 167
+Total number of records downloaded: 61356
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
