@@ -1,0 +1,142 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 303
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 48
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 1
+	Date: 2015-06-02 ; Times: 2
+	Date: 2015-06-03 ; Times: 2
+	Date: 2015-06-05 ; Times: 12
+	Date: 2015-06-07 ; Times: 3
+	Date: 2015-06-08 ; Times: 7
+	Date: 2015-06-11 ; Times: 2
+	Date: 2015-06-12 ; Times: 3
+	Date: 2015-06-16 ; Times: 2
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-19 ; Times: 3
+	Date: 2015-06-20 ; Times: 2
+	Date: 2015-06-22 ; Times: 1
+	Date: 2015-06-25 ; Times: 9
+	Date: 2015-06-26 ; Times: 3
+	Date: 2015-06-27 ; Times: 5
+	Date: 2015-06-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Guyana" specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "country:"French Guiana" class:Reptilia institutioncode:ZMUC" ; Times: 1
+	Query: "typhlops diardii" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:constrictor genus:Boa" ; Times: 1
+	Query: "Amphisbaena schmidti" ; Times: 1
+	Query: "specificepithet:ancoralis genus:Micrurus" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis institutioncode:ZMUC" ; Times: 1
+	Query: "hydrophis obscurus" ; Times: 1
+	Query: "specificepithet:annulatus genus:Corallus" ; Times: 1
+	Query: "urosaurus irregularis" ; Times: 2
+	Query: "enhydrina" ; Times: 2
+	Query: "specificepithet:nigrofasciata genus:Leptodeira" ; Times: 1
+	Query: "specificepithet:punctatus genus:Bothrops" ; Times: 1
+	Query: "aubria" ; Times: 1
+	Query: "genus:Tripanurgos" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:guianensis genus:Phimophis" ; Times: 3
+	Query: "malaria" ; Times: 2
+	Query: "elaphe flavirufa" ; Times: 2
+	Query: "KU 890 class:reptilia" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:lineatus genus:Liophis" ; Times: 4
+	Query: "specificepithet:flavirufa genus:Elaphe" ; Times: 1
+	Query: "genus:euleptes" ; Times: 1
+	Query: ""pituophis melanoleucus melanoleucus"" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis" ; Times: 3
+	Query: "colubrinae KU" ; Times: 1
+	Query: "specificepithet:lineatus genus:Liophis" ; Times: 2
+	Query: "specificepithet:trachyblepharus genus:Quedenfeldtia" ; Times: 2
+	Query: "specificepithet:macrolepis genus:Leptotyphlops" ; Times: 2
+	Query: "heterodactylus" ; Times: 1
+	Query: "KU 890" ; Times: 1
+	Query: "specificepithet:cervinus genus:Siphlophis" ; Times: 1
+	Query: "amphisbaena ridleyi" ; Times: 1
+	Query: "Typhlops reticulatus" ; Times: 1
+	Query: "country:"French Guiana" genus:Helicops" ; Times: 1
+	Query: "country:"French Guiana" class:Reptilia" ; Times: 4
+	Query: "Simophis rhinostoma" ; Times: 2
+	Query: "Python curtus" ; Times: 4
+	Query: "country:"Colombia" specificepithet:lineatus genus:Liophis" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1524 download events in this period)
+Total number of records downloaded: 362 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 358
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: United States ; Times: 18
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 1
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-09 ; Times: 2
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-12 ; Times: 1
+	Date: 2015-06-16 ; Times: 8
+	Date: 2015-06-17 ; Times: 4
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-22 ; Times: 1
+	Date: 2015-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bahrain" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "iran" ; Times: 1
+	Query: "enhydrina" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "oman" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "crucifer" ; Times: 1
+	Query: "lebanon" ; Times: 1
+	Query: "Qatar" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "country:"Mexico" genus:Elgaria" ; Times: 1
+	Query: "lachesis muta" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Washington)" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "palestine" ; Times: 1
+	Query: "Python curtus" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "country:"paraguay" class:reptilia" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 515
+Total number of records retrieved from searches: 3904
+Number of download events that retrieved data from the resource: 121
+Total number of records downloaded: 51617
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 568
+Total number of records retrieved from searches: 4440
+Number of download events that retrieved data from the resource: 188
+Total number of records downloaded: 61718
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
