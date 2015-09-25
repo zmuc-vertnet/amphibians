@@ -1,0 +1,171 @@
+Report for Institution Code ZMUC, Resource Squamata
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 305
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 6
+	Country: France ; Times: 3
+	Country: Israel ; Times: 2
+	Country: Malaysia ; Times: 7
+	Country: Mexico ; Times: 3
+	Country: Morocco ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 56
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-04 ; Times: 5
+	Date: 2015-08-05 ; Times: 11
+	Date: 2015-08-07 ; Times: 1
+	Date: 2015-08-08 ; Times: 1
+	Date: 2015-08-10 ; Times: 3
+	Date: 2015-08-13 ; Times: 1
+	Date: 2015-08-16 ; Times: 1
+	Date: 2015-08-18 ; Times: 8
+	Date: 2015-08-19 ; Times: 9
+	Date: 2015-08-20 ; Times: 1
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-22 ; Times: 2
+	Date: 2015-08-23 ; Times: 2
+	Date: 2015-08-27 ; Times: 2
+	Date: 2015-08-28 ; Times: 31
+	Date: 2015-08-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "tumba country:"tanzania"" ; Times: 1
+	Query: "blomhoffi" ; Times: 1
+	Query: "Xenodon rhabdocephalus" ; Times: 2
+	Query: "year:1835" ; Times: 1
+	Query: "helicops carinicaudus" ; Times: 1
+	Query: "hypnale hypnale" ; Times: 22
+	Query: "KU Japalura" ; Times: 2
+	Query: "KU 8014" ; Times: 1
+	Query: "rhampholeon spectrum" ; Times: 2
+	Query: "rhinophis sanguineus" ; Times: 1
+	Query: "Apostolepis" ; Times: 4
+	Query: "mehelya capensis" ; Times: 2
+	Query: "Gonionotophis" ; Times: 1
+	Query: "Telescopus obtusus mappable:1" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "KU 9952" ; Times: 1
+	Query: "typhlops tenuis" ; Times: 1
+	Query: "Sphenomorphus abdictus" ; Times: 1
+	Query: "KU 3577" ; Times: 1
+	Query: "country:"Colombia" specificepithet:lineatus genus:Liophis institutioncode:ZMUC" ; Times: 1
+	Query: "loveridgelaps" ; Times: 1
+	Query: "uropeltis maculatus" ; Times: 1
+	Query: "echis carinatus" ; Times: 3
+	Query: "Eryx johnii" ; Times: 1
+	Query: "country:"Colombia" specificepithet:lineatus genus:Liophis" ; Times: 3
+	Query: "Eutropis macularia" ; Times: 1
+	Query: "Sibynophis geminatus" ; Times: 7
+	Query: "naultinus elegans" ; Times: 1
+	Query: "eryx conicus" ; Times: 2
+	Query: "Psammophylax multisquamis mappable:1" ; Times: 1
+	Query: "hymenochirus type:specimen" ; Times: 1
+	Query: "KU 9469" ; Times: 1
+	Query: "genus:Gonionotophis" ; Times: 1
+	Query: "Xenochrophis vittatus" ; Times: 3
+	Query: "toxicocalamus loriae" ; Times: 1
+	Query: "Python curtus" ; Times: 1
+	Query: "KU 5851" ; Times: 1
+	Query: "eirenis" ; Times: 2
+	Query: "quedenfeldtia" ; Times: 1
+	Query: "year:1859" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1138 download events in this period)
+Total number of records downloaded: 2330 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1269
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: France ; Times: 6
+	Country: Israel ; Times: 1
+	Country: Malaysia ; Times: 5
+	Country: Mexico ; Times: 3
+	Country: Morocco ; Times: 1
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 7
+	Country: Venezuela ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-04 ; Times: 3
+	Date: 2015-08-05 ; Times: 7
+	Date: 2015-08-07 ; Times: 1
+	Date: 2015-08-10 ; Times: 2
+	Date: 2015-08-13 ; Times: 1
+	Date: 2015-08-16 ; Times: 4
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-22 ; Times: 1
+	Date: 2015-08-24 ; Times: 2
+	Date: 2015-08-25 ; Times: 2
+	Date: 2015-08-26 ; Times: 1
+	Date: 2015-08-27 ; Times: 8
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-30 ; Times: 1
+	Date: 2015-08-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus" ; Times: 1
+	Query: "pituophis melanoleucus year >= 1700 year <= 2015" ; Times: 1
+	Query: "Liolaemus" ; Times: 1
+	Query: "rhampholeon spectrum" ; Times: 1
+	Query: "astrotia stokesii" ; Times: 1
+	Query: "Mabuya" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "year:1862" ; Times: 2
+	Query: "venezuela reptilia" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "oplurus" ; Times: 1
+	Query: "typhlops tenuis" ; Times: 1
+	Query: "venezuela" ; Times: 2
+	Query: "year:1858" ; Times: 1
+	Query: "Agama hispida" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "Tarentola mauritanica country:"Tunisia"" ; Times: 1
+	Query: "country:"peru"" ; Times: 1
+	Query: "Sibynophis geminatus" ; Times: 5
+	Query: "Morelia class:Reptilia year >= 1400 year <= 2015" ; Times: 1
+	Query: "Psammophylax multisquamis mappable:1" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "quedenfeldtia" ; Times: 1
+	Query: "year >= 1755 year <= 1826" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+	Query: "year:1859" ; Times: 6
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 84
+Total number of records retrieved from searches: 305
+Number of download events that retrieved data from the resource: 41
+Total number of records downloaded: 2330
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 84
+Total number of records retrieved from searches: 305
+Number of download events that retrieved data from the resource: 41
+Total number of records downloaded: 2330
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
