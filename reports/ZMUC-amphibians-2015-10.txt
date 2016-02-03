@@ -1,0 +1,137 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 145
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: Thailand ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-03 ; Times: 12
+	Date: 2015-10-10 ; Times: 4
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 3
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-24 ; Times: 4
+	Date: 2015-10-23 ; Times: 12
+	Date: 2015-10-22 ; Times: 2
+	Date: 2015-10-21 ; Times: 3
+	Date: 2015-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lineatus genus:Liophis country:&#34;Colombia&#34; institutioncode:ZMUC" ; Times: 1
+	Query: "pituophis deppei" ; Times: 2
+	Query: "Mehelya capensis" ; Times: 1
+	Query: "Dryocalamus" ; Times: 4
+	Query: "Pseudaspis cana" ; Times: 1
+	Query: "specificepithet:lineatus genus:Liophis country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "specificepithet:lineatus genus:Liophis country:&#34;Colombia&#34;" ; Times: 4
+	Query: "polygrammicus" ; Times: 2
+	Query: "Corallus caninus" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Tropidodipsas fasciata" ; Times: 1
+	Query: "genus:Helicops country:&#34;Colombia&#34;" ; Times: 1
+	Query: "ku 9952" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "leptodeira polysticta" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 2
+	Query: "specificepithet:lineatus genus:Liophis country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "specificepithet:lineatus genus:Liophis country:&#34;Guyana&#34;" ; Times: 3
+	Query: "specificepithet:degenhardtii genus:Stenorrhina" ; Times: 2
+	Query: "specificepithet:guianensis genus:Phimophis" ; Times: 2
+	Query: "specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "gloydius intermedius" ; Times: 1
+	Query: "genus:Boa country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "bitis gabonica" ; Times: 1
+	Query: "Bothrops punctatus" ; Times: 1
+	Query: "adenorhinos" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "specificepithet:lineatus genus:Liophis country:&#34;Guyana&#34; institutioncode:ZMUC" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:degenhardtii genus:Stenorrhina country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "python sebae" ; Times: 1
+	Query: "specificepithet:lineatus genus:Liophis country:&#34;Suriname&#34;" ; Times: 2
+	Query: "genus:Corallus country:&#34;Ecuador&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 823 download events in this period)
+Total number of records downloaded: 375
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 17
+	Country: Chile ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 2
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 3
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-30 ; Times: 2
+	Date: 2015-10-29 ; Times: 4
+	Date: 2015-10-27 ; Times: 3
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-22 ; Times: 2
+	Date: 2015-10-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "Ramphotyphlops braminus" ; Times: 1
+	Query: "Atractus crassicaudatus" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "family:GYMNOPHTHALMIDAE" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "tantilla coronata" ; Times: 1
+	Query: "Chlamydosaurus kingii" ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Pelodiscus sinensis" ; Times: 1
+	Query: "elapidae mexico" ; Times: 1
+	Query: "dendroaspis angusticeps" ; Times: 2
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "bitis gabonica" ; Times: 3
+	Query: "thamnophis radix" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "anolis auratus" ; Times: 1
+	Query: "reptilia country:&#34;cook islands&#34;" ; Times: 1
+
+
+End of report.
