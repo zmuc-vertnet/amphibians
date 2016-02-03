@@ -1,0 +1,154 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 300
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 50
+	Country: Portugal ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 4
+	Date: 2015-11-24 ; Times: 5
+	Date: 2015-11-30 ; Times: 4
+	Date: 2015-11-11 ; Times: 2
+	Date: 2015-11-13 ; Times: 1
+	Date: 2015-11-12 ; Times: 1
+	Date: 2015-11-17 ; Times: 3
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-06 ; Times: 6
+	Date: 2015-11-21 ; Times: 5
+	Date: 2015-11-22 ; Times: 2
+	Date: 2015-11-23 ; Times: 4
+	Date: 2015-11-09 ; Times: 5
+	Date: 2015-11-02 ; Times: 3
+	Date: 2015-11-25 ; Times: 6
+	Date: 2015-11-26 ; Times: 1
+	Date: 2015-11-27 ; Times: 4
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-07 ; Times: 2
+	Date: 2015-11-04 ; Times: 1
+	Date: 2015-11-05 ; Times: 2
+	Date: 2015-11-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Neurergus kaiseri" ; Times: 1
+	Query: "Pituophis melanoleucus mugitus" ; Times: 1
+	Query: "Elaphe porphyracea" ; Times: 2
+	Query: "Gastropyxis" ; Times: 1
+	Query: "Xenodon rhabdocephalus" ; Times: 1
+	Query: "polemon" ; Times: 2
+	Query: "class:Reptilia (Trigonocephalus)" ; Times: 1
+	Query: "dendroaspis" ; Times: 2
+	Query: "Zootoca vivipara" ; Times: 2
+	Query: "specificepithet:ravergieri class:Reptilia (Coluber )" ; Times: 1
+	Query: "siphlophis cervinus" ; Times: 1
+	Query: "anolis roosevelti" ; Times: 4
+	Query: "genus:Hypnale class:Reptilia" ; Times: 1
+	Query: "kinyongia" ; Times: 1
+	Query: "OPISTHOTROPIS" ; Times: 1
+	Query: "liophis triscalis" ; Times: 1
+	Query: "Draco maculatus" ; Times: 4
+	Query: "genus:Leptotyphlops country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Adolfus" ; Times: 3
+	Query: "trimeresurus malabaricus" ; Times: 2
+	Query: "Ialtris" ; Times: 1
+	Query: "KU 9939" ; Times: 1
+	Query: "uropeltis maculatus" ; Times: 1
+	Query: "oligodon arnensis" ; Times: 2
+	Query: "Mertensophryne" ; Times: 2
+	Query: "specificepithet:nummifer class:Reptilia (Coluber )" ; Times: 1
+	Query: "homoroselaps" ; Times: 1
+	Query: "rhinotyphlops acutus" ; Times: 1
+	Query: "uropeltis melanogaster" ; Times: 1
+	Query: "Daboia" ; Times: 2
+	Query: "Chthonerpeton braestrupi" ; Times: 1
+	Query: "amphiesma venningi" ; Times: 2
+	Query: "dispholidus typus ku" ; Times: 1
+	Query: "trimeresurus purpureomaculatus" ; Times: 1
+	Query: "Sibynomorphus turgidus" ; Times: 1
+	Query: "echis carinatus india" ; Times: 2
+	Query: "KU 9779" ; Times: 1
+	Query: "purpureomaculatus" ; Times: 1
+	Query: "python regius KU" ; Times: 1
+	Query: "venningi" ; Times: 6
+	Query: "leptotyphlops macrolepis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 751 download events in this period)
+Total number of records downloaded: 1534
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Mexico ; Times: 1
+	Country: Panama ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Belgium ; Times: 4
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-24 ; Times: 1
+	Date: 2015-11-20 ; Times: 3
+	Date: 2015-11-23 ; Times: 1
+	Date: 2015-11-14 ; Times: 1
+	Date: 2015-11-21 ; Times: 1
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-08 ; Times: 1
+	Date: 2015-11-30 ; Times: 1
+	Date: 2015-11-17 ; Times: 3
+	Date: 2015-11-11 ; Times: 3
+	Date: 2015-11-02 ; Times: 1
+	Date: 2015-11-25 ; Times: 7
+	Date: 2015-11-13 ; Times: 1
+	Date: 2015-11-05 ; Times: 1
+	Date: 2015-11-06 ; Times: 4
+	Date: 2015-11-07 ; Times: 1
+	Date: 2015-11-22 ; Times: 1
+	Date: 2015-11-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Micrurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Dromicodryas bernieri" ; Times: 1
+	Query: "dendroaspis" ; Times: 1
+	Query: "specificepithet:ravergieri class:Reptilia (Coluber )" ; Times: 1
+	Query: "class:Reptilia country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "madagascar" ; Times: 1
+	Query: "country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "class:Amphibia country:&#34;Peru&#34;" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "genus:Crotalus" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "Callisaurus" ; Times: 2
+	Query: "specificepithet:algirus class:Reptilia (Coluber )" ; Times: 1
+	Query: "elgaria" ; Times: 1
+	Query: "Testudines" ; Times: 1
+	Query: "afrixalus fulvovittatus" ; Times: 1
+	Query: "Farancia abacura class:Reptilia mappable:1" ; Times: 1
+	Query: "&#34;laticauda colubrina&#34; mappable:1" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "zealand year &gt;= 1820 year &lt;= 1950" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:nummifer class:Reptilia (Coluber )" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "panama colubridae" ; Times: 1
+	Query: "Hemiaspis signata" ; Times: 1
+	Query: "purpureomaculatus" ; Times: 3
+	Query: "genus:Calamaria" ; Times: 1
+
+
+End of report.
