@@ -1,0 +1,149 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 333
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 44
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: Serbia ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Switzerland ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 5
+	Date: 2015-12-08 ; Times: 2
+	Date: 2015-12-16 ; Times: 1
+	Date: 2015-12-03 ; Times: 3
+	Date: 2015-12-01 ; Times: 3
+	Date: 2015-12-27 ; Times: 8
+	Date: 2015-12-07 ; Times: 13
+	Date: 2015-12-06 ; Times: 9
+	Date: 2015-12-05 ; Times: 4
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-20 ; Times: 6
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-22 ; Times: 2
+	Date: 2015-12-25 ; Times: 2
+	Date: 2015-12-17 ; Times: 2
+	Date: 2015-12-26 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pseudopus apodus" ; Times: 8
+	Query: "Elaphe porphyracea" ; Times: 5
+	Query: "Gehyra vorax" ; Times: 2
+	Query: "Rhampholeon" ; Times: 1
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "Rieppeleon brevicaudatus" ; Times: 1
+	Query: "Urosaurus irregularis" ; Times: 1
+	Query: "Hoplodactylus" ; Times: 4
+	Query: "genus:Sibynomorphus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Xenodermus javanicus" ; Times: 1
+	Query: "Cordylus beraduccii" ; Times: 1
+	Query: "Lycophidion capense capense" ; Times: 2
+	Query: "specificepithet:triangulum genus:Lampropeltis country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "vipera aspis" ; Times: 1
+	Query: "genus:Pyxicephalus specificepithet:adspersus" ; Times: 1
+	Query: "Grayia ornata" ; Times: 1
+	Query: "Draco fimbriatus" ; Times: 1
+	Query: "laticauda laticaudata" ; Times: 2
+	Query: "Hydrosaurus" ; Times: 2
+	Query: "Oligodon albocinctus" ; Times: 2
+	Query: "Gonyosoma" ; Times: 1
+	Query: "genus:Tantilla country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:natrix genus:Natrix mappable:1" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 2
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "Typhlops punctatus" ; Times: 1
+	Query: "Elaphe cantoris" ; Times: 2
+	Query: "chrysopelea" ; Times: 2
+	Query: "Elaphe dione" ; Times: 1
+	Query: "Micrurus bogerti" ; Times: 1
+	Query: "genus:Neurergus specificepithet:crocatus" ; Times: 1
+	Query: "Lycophidion capense" ; Times: 4
+	Query: "Elaphe scalaris" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Draco lineatus" ; Times: 1
+	Query: "natrix maura" ; Times: 1
+	Query: "Coluber caspius" ; Times: 1
+	Query: "xenodermus" ; Times: 2
+	Query: "Pseustes sulphureus" ; Times: 1
+	Query: "Uromastyx acanthinura" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 889 download events in this period)
+Total number of records downloaded: 345
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 21
+	Country: Germany ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-16 ; Times: 2
+	Date: 2015-12-03 ; Times: 1
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-07 ; Times: 7
+	Date: 2015-12-06 ; Times: 5
+	Date: 2015-12-20 ; Times: 5
+	Date: 2015-12-30 ; Times: 1
+	Date: 2015-12-17 ; Times: 4
+	Date: 2015-12-27 ; Times: 1
+	Date: 2015-12-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:natrix genus:Natrix mappable:1" ; Times: 1
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "Epicrates inornatus" ; Times: 1
+	Query: "Nerodia cyclopion" ; Times: 1
+	Query: "Vipera lebetina" ; Times: 1
+	Query: "Phelsuma lineata" ; Times: 1
+	Query: "Lampropeltis getulus" ; Times: 1
+	Query: "Elaphe longissima" ; Times: 1
+	Query: "Grayia ornata" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "Leptodeira frenata" ; Times: 1
+	Query: "rio grande do sul" ; Times: 1
+	Query: "Uromacer oxyrhynchus" ; Times: 1
+	Query: "Masticophis flagellum" ; Times: 1
+	Query: "Sphenomorphus abdictus" ; Times: 1
+	Query: "pseudopus apodus" ; Times: 1
+	Query: "Uromastyx aegyptia" ; Times: 1
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "Natrix tessellata" ; Times: 1
+	Query: "chrysopelea ornata" ; Times: 1
+	Query: "Phelsuma laticauda" ; Times: 1
+	Query: "Draco taeniopterus" ; Times: 1
+	Query: "chrysopelea" ; Times: 1
+	Query: "Elaphe quadrivirgata" ; Times: 1
+	Query: "Gehyra" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "order:Squamata country:&#34;Venezuela&#34; mappable:1" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 2
+	Query: "Aprasia striolata" ; Times: 1
+	Query: "sceloporus variabilis" ; Times: 1
+
+
+End of report.
