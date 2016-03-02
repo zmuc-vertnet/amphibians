@@ -1,0 +1,116 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 858
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 35
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 19
+	Country: Puerto Rico ; Times: 3
+	Country: Switzerland ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-12 ; Times: 2
+	Date: 2016-02-22 ; Times: 5
+	Date: 2016-02-23 ; Times: 3
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-18 ; Times: 3
+	Date: 2016-02-19 ; Times: 6
+	Date: 2016-02-07 ; Times: 4
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-01 ; Times: 3
+	Date: 2016-02-13 ; Times: 4
+	Date: 2016-02-10 ; Times: 20
+	Date: 2016-02-15 ; Times: 9
+	Date: 2016-02-16 ; Times: 1
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-14 ; Times: 2
+	Date: 2016-02-06 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "bitis parviocula" ; Times: 1
+	Query: "Arthroleptis reichei" ; Times: 1
+	Query: "Dryocalamus" ; Times: 4
+	Query: "bothrochilus boa" ; Times: 2
+	Query: "Enhydris indica" ; Times: 1
+	Query: "brachyorrhos" ; Times: 1
+	Query: "Calliophis gracilis" ; Times: 2
+	Query: "anolis roosevelti" ; Times: 3
+	Query: "vipera aspis" ; Times: 1
+	Query: "chrysopelea india" ; Times: 8
+	Query: "Uropeltis maculatus" ; Times: 1
+	Query: "Thalassophis anomalus" ; Times: 2
+	Query: "Dendroaspis polylepis" ; Times: 2
+	Query: "specificepithet:flavirufa" ; Times: 1
+	Query: "viperidae country:&#34;Colombia&#34;" ; Times: 1
+	Query: "hoplodactylus" ; Times: 1
+	Query: "Ahaetulla dispar" ; Times: 4
+	Query: "Hyperolius benguellensis" ; Times: 2
+	Query: "Hoplophryne rogersi" ; Times: 1
+	Query: "Hydrophis bituberculatus" ; Times: 1
+	Query: "dendroaspis polylepis" ; Times: 1
+	Query: "coronella austriaca" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis" ; Times: 2
+	Query: "hydrophis bituberculatus" ; Times: 1
+	Query: "gbifdatasetid:cb643105-2e6b-403d-a23b-2c8128d1f97c" ; Times: 1
+	Query: "chrysopelea bengal" ; Times: 1
+	Query: "chrysopelea institutioncode:ZMUC" ; Times: 10
+	Query: "specificepithet:guianensis genus:Phimophis country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "bothrochilus" ; Times: 1
+	Query: "Oxyrhopus doliatus" ; Times: 1
+	Query: "pseudaspis" ; Times: 1
+	Query: "genus:Adenorhinos institutioncode:ZMUC" ; Times: 3
+	Query: "Siphlophis cervinus" ; Times: 1
+	Query: "alsophis ater" ; Times: 1
+	Query: "thrasops" ; Times: 1
+	Query: "Afrixalus delicatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 512 download events in this period)
+Total number of records downloaded: 554
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-17 ; Times: 3
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-19 ; Times: 4
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-06 ; Times: 1
+	Date: 2016-02-16 ; Times: 1
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:reptilia country:Haiti" ; Times: 1
+	Query: "Gymnophiona" ; Times: 1
+	Query: "ahaetulla" ; Times: 2
+	Query: "crotalus atrox" ; Times: 2
+	Query: "spilotes pullatus" ; Times: 1
+	Query: "anolis mappable:1" ; Times: 1
+	Query: "Philodryas" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Tylototriton verrucosus" ; Times: 1
+	Query: "class:amphibia country:Dominican Republic" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "class:reptilia country:Dominican Republic" ; Times: 1
+	Query: "genus:thamnophis" ; Times: 1
+
+
+End of report.
