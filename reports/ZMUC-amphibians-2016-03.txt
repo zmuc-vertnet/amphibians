@@ -1,0 +1,60 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 67
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-14 ; Times: 3
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-08 ; Times: 3
+	Date: 2016-03-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:Gemonensis class:Reptilia country:&#34;Greece&#34;" ; Times: 1
+	Query: "genus:Leptopelis specificepithet:vermiculatus" ; Times: 1
+	Query: "Zamenis longissimus" ; Times: 1
+	Query: "psammophis sibilans" ; Times: 1
+	Query: "naja haje" ; Times: 1
+	Query: "zootoca vivipara" ; Times: 1
+	Query: "venningi" ; Times: 1
+	Query: "agamidae (sumatra)" ; Times: 1
+	Query: "chersodromus liebmanni" ; Times: 1
+	Query: "Rhampholeon spectrum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 230 download events in this period)
+Total number of records downloaded: 256
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Kenya ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-04 ; Times: 3
+	Date: 2016-03-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:amphibia country:&#34;Uganda&#34;" ; Times: 1
+	Query: "agamidae (sumatra)" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "agamidae (java)" ; Times: 1
+	Query: "anolis hastypestatus:1" ; Times: 1
+
+
+End of report.
