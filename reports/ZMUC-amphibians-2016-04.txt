@@ -1,0 +1,140 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 72
+Number of records retrieved in searches: 318
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 34
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 6
+	Country: Morocco ; Times: 2
+	Country: Sweden ; Times: 2
+	Country: Russia ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 16
+	Date: 2016-04-09 ; Times: 5
+	Date: 2016-04-19 ; Times: 1
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-27 ; Times: 4
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-06 ; Times: 16
+	Date: 2016-04-05 ; Times: 11
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-23 ; Times: 2
+	Date: 2016-04-26 ; Times: 4
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-13 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:braminus genus:Ramphotyphlops family:Typhlopidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Telescopus fallax" ; Times: 1
+	Query: "Elaphe taeniura" ; Times: 4
+	Query: "KU 3756" ; Times: 1
+	Query: "Zamenis longissimus" ; Times: 1
+	Query: "Elapsoidea boulengeri" ; Times: 1
+	Query: "Aparallactus capensis" ; Times: 2
+	Query: "genus:pseudocerastes" ; Times: 1
+	Query: "testudines institutioncode:ZMUC" ; Times: 2
+	Query: "Elaphe dione" ; Times: 2
+	Query: "stegonotus ku" ; Times: 1
+	Query: "Cordylus beraducci" ; Times: 1
+	Query: "tantilla country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Meizodon semiornatus" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "zfmk" ; Times: 2
+	Query: "Pseudocalotes" ; Times: 2
+	Query: "eryx jaculus" ; Times: 2
+	Query: "elaphe subocularis" ; Times: 1
+	Query: "mabuya megalura" ; Times: 1
+	Query: "dinodon rufozonatum" ; Times: 1
+	Query: "megalura" ; Times: 1
+	Query: "genus:Leptopelis specificepithet:uluguruensis" ; Times: 1
+	Query: "Brachyorrhus" ; Times: 1
+	Query: "reptilia institutioncode:ZMUC" ; Times: 1
+	Query: "Stegonotus modestus" ; Times: 5
+	Query: "Natrix tessellata 1" ; Times: 2
+	Query: "Brachyorrhos" ; Times: 1
+	Query: "eryx miliaris" ; Times: 1
+	Query: "coronella austriaca" ; Times: 4
+	Query: "Elapsoidea loveridgei" ; Times: 1
+	Query: "hydrophis coggeri" ; Times: 1
+	Query: "brachyorrhos" ; Times: 1
+	Query: "type:specimen genus:Oligodon country:&#34;China&#34;" ; Times: 1
+	Query: "Oligodon taeniolatus" ; Times: 2
+	Query: "Stegonotus parvus" ; Times: 6
+	Query: "Spalerosophis diadema" ; Times: 1
+	Query: "eublepharis" ; Times: 1
+	Query: "boiga Trigonata" ; Times: 2
+	Query: "amphibians Sulawesi" ; Times: 1
+	Query: "amphibians sulawesi" ; Times: 3
+	Query: "ptychadena uzungwensis" ; Times: 1
+	Query: "makira type:specimen class:reptilia" ; Times: 1
+	Query: "quedenfeldtia" ; Times: 2
+	Query: "Naja oxiana" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1312 download events in this period)
+Total number of records downloaded: 268
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 6
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: United Arab Emirates ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-13 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-27 ; Times: 4
+	Date: 2016-04-15 ; Times: 2
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-08 ; Times: 3
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-21 ; Times: 3
+	Date: 2016-04-26 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "class:Amphibia country:&#34;Uganda&#34;" ; Times: 1
+	Query: "kassina" ; Times: 1
+	Query: "Brachyorrhos" ; Times: 1
+	Query: "ptychadena anchietae" ; Times: 2
+	Query: "Gonocephalus" ; Times: 1
+	Query: "hoplocephalus bitorquatus" ; Times: 3
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "cyrtodactylus" ; Times: 1
+	Query: "Eublepharis" ; Times: 1
+	Query: "Brachyorrhus" ; Times: 1
+	Query: "brachyorrhos" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "Bothrops asper" ; Times: 2
+	Query: "ptychadena uzungwensis" ; Times: 1
+	Query: "Nactus" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+
+
+End of report.
