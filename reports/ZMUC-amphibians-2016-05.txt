@@ -1,0 +1,93 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 269
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 11
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 3
+	Date: 2016-05-19 ; Times: 1
+	Date: 2016-05-17 ; Times: 2
+	Date: 2016-05-16 ; Times: 3
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-04 ; Times: 2
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-26 ; Times: 1
+	Date: 2016-05-31 ; Times: 10
+	Date: 2016-05-30 ; Times: 3
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Zootoca vivipara" ; Times: 1
+	Query: "elaphe subocularis" ; Times: 1
+	Query: "cylindrophiidae" ; Times: 2
+	Query: "calliophis gracilis" ; Times: 3
+	Query: "Bungarus andamanensis" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "specificepithet:bobirensis genus:hyperolius" ; Times: 1
+	Query: "class:reptilia country:&#34;Zambia&#34;" ; Times: 1
+	Query: "Anguis" ; Times: 9
+	Query: "Hydrophis spiralis" ; Times: 1
+	Query: "nasutus Kenya" ; Times: 1
+	Query: "shrevei" ; Times: 2
+	Query: "vipera georgia" ; Times: 1
+	Query: "chersodromus liebmanni" ; Times: 1
+	Query: "heterodermus" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 1
+	Query: "gloydius intermedius" ; Times: 1
+	Query: "tropidophiidae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 327 download events in this period)
+Total number of records downloaded: 721
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 3
+	Date: 2016-05-19 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 1
+	Date: 2016-05-30 ; Times: 2
+	Date: 2016-05-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "class:reptilia country:&#34;philippines&#34;" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "leptophis diplotropis" ; Times: 1
+	Query: "Anguis" ; Times: 2
+	Query: "stegonotus" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 1
+
+
+End of report.
