@@ -1,0 +1,199 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 96
+Number of records retrieved in searches: 635
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 5
+	Country: United Kingdom ; Times: 8
+	Country: Israel ; Times: 2
+	Country: Australia ; Times: 13
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 13
+	Country: United States ; Times: 27
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Japan ; Times: 19
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 5
+	Date: 2016-06-23 ; Times: 13
+	Date: 2016-06-22 ; Times: 5
+	Date: 2016-06-21 ; Times: 11
+	Date: 2016-06-19 ; Times: 17
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-20 ; Times: 4
+	Date: 2016-06-07 ; Times: 5
+	Date: 2016-06-06 ; Times: 2
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-03 ; Times: 7
+	Date: 2016-06-02 ; Times: 1
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-10 ; Times: 2
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-04 ; Times: 5
+	Date: 2016-06-09 ; Times: 10
+	Date: 2016-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Psammophylax multisquamis" ; Times: 1
+	Query: "Hydrophis sibauensis" ; Times: 1
+	Query: "Telescopus class:Reptilia" ; Times: 3
+	Query: "Hydrophis pachycercos" ; Times: 1
+	Query: "Kolpophis annandalei" ; Times: 1
+	Query: "Hydrophis semperi" ; Times: 1
+	Query: "Hydrophis lapemoides" ; Times: 1
+	Query: "Bungarus flaviceps" ; Times: 1
+	Query: "neurergus" ; Times: 1
+	Query: "Bungarus andamanensis" ; Times: 1
+	Query: "dendroaspis jamesoni" ; Times: 2
+	Query: "polemon" ; Times: 1
+	Query: "Calliophis gracilis" ; Times: 2
+	Query: "Xenodermus javanicus" ; Times: 8
+	Query: "BOIGA IRREGULARIS MANUS" ; Times: 1
+	Query: "Ogmodon" ; Times: 2
+	Query: "Echis ocellatus" ; Times: 1
+	Query: "trimeresurus labialis type:specimen" ; Times: 1
+	Query: "eryx jaculus" ; Times: 3
+	Query: "elaphe subocularis" ; Times: 1
+	Query: "Thalassophis anomalus" ; Times: 1
+	Query: "Bungarus lividus" ; Times: 1
+	Query: "Hydrophis belcheri" ; Times: 1
+	Query: "Ogmodon vitianus" ; Times: 4
+	Query: "Hydrophis coggeri" ; Times: 1
+	Query: "Hydrophis spiralis" ; Times: 1
+	Query: "hoplodactylus" ; Times: 3
+	Query: "Python molurus " ; Times: 2
+	Query: "Hydrophis parviceps" ; Times: 1
+	Query: "Reptilia 4058" ; Times: 4
+	Query: "Hydrophis bituberculatus" ; Times: 1
+	Query: "lampropeltis polyzona" ; Times: 1
+	Query: "Homoroselaps lacteus" ; Times: 1
+	Query: "Micrurus bogerti" ; Times: 2
+	Query: "eryx jaculus jaculus" ; Times: 1
+	Query: "Hydrophis caerulescens" ; Times: 1
+	Query: "Reptilia 6124" ; Times: 1
+	Query: "echis pyramidum type:specimen" ; Times: 1
+	Query: "Xenodermus" ; Times: 1
+	Query: "specificepithet:Jamesoni genus:Dendroaspis" ; Times: 2
+	Query: "Reptilia 6606" ; Times: 1
+	Query: "Cnemaspis" ; Times: 1
+	Query: "pseudocerastes persicus" ; Times: 1
+	Query: "Psammophis angolensis" ; Times: 4
+	Query: "Varanus niloticus " ; Times: 1
+	Query: "Micrurus ruatanus" ; Times: 1
+	Query: "uromastyx aegyptia" ; Times: 1
+	Query: "Hydrophis atriceps" ; Times: 1
+	Query: "Anolis petersii" ; Times: 2
+	Query: "Micrurus psyches" ; Times: 1
+	Query: "Hydrophis lamberti" ; Times: 1
+	Query: "Atractus badius" ; Times: 1
+	Query: "Hydrophis klossi" ; Times: 1
+	Query: "Naja katiensis" ; Times: 1
+	Query: "zfmk" ; Times: 1
+	Query: "Salomonelaps" ; Times: 1
+	Query: "Tropiduridae 1" ; Times: 2
+	Query: "Hydrophis obscurus" ; Times: 1
+	Query: "Indotestudo elongata" ; Times: 1
+	Query: "polystictus KU" ; Times: 1
+	Query: "trimeresurus cantori type:specimen" ; Times: 1
+	Query: "ovophis monticola type:specimen" ; Times: 1
+	Query: "Micrurus bocourti" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "Reptilia 3460" ; Times: 1
+	Query: "Naja oxiana" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 1052 download events in this period)
+Total number of records downloaded: 2005
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 5
+	Country: United States ; Times: 9
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Japan ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-23 ; Times: 6
+	Date: 2016-06-22 ; Times: 5
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-20 ; Times: 5
+	Date: 2016-06-16 ; Times: 4
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-14 ; Times: 1
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-03 ; Times: 1
+	Date: 2016-06-02 ; Times: 2
+	Date: 2016-06-05 ; Times: 1
+	Date: 2016-06-21 ; Times: 3
+	Date: 2016-06-19 ; Times: 5
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-07 ; Times: 4
+	Date: 2016-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Psammophylax multisquamis" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "Bothriechis" ; Times: 1
+	Query: "Hydrophis lapemoides" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "Micrurus psyches" ; Times: 1
+	Query: "Tylototriton" ; Times: 2
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "Emydocephalus annulatus" ; Times: 1
+	Query: "Calliophis gracilis" ; Times: 1
+	Query: "Hydrophis klossi" ; Times: 1
+	Query: "Ctenosaura similis" ; Times: 1
+	Query: "Thalassophis anomalus" ; Times: 1
+	Query: "class:Reptilia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "trimorphodon" ; Times: 1
+	Query: "Hydrophis coggeri" ; Times: 1
+	Query: "Hydrophis spiralis" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "Homoroselaps lacteus" ; Times: 2
+	Query: "Hydrophis parviceps" ; Times: 1
+	Query: "Hydrophis belcheri" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "moloch horridus" ; Times: 1
+	Query: "Hydrophis caerulescens" ; Times: 1
+	Query: "echis pyramidum type:specimen" ; Times: 1
+	Query: "Mauremys" ; Times: 1
+	Query: "Hydrophis torquatus" ; Times: 2
+	Query: "type:specimen genus:Anolis" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "Sceloporus variabilis" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "order:Squamata class:Reptilia country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "Micrurus ruatanus" ; Times: 1
+	Query: "polychrus marmoratus" ; Times: 1
+	Query: "Naja katiensis" ; Times: 1
+	Query: "micrurus fulvius year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "order:Squamata class:Reptilia country:&#34;Papua new guinea&#34;" ; Times: 1
+	Query: "Hydrophis obscurus" ; Times: 1
+	Query: "Rhadinaea" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "ovophis monticola type:specimen" ; Times: 1
+	Query: "Hydrophis atriceps" ; Times: 1
+	Query: "Hydrophis lamberti" ; Times: 1
+	Query: "porthidium lansbergii type:specimen" ; Times: 1
+	Query: "Naja oxiana" ; Times: 1
+
+
+End of report.
