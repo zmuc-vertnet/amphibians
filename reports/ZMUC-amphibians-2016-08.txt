@@ -1,0 +1,119 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 115
+Number of records retrieved in searches: 656
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 35
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 59
+	Country: United Kingdom ; Times: 13
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-28 ; Times: 24
+	Date: 2016-08-16 ; Times: 2
+	Date: 2016-08-17 ; Times: 2
+	Date: 2016-08-18 ; Times: 4
+	Date: 2016-08-19 ; Times: 2
+	Date: 2016-08-27 ; Times: 34
+	Date: 2016-08-26 ; Times: 7
+	Date: 2016-08-23 ; Times: 3
+	Date: 2016-08-22 ; Times: 7
+	Date: 2016-08-25 ; Times: 12
+	Date: 2016-08-24 ; Times: 15
+	Date: 2016-08-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "anolis petersii" ; Times: 1
+	Query: "Kolpophis annandalei" ; Times: 4
+	Query: "Bungarus flaviceps" ; Times: 1
+	Query: "Hydrops triangularis" ; Times: 1
+	Query: "ZMUC R6527" ; Times: 1
+	Query: "ZMUC Nigeria" ; Times: 6
+	Query: "Anolis auratus 1" ; Times: 3
+	Query: "Causus resimus" ; Times: 1
+	Query: "Lampropeltis polyzona" ; Times: 2
+	Query: "oligodon taeniolatus" ; Times: 1
+	Query: "genus:pseudopus" ; Times: 1
+	Query: "pituophis melanoleucus mugitus" ; Times: 1
+	Query: "ZMUC R601593" ; Times: 1
+	Query: "ZMUC R65510" ; Times: 1
+	Query: "Thalassophis anomalus" ; Times: 1
+	Query: "bungarus flaviceps" ; Times: 1
+	Query: "genus:anilius" ; Times: 1
+	Query: "trimeresurus malabaricus" ; Times: 8
+	Query: "anguis fragilis" ; Times: 3
+	Query: "Gloydius intermedius" ; Times: 3
+	Query: "Micrurus ancoralis" ; Times: 6
+	Query: "Micrurus mipartitus" ; Times: 52
+	Query: "ZMUC R68247" ; Times: 1
+	Query: "Elapsoidea loveridgei" ; Times: 1
+	Query: "Trimeresurus labialis" ; Times: 1
+	Query: "Thalassophis" ; Times: 1
+	Query: "pituophis mugitus" ; Times: 1
+	Query: "xylophis" ; Times: 2
+	Query: "ahaetulla dispar" ; Times: 1
+	Query: "rhinotyphlops acutus" ; Times: 1
+	Query: "calliophis nigriscens" ; Times: 2
+	Query: "boiga trigonata" ; Times: 2
+	Query: "ZMUC R65509" ; Times: 1
+	Query: "Micrurus bocourti" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 924 download events in this period)
+Total number of records downloaded: 1974
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-28 ; Times: 1
+	Date: 2016-08-17 ; Times: 2
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-21 ; Times: 2
+	Date: 2016-08-30 ; Times: 4
+	Date: 2016-08-31 ; Times: 1
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "anolis petersii" ; Times: 2
+	Query: "phrynosoma" ; Times: 1
+	Query: "anolis dominicensis" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "Clelia clelia (Clelia AND clelia)" ; Times: 1
+	Query: "Hydrops triangularis" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "anolis cybotes" ; Times: 1
+	Query: "type:specimen family:Hyperoliidae" ; Times: 1
+	Query: "anolis equestris" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "family:Uropeltidae" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "anolis marmoratus marmoratus" ; Times: 1
+	Query: "Mitchelli" ; Times: 1
+	Query: "Pituophis catenifer" ; Times: 2
+	Query: "Anolis" ; Times: 1
+	Query: "Contia" ; Times: 1
+
+
+End of report.
