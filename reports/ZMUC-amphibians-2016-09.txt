@@ -1,0 +1,79 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 47
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 7
+	Country: Portugal ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 3
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 2
+	Date: 2016-09-12 ; Times: 2
+	Date: 2016-09-11 ; Times: 3
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-09 ; Times: 3
+	Date: 2016-09-05 ; Times: 1
+	Date: 2016-09-06 ; Times: 4
+	Date: 2016-09-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:Rio de Oro country:&#34;argentina&#34;" ; Times: 1
+	Query: "Plectrurus" ; Times: 1
+	Query: "Porthidium lansbergii" ; Times: 1
+	Query: "Meizodon" ; Times: 2
+	Query: "Lampropeltis gentilis triangulum" ; Times: 1
+	Query: "Macroprotodon cucullatus 1" ; Times: 1
+	Query: "hemidactylus garnotti" ; Times: 1
+	Query: "Anolis auratus 1" ; Times: 1
+	Query: "genus:pseudocerastes" ; Times: 2
+	Query: "Thalassophis" ; Times: 1
+	Query: "specificepithet:schneideri genus:bitis" ; Times: 1
+	Query: "Naja oxiana" ; Times: 3
+	Query: "specificepithet:lebetina genus:vipera" ; Times: 1
+	Query: "Salea" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 811 download events in this period)
+Total number of records downloaded: 2182
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 2
+	Date: 2016-09-12 ; Times: 2
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-05 ; Times: 4
+	Date: 2016-09-01 ; Times: 1
+	Date: 2016-09-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Plectrurus" ; Times: 1
+	Query: "Porthidium lansbergii" ; Times: 1
+	Query: "uropeltidae" ; Times: 1
+	Query: "uropeltis" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "type:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "anolis tropidonotus" ; Times: 1
+	Query: "Rhinophis" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "clelia" ; Times: 2
+
+
+End of report.
