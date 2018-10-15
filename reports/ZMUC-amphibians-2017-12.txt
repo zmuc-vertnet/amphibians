@@ -1,0 +1,151 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 132
+Number of records retrieved in searches: 1374
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 80
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: China ; Times: 37
+	Country: Unknown ; Times: 1
+	Country: Italy ; Times: 1
+	Country: South Korea ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 5
+	Date: 2017-12-17 ; Times: 2
+	Date: 2017-12-14 ; Times: 12
+	Date: 2017-12-15 ; Times: 7
+	Date: 2017-12-12 ; Times: 7
+	Date: 2017-12-13 ; Times: 17
+	Date: 2017-12-10 ; Times: 2
+	Date: 2017-12-11 ; Times: 3
+	Date: 2017-12-18 ; Times: 21
+	Date: 2017-12-19 ; Times: 3
+	Date: 2017-12-29 ; Times: 1
+	Date: 2017-12-28 ; Times: 1
+	Date: 2017-12-26 ; Times: 4
+	Date: 2017-12-25 ; Times: 1
+	Date: 2017-12-22 ; Times: 6
+	Date: 2017-12-21 ; Times: 11
+	Date: 2017-12-20 ; Times: 2
+	Date: 2017-12-05 ; Times: 3
+	Date: 2017-12-07 ; Times: 2
+	Date: 2017-12-06 ; Times: 2
+	Date: 2017-12-01 ; Times: 7
+	Date: 2017-12-03 ; Times: 3
+	Date: 2017-12-02 ; Times: 1
+	Date: 2017-12-08 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Pituophis melanoleucus mugitus" ; Times: 2
+	Query: "Gehyra vorax" ; Times: 1
+	Query: "specificepithet:sputatrix genus:naja" ; Times: 1
+	Query: "Liopeltis" ; Times: 1
+	Query: "Naja katiensis" ; Times: 3
+	Query: "DRYMARCHON couperi" ; Times: 1
+	Query: "genus:Liopeltis country:&#34;India&#34;" ; Times: 1
+	Query: "Boulengerina" ; Times: 1
+	Query: "specificepithet:pallida genus:naja" ; Times: 1
+	Query: "Oligodon hastissue:1" ; Times: 8
+	Query: "Python reticulatus vntype:specimen country:&#34;India&#34;" ; Times: 2
+	Query: "ku 1551" ; Times: 1
+	Query: "liopeltis" ; Times: 3
+	Query: "Mertensophryne micranotis mappable:1" ; Times: 1
+	Query: "Dendroaspis polylepis" ; Times: 2
+	Query: "gloydius" ; Times: 2
+	Query: "Lepidodactylus tuamotu" ; Times: 1
+	Query: "Naja samarensis" ; Times: 1
+	Query: "Naja melanoleuca" ; Times: 1
+	Query: "Dendroaspis angusticeps" ; Times: 2
+	Query: "specificepithet:katiensis genus:Naja" ; Times: 1
+	Query: "Naja kaouthia" ; Times: 1
+	Query: "pseudocalotes" ; Times: 1
+	Query: "Pyxicephalus adspersus mappable:1" ; Times: 1
+	Query: "cantoria violacea" ; Times: 1
+	Query: "Elapsoidea nigra" ; Times: 8
+	Query: "Elapsoidea sundevallii" ; Times: 1
+	Query: "Naja mossambica" ; Times: 2
+	Query: "sphaerodactylus oxyrhinus" ; Times: 2
+	Query: "Naja nigricollis" ; Times: 4
+	Query: "Natriciteres olivacea" ; Times: 4
+	Query: "class:reptilia locality:dyaul basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:hannah genus:ophiophagus country:&#34;philippines&#34;" ; Times: 1
+	Query: "Elapsoidea semiannulata" ; Times: 3
+	Query: "specificepithet:nigricollis genus:naja" ; Times: 1
+	Query: "specificepithet:mossambica genus:naja" ; Times: 1
+	Query: "specificepithet:roosevelti genus:Anolis" ; Times: 1
+	Query: "Naja sumatrana" ; Times: 2
+	Query: "specificepithet:durissus genus:crotalus hastissue:1" ; Times: 4
+	Query: "Tropidonophis dahlii" ; Times: 2
+	Query: "prosymna hastissue:1" ; Times: 20
+	Query: "dilophus" ; Times: 1
+	Query: "Micrurus psyches" ; Times: 2
+	Query: "Trachischium" ; Times: 1
+	Query: "genus=blanus year&gt;1990 hastissue=1" ; Times: 1
+	Query: "leiopython" ; Times: 1
+	Query: "oligodon signatus hastissue:1" ; Times: 1
+	Query: "Nectophrynoides viviparus mappable:1" ; Times: 1
+	Query: "Micrurus frontalis" ; Times: 1
+	Query: "liopeltis tricolor" ; Times: 19
+	Query: "Boulengerina annulata annulata" ; Times: 1
+	Query: "chersodromus liebmanni" ; Times: 1
+	Query: "Walterinnesia aegyptia" ; Times: 3
+	Query: "Naja oxiana" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 674 download events in this period)
+Total number of records downloaded: 597
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 8
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 3
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-27 ; Times: 1
+	Date: 2017-12-25 ; Times: 1
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-12 ; Times: 1
+	Date: 2017-12-13 ; Times: 4
+	Date: 2017-12-03 ; Times: 2
+	Date: 2017-12-01 ; Times: 3
+	Date: 2017-12-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "Dilophus" ; Times: 1
+	Query: "leiopython" ; Times: 1
+	Query: "specificepithet:maculatus genus:Draco" ; Times: 1
+	Query: "Naja naja" ; Times: 1
+	Query: "genus:Naja" ; Times: 1
+	Query: "Micrurus psyches" ; Times: 2
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 2
+	Query: "Boulengerina" ; Times: 1
+	Query: "cnemidophorus" ; Times: 1
+	Query: "specificepithet:hannah genus:ophiophagus country:&#34;philippines&#34;" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+
+
+End of report.
