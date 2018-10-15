@@ -1,0 +1,156 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 129
+Number of records retrieved in searches: 2727
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 40
+	Country: India ; Times: 7
+	Country: United States ; Times: 39
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 24
+	Country: Chile ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Dominican Republic ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-23 ; Times: 3
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-04 ; Times: 6
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-13 ; Times: 3
+	Date: 2018-02-28 ; Times: 3
+	Date: 2018-02-26 ; Times: 3
+	Date: 2018-02-19 ; Times: 7
+	Date: 2018-02-06 ; Times: 39
+	Date: 2018-02-09 ; Times: 4
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-02 ; Times: 15
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-27 ; Times: 6
+	Date: 2018-02-07 ; Times: 15
+	Date: 2018-02-20 ; Times: 9
+	Date: 2018-02-05 ; Times: 6
+	Date: 2018-02-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tropidodipsas sartorii" ; Times: 2
+	Query: "hemidactylus country:&#34;iran&#34; hastissue:1" ; Times: 1
+	Query: "Tomodon dorsatus" ; Times: 2
+	Query: "Duberria lutrix" ; Times: 35
+	Query: "genus:malpolon year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "ku 6623" ; Times: 2
+	Query: "specificepithet:extremus genus:anolis hastissue:1" ; Times: 1
+	Query: "Agama boensis mappable:1" ; Times: 4
+	Query: "genus:Prosymna institutioncode:ZMUC" ; Times: 1
+	Query: "R51328" ; Times: 2
+	Query: "specificepithet:dorsalis genus:Ialtris" ; Times: 1
+	Query: "genus:leptotyphlops (male OR female) hassex:1" ; Times: 1
+	Query: "Liotyphlops wilderi" ; Times: 1
+	Query: "genus:telescopus year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "class:Reptilia locality:Tawi Tawi" ; Times: 1
+	Query: "Daboia russellii" ; Times: 3
+	Query: "scientificname:&#34;atheris ceratophora&#34;" ; Times: 1
+	Query: "Psammophis rukwae" ; Times: 2
+	Query: "Tomodon ocellatus" ; Times: 2
+	Query: "liopeltis" ; Times: 1
+	Query: "zamenis longissimus" ; Times: 3
+	Query: "Psammophis sibilans" ; Times: 1
+	Query: "genus:TERATOSCINCUS hastissue:1" ; Times: 1
+	Query: "diadema Schlegel" ; Times: 1
+	Query: "genus:telescopus hastissue:1" ; Times: 1
+	Query: "genus:Anguis year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "Dipsas variegata" ; Times: 1
+	Query: "Malpolon monspessulanus" ; Times: 5
+	Query: "genus:Boulengerina family:Elapidae" ; Times: 1
+	Query: "genus:leiocephalus hastissue:1" ; Times: 1
+	Query: "prosymna hastissue:1" ; Times: 5
+	Query: "ku teratoscincus" ; Times: 4
+	Query: "liopeltis calamaria" ; Times: 2
+	Query: "vipera ammodytes" ; Times: 2
+	Query: "Python reticulatus vntype:specimen country:&#34;India&#34;" ; Times: 1
+	Query: "psammophis sibilans" ; Times: 3
+	Query: "Typhlops punctatus" ; Times: 1
+	Query: "specificepithet:jaculus genus:eryx hastissue:1" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:phyllodactylus hastissue:1" ; Times: 1
+	Query: "Agama pallida" ; Times: 2
+	Query: "class:Reptilia OR Amphibia locality:Tawi Tawi" ; Times: 1
+	Query: "class:Reptilia OR Amphibia locality:Tawi Tawi country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Aparallactus werneri" ; Times: 1
+	Query: "naja haje" ; Times: 1
+	Query: "family:Uropeltidae hastissue:1" ; Times: 4
+	Query: "Ptyodactylus h" ; Times: 1
+	Query: "uromastyx aegyptia" ; Times: 2
+	Query: "Sibynomorphus turgidus" ; Times: 1
+	Query: "Atractus badius" ; Times: 1
+	Query: "python sebae" ; Times: 2
+	Query: "Dipsas indica" ; Times: 1
+	Query: "genus:Atractus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "liopeltis tricolor" ; Times: 5
+	Query: "genus:&#34;rhotropus&#34;" ; Times: 1
+	Query: "genus:Naja family:Elapidae country:&#34;Congo&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:jaculus genus:eryx" ; Times: 1
+	Query: "genus:Buhoma institutioncode:ZMUC" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1892 download events in this period)
+Total number of records downloaded: 145
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-20 ; Times: 2
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-03 ; Times: 1
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-07 ; Times: 3
+	Date: 2018-02-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Hypnale" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "order:Squamata country:&#34;French Guiana&#34;" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:phyllodactylus hastissue:1" ; Times: 2
+	Query: "vntype:specimen genus:Teratoscincus hastissue:1" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "Teratoscincus" ; Times: 1
+	Query: "python sebae" ; Times: 1
+	Query: "Macroprotodon cucullatus" ; Times: 1
+	Query: "Bungarus caeruleus" ; Times: 1
+	Query: "vipera ursinii" ; Times: 1
+	Query: "dasypeltis scabra" ; Times: 1
+	Query: "specificepithet:cerastes genus:crotalus" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+
+
+End of report.
