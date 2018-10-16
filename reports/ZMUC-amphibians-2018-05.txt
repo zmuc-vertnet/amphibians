@@ -1,0 +1,202 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 212
+Number of records retrieved in searches: 2401
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 76
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 2
+	Country: France ; Times: 123
+	Country: United Kingdom ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 14
+	Date: 2018-05-29 ; Times: 6
+	Date: 2018-05-20 ; Times: 3
+	Date: 2018-05-21 ; Times: 7
+	Date: 2018-05-22 ; Times: 4
+	Date: 2018-05-23 ; Times: 13
+	Date: 2018-05-24 ; Times: 12
+	Date: 2018-05-25 ; Times: 20
+	Date: 2018-05-26 ; Times: 3
+	Date: 2018-05-27 ; Times: 1
+	Date: 2018-05-07 ; Times: 5
+	Date: 2018-05-04 ; Times: 8
+	Date: 2018-05-02 ; Times: 19
+	Date: 2018-05-03 ; Times: 19
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-31 ; Times: 3
+	Date: 2018-05-30 ; Times: 5
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-14 ; Times: 17
+	Date: 2018-05-17 ; Times: 3
+	Date: 2018-05-16 ; Times: 42
+	Date: 2018-05-10 ; Times: 2
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-19 ; Times: 1
+	Date: 2018-05-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Dromophis praeornatus" ; Times: 6
+	Query: "lycophidion semicinctum" ; Times: 3
+	Query: "Lampropeltis polyzona" ; Times: 1
+	Query: "specificepithet:signifera genus:Crinia institutioncode:ZMUC" ; Times: 3
+	Query: "genus:dendroaspis country:&#34;tanzania&#34;" ; Times: 6
+	Query: "specificepithet:carinatus genus:philothamnus" ; Times: 4
+	Query: "rhamnophis" ; Times: 2
+	Query: "specificepithet:viridiflavus genus:Hyperolius institutioncode:ZMUC" ; Times: 3
+	Query: "specificepithet:nitidus genus:philothamnus" ; Times: 6
+	Query: "Micrurus ancoralis" ; Times: 1
+	Query: "vntype:specimen (smithonian)" ; Times: 1
+	Query: "Pelophylax kurtmuelleri" ; Times: 1
+	Query: "MBU" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis" ; Times: 3
+	Query: "genus:Buhoma" ; Times: 1
+	Query: "KU 5929" ; Times: 1
+	Query: "philothamnus nitidus" ; Times: 3
+	Query: "lycophidion multimaculatum" ; Times: 3
+	Query: "specificepithet:temporaria genus:Rana institutioncode:ZMUC" ; Times: 3
+	Query: "genus:aparallactus country:&#34;nigeria&#34;" ; Times: 1
+	Query: "Micrurus ruatanus" ; Times: 1
+	Query: "Neurergus kaiseri" ; Times: 1
+	Query: "Neurergus crocatus" ; Times: 1
+	Query: "atheris hastissue:1" ; Times: 1
+	Query: "Liophis typhlus hastissue:1" ; Times: 2
+	Query: "specificepithet:battersbyi genus:philothamnus" ; Times: 3
+	Query: "KU 5932" ; Times: 1
+	Query: "philothamnus dorsalis" ; Times: 4
+	Query: "specificepithet:punctatus genus:Bothrops" ; Times: 1
+	Query: "hydraethiops" ; Times: 1
+	Query: "specificepithet:fantasticus genus:Sphaerodactylus hastissue:1" ; Times: 1
+	Query: "philothamnus natalensis" ; Times: 1
+	Query: "Rhampholeon spectrum" ; Times: 1
+	Query: "bothrophtalmus" ; Times: 1
+	Query: "specificepithet:parkeri genus:Leptopelis institutioncode:ZMUC" ; Times: 3
+	Query: "specificepithet:bequaerti genus:philothamnus" ; Times: 1
+	Query: "specificepithet:krefftii genus:Phrynobatrachus institutioncode:ZMUC" ; Times: 3
+	Query: "specificepithet:guianensis genus:Phimophis country:&#34;Venezuela&#34; AND (NOT USNM NOT TCWC) institutioncode:ZMUC" ; Times: 1
+	Query: "Liophis epinephelus hastissue:1" ; Times: 2
+	Query: "Micrurus bocourti" ; Times: 1
+	Query: "vntype:specimen genus:Kinyongia family:Chamaeleonidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "amblyodipsas unicolor" ; Times: 6
+	Query: "philothamnus ornatus" ; Times: 9
+	Query: "polemon" ; Times: 2
+	Query: "specificepithet:Molurus genus:Python hastissue:1" ; Times: 1
+	Query: "specificepithet:carinatus genus:philothamnus country:&#34;tanzania&#34;" ; Times: 1
+	Query: "Micrurus ibiboboca" ; Times: 1
+	Query: "Hapsidophrys" ; Times: 1
+	Query: "micrelaps" ; Times: 1
+	Query: "specificepithet:tornieri genus:Nectophrynoides institutioncode:ZMUC" ; Times: 3
+	Query: "sphaerodactylus microlepis" ; Times: 1
+	Query: "lycophidion laterale" ; Times: 9
+	Query: "specificepithet:gargarizans genus:Bufo institutioncode:ZMUC" ; Times: 3
+	Query: "specificepithet:rogersi genus:Hoplophryne institutioncode:ZMUC" ; Times: 3
+	Query: "psammophis elegans" ; Times: 10
+	Query: "specificepithet:reticulatus country:&#34;India&#34;" ; Times: 1
+	Query: "specificepithet:heterolepidotus genus:philothamnus" ; Times: 2
+	Query: "Micrurus bogerti" ; Times: 1
+	Query: "specificepithet:micranotis genus:Mertensophryne institutioncode:ZMUC" ; Times: 3
+	Query: "specificepithet:guianensis genus:Phimophis country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "chamaelycus" ; Times: 2
+	Query: "ku 9432" ; Times: 1
+	Query: "Micrurus psyches" ; Times: 1
+	Query: "Micrurus frontalis" ; Times: 1
+	Query: "Leptopelis vermiculatus" ; Times: 1
+	Query: "specificepithet:spectrum genus:Rhampholeon hastissue:1" ; Times: 1
+	Query: "psammophis angolensis" ; Times: 17
+	Query: "R602093" ; Times: 1
+	Query: "specificepithet:irregularis genus:philothamnus" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis country:&#34;Venezuela&#34; AND (NOT USNM NOT TCWC)" ; Times: 1
+	Query: "Callulina kreffti" ; Times: 1
+	Query: "bothrops hastissue:1" ; Times: 2
+	Query: "Bothrolycus" ; Times: 1
+	Query: "Micrurus hemprichii" ; Times: 1
+	Query: "Brazil hastypestatus:1 hastissue:1" ; Times: 2
+	Query: "ku 8053" ; Times: 1
+	Query: "genus:philothamnus country:&#34;nigeria&#34;" ; Times: 2
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "Liophis poecilogyrus hastissue:1" ; Times: 2
+	Query: "philothamnus bequaerti" ; Times: 1
+	Query: "dromophis" ; Times: 1
+	Query: "psammophis sudanensis" ; Times: 1
+	Query: "Scolecomorphus vittatus" ; Times: 1
+	Query: "Liophis miliaris hastissue:1" ; Times: 1
+	Query: "dendroaspis angusticeps" ; Times: 8
+	Query: "lycophidion ornatum" ; Times: 3
+	Query: "R601749" ; Times: 1
+	Query: "specificepithet:bufo genus:Bufo institutioncode:ZMUC" ; Times: 3
+	Query: "catalognumber:R851096 institutioncode:ZMUC" ; Times: 2
+	Query: "specificepithet:kreffti genus:Callulina institutioncode:ZMUC" ; Times: 3
+	Query: "dispholidus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1178 download events in this period)
+Total number of records downloaded: 1007
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-04 ; Times: 3
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-19 ; Times: 3
+	Date: 2018-05-18 ; Times: 2
+	Date: 2018-05-09 ; Times: 7
+	Date: 2018-05-20 ; Times: 2
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Neurergus kaiseri" ; Times: 1
+	Query: "pituophis deppei" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 1
+	Query: "Neurergus crocatus" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Lampropeltis polyzona" ; Times: 1
+	Query: "Lacertidae" ; Times: 1
+	Query: "Calotes mystaceus" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 2
+	Query: "ophiophagus Hannah" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "Thamnophis cyrtopsis" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Leptophis mexicanus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Leptophis ahaetulla" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "Imantodes gemmistratus" ; Times: 1
+	Query: "genus:coleonyx sex:male OR female" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "order:squamata country:&#34;nigeria&#34;" ; Times: 1
+	Query: "Leptodeira maculata" ; Times: 1
+	Query: "genus:Atropoides OR Cerrophidion OR Bothriechis OR Lachesis OR Mixcoatlus OR Ophryacus OR porthidium" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
