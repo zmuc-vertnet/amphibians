@@ -1,0 +1,239 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 213
+Number of records retrieved in searches: 2459
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 14
+	Country: Israel ; Times: 6
+	Country: Australia ; Times: 35
+	Country: Peru ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Denmark ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 5
+	Country: United States ; Times: 101
+	Country: Chile ; Times: 3
+	Country: Germany ; Times: 11
+	Country: United Kingdom ; Times: 14
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Switzerland ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-28 ; Times: 6
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-22 ; Times: 4
+	Date: 2018-04-21 ; Times: 13
+	Date: 2018-04-20 ; Times: 3
+	Date: 2018-04-27 ; Times: 18
+	Date: 2018-04-26 ; Times: 19
+	Date: 2018-04-24 ; Times: 9
+	Date: 2018-04-01 ; Times: 4
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-02 ; Times: 3
+	Date: 2018-04-05 ; Times: 5
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-07 ; Times: 2
+	Date: 2018-04-06 ; Times: 5
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-16 ; Times: 40
+	Date: 2018-04-12 ; Times: 13
+	Date: 2018-04-13 ; Times: 7
+	Date: 2018-04-10 ; Times: 6
+	Date: 2018-04-11 ; Times: 7
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-14 ; Times: 9
+	Date: 2018-04-15 ; Times: 3
+	Date: 2018-04-18 ; Times: 15
+	Date: 2018-04-19 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Saurodactylus hastissue:1" ; Times: 2
+	Query: "specificepithet:punctatus genus:bothrops" ; Times: 1
+	Query: "Sibynomorphus turgidus" ; Times: 1
+	Query: "specificepithet:frontalis genus:micrurus" ; Times: 2
+	Query: "genus:Rieppeleon" ; Times: 1
+	Query: "specificepithet:lanceolatus genus:bothrops" ; Times: 1
+	Query: "Sitana" ; Times: 1
+	Query: "Lialis burtonis hastissue:1" ; Times: 1
+	Query: "specificepithet:jaculus genus:eryx hastissue:1" ; Times: 1
+	Query: "telescopus fallax" ; Times: 1
+	Query: "genus:Japalura hastissue:1" ; Times: 3
+	Query: "Hydrophis spiralis" ; Times: 3
+	Query: "Pseudocerastes persicus" ; Times: 2
+	Query: "specificepithet:maura genus:Natrix year &gt;= 1980 hastissue:1" ; Times: 2
+	Query: "Ceratophora" ; Times: 1
+	Query: "Naultinus" ; Times: 1
+	Query: "genus:telescopus year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "Tropidonophis dahlii" ; Times: 1
+	Query: "Rhabdophis Java" ; Times: 2
+	Query: "genus:eryx hastissue:1" ; Times: 2
+	Query: "specificepithet:resimus genus:causus" ; Times: 1
+	Query: "genus:telescopus hastissue:1" ; Times: 1
+	Query: "hydrophis ornatus" ; Times: 1
+	Query: "family:typhlopidae country:&#34;indonesia&#34;" ; Times: 1
+	Query: "Rhampholeon spectrum" ; Times: 1
+	Query: "Oligodon taeniolatus" ; Times: 1
+	Query: "bothrops venezuelensis" ; Times: 1
+	Query: "Tropidophiidae hastissue:1" ; Times: 1
+	Query: "Chersodromus" ; Times: 1
+	Query: "Anilius hastissue:1" ; Times: 2
+	Query: "echis pyramidum" ; Times: 2
+	Query: "specificepithet:Bufo genus:Bufo hastissue:1" ; Times: 1
+	Query: "specificepithet:tessellata genus:Natrix hastissue:1" ; Times: 2
+	Query: "Liotyphlops wilderi" ; Times: 10
+	Query: "elachistodon westermanni" ; Times: 3
+	Query: "Cordylus hastissue:1" ; Times: 1
+	Query: "genus:vipera year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "specificepithet:spectrum genus:Rhampholeon country:&#34;Nigeria&#34; hastissue:1" ; Times: 1
+	Query: "liopeltis calamaria" ; Times: 1
+	Query: "genus:Naultinus hastissue:1" ; Times: 2
+	Query: "genus:Rhampholeon hastissue:1" ; Times: 1
+	Query: "pituophis melanoleucus mugitus" ; Times: 1
+	Query: "specificepithet:natrix genus:Natrix hastissue:1" ; Times: 3
+	Query: "genus:Microlophus hastissue:1" ; Times: 1
+	Query: "helicops scalaris" ; Times: 2
+	Query: "genus:Natrix year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:phyllodactylus country:&#34;Honduras&#34; hastissue:1" ; Times: 1
+	Query: "cnemaspis" ; Times: 2
+	Query: "Thelotornis usambaricus" ; Times: 1
+	Query: "Hydrophis lapemoides" ; Times: 8
+	Query: "Otocryptis" ; Times: 1
+	Query: "specificepithet:surinamensis genus:micrurus" ; Times: 2
+	Query: "KU 8564" ; Times: 2
+	Query: "specificepithet:gemonensis genus:coluber year &gt;= 1980 hastissue:1" ; Times: 2
+	Query: "Rieppeleon brevicaudatus" ; Times: 1
+	Query: "Rhabdophis Indonesia" ; Times: 1
+	Query: "genus:anguis year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "genus:Oplurus hastissue:1" ; Times: 1
+	Query: "genus: Cylindrophis hastissue:1" ; Times: 1
+	Query: "oligodon taeniolatus" ; Times: 1
+	Query: "Varanus hastissue:1" ; Times: 1
+	Query: "Aniliidae hastissue=1" ; Times: 1
+	Query: "Lamprophis hastissue:1" ; Times: 1
+	Query: "liopeltis" ; Times: 1
+	Query: "specificepithet:mipartitus genus:micrurus" ; Times: 1
+	Query: "genus:Lacerta hastissue:1" ; Times: 1
+	Query: "genus: Typhlops hastissue:1" ; Times: 2
+	Query: "genus:Uropeltis hastissue:1" ; Times: 2
+	Query: "amphiesma modesta" ; Times: 1
+	Query: "genus:Uroplatus hastissue:1" ; Times: 3
+	Query: "specificepithet:kotschyi genus:Cyrtopodion hastissue:1" ; Times: 1
+	Query: "specificepithet:fallax genus:telescopus hastissue:1" ; Times: 2
+	Query: "varanus hastissue:1" ; Times: 1
+	Query: "specificepithet:spectrum genus:Rhampholeon country:&#34;cameroon&#34; hastissue:1" ; Times: 1
+	Query: "Oligodon ancorus" ; Times: 1
+	Query: "elachistodon" ; Times: 5
+	Query: "country:Ecuador scientificname:Micrurus mipartitus " ; Times: 2
+	Query: "specificepithet: ruatanus genus:micrurus" ; Times: 1
+	Query: "genus:Kinyongia hastissue:1" ; Times: 2
+	Query: "genus:Macroprotodon year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "specificepithet:spectrum genus:Rhampholeon country:&#34;cameroon&#34;" ; Times: 1
+	Query: "genus:Polychrus hastissue:1" ; Times: 1
+	Query: "bitis gabonica" ; Times: 1
+	Query: "uromastyx aegyptia" ; Times: 4
+	Query: "genus:Hoplodactylus hastissue:1" ; Times: 1
+	Query: "genus:Amphisbaena hastissue:1" ; Times: 1
+	Query: "specificepithet:spectrum genus:Rhampholeon hastissue:1" ; Times: 1
+	Query: "specificepithet:corallinus genus:micrurus" ; Times: 2
+	Query: "genus:Cerberus hastissue:1" ; Times: 1
+	Query: "malpolon insignitus" ; Times: 1
+	Query: "Salea" ; Times: 1
+	Query: "micrurus bogerti" ; Times: 2
+	Query: "Typhlops hastissue:1" ; Times: 1
+	Query: "genus: Rhinotyphlops hastissue:1" ; Times: 1
+	Query: "genus:Quedenfeldtia hastissue:1" ; Times: 4
+	Query: "Eremias vntype:specimen hastissue:1" ; Times: 2
+	Query: "genus:telescopus year &gt;= 1980 hastissue:1" ; Times: 4
+	Query: "genus:mertensophryne hastissue:1" ; Times: 1
+	Query: "Xenodon merremii" ; Times: 1
+	Query: "Helicops scalaris" ; Times: 1
+	Query: "genus:Nectophrynoides hastissue:1" ; Times: 2
+	Query: "genus:Anguis year &gt;= 1980 hastissue:1" ; Times: 2
+	Query: "genus:Leptopelis specificepithet:uluguruensis" ; Times: 1
+	Query: "family:Aniliidae hastissue:1" ; Times: 1
+	Query: "genus:cnemaspis hastissue:1" ; Times: 3
+	Query: "prosymna hastissue:1" ; Times: 3
+	Query: "liotyphlops wilderi" ; Times: 4
+	Query: "specificepithet:natrix genus:Natrix year &gt;= 1980 hastissue:1" ; Times: 3
+	Query: "ptychozoon kuhli" ; Times: 12
+	Query: "Hemachatus haemachatus hastissue:1" ; Times: 1
+	Query: "specificepithet:nummifer genus:coluber" ; Times: 1
+	Query: "genus:Pareas hastissue:1" ; Times: 1
+	Query: "Heliobolus vntype:specimen hastissue:1" ; Times: 1
+	Query: "Coryphophylax" ; Times: 1
+	Query: "specificepithet:ruatanus genus:micrurus" ; Times: 1
+	Query: "genus:Leptotyphlops sex:male OR female" ; Times: 1
+	Query: "Causus maculatus hastissue:1" ; Times: 1
+	Query: "family=Aniliidae hastissue=1" ; Times: 1
+	Query: "Echis pyramidum" ; Times: 8
+	Query: "genus:Spalerosophis year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "Varanus niloticus hastissue:1" ; Times: 1
+	Query: "KU 4813" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1359 download events in this period)
+Total number of records downloaded: 209
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Israel ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-10 ; Times: 4
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-07 ; Times: 2
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-19 ; Times: 2
+	Date: 2018-04-23 ; Times: 3
+	Date: 2018-04-22 ; Times: 2
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:thamnophis sex:male OR female" ; Times: 1
+	Query: "Siphlophis cervinus" ; Times: 1
+	Query: "genus:callisaurus sex:male OR female" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus" ; Times: 1
+	Query: "genus:anolis sex:male OR female" ; Times: 1
+	Query: "Rieppeleon brevicaudatus" ; Times: 1
+	Query: "Thelotornis usambaricus" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "Sibynomorphus turgidus" ; Times: 1
+	Query: "genus:Coleonyx sex:male OR female" ; Times: 2
+	Query: "echis pyramidum" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 1
+	Query: "genus:Anolis sex:male OR female" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "genus:Callisaurus sex:male OR female" ; Times: 3
+	Query: "Oligodon taeniolatus" ; Times: 1
+	Query: "leptopelis notatus" ; Times: 1
+	Query: "vntype:specimen genus:Anolis hastissue:1" ; Times: 1
+	Query: "bothrops venezuelensis" ; Times: 1
+
+
+End of report.
