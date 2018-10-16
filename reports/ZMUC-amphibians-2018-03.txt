@@ -1,0 +1,288 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 624
+Number of records retrieved in searches: 7285
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 584
+	Country: Israel ; Times: 14
+	Country: Italy ; Times: 9
+	Country: South Africa ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Slovenia ; Times: 1
+	Country: China ; Times: 2
+	Country: Belgium ; Times: 2
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 2
+	Date: 2018-03-28 ; Times: 72
+	Date: 2018-03-29 ; Times: 23
+	Date: 2018-03-16 ; Times: 1
+	Date: 2018-03-15 ; Times: 5
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-13 ; Times: 7
+	Date: 2018-03-12 ; Times: 9
+	Date: 2018-03-10 ; Times: 4
+	Date: 2018-03-31 ; Times: 5
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-01 ; Times: 11
+	Date: 2018-03-02 ; Times: 32
+	Date: 2018-03-03 ; Times: 27
+	Date: 2018-03-05 ; Times: 24
+	Date: 2018-03-06 ; Times: 31
+	Date: 2018-03-07 ; Times: 1
+	Date: 2018-03-26 ; Times: 124
+	Date: 2018-03-09 ; Times: 9
+	Date: 2018-03-24 ; Times: 1
+	Date: 2018-03-25 ; Times: 3
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-23 ; Times: 50
+	Date: 2018-03-20 ; Times: 23
+	Date: 2018-03-21 ; Times: 97
+	Date: 2018-03-27 ; Times: 59
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Erythrolamprus" ; Times: 3
+	Query: "genus:Atractaspis specificepithet:aterrima" ; Times: 5
+	Query: "microcephalophis" ; Times: 1
+	Query: "genus:Sibynophis specificepithet:collaris" ; Times: 5
+	Query: "genus:Oligodon specificepithet:cyclurus" ; Times: 5
+	Query: "genus:Quedenfeldtia specificepithet:trachyblepharus" ; Times: 3
+	Query: "genus:Ramphotyphlops specificepithet:polygrammicus" ; Times: 4
+	Query: "genus:Tylototriton specificepithet:verrucosus" ; Times: 6
+	Query: "elaphe sauromates" ; Times: 1
+	Query: "genus:Dendroaspis specificepithet:angusticeps" ; Times: 5
+	Query: "Tropidurus hygomi" ; Times: 1
+	Query: "genus:Rieppeleon specificepithet:brevicaudatus" ; Times: 5
+	Query: "genus:Atractus specificepithet:crassicaudatus" ; Times: 5
+	Query: "genus:Xenodon specificepithet:severus" ; Times: 5
+	Query: "genus:Tarentola specificepithet:annularis" ; Times: 3
+	Query: "genus:Cerastes specificepithet:cerastes" ; Times: 5
+	Query: "Crotalus viridis helleri" ; Times: 1
+	Query: "Echis hastissue:1" ; Times: 2
+	Query: "genus:Bronchocela specificepithet:cristatella" ; Times: 2
+	Query: "genus:Saurodactylus specificepithet:mauritanicus" ; Times: 5
+	Query: "genus:Spilotes specificepithet:pullatus" ; Times: 2
+	Query: "genus:Leptophis specificepithet:mexicanus" ; Times: 2
+	Query: "genus:Cyrtopodion year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "genus:Xenodon specificepithet:guentheri" ; Times: 3
+	Query: "specificepithet:cervinus genus:Siphlophis country:&#34;Peru&#34;" ; Times: 2
+	Query: "genus:Cnemaspis specificepithet:africana" ; Times: 5
+	Query: "genus:Ctenosaura class:Reptilia country:&#34;Panama&#34;" ; Times: 1
+	Query: "country:&#34;Tanzania&#34; institutioncode:ZMUC" ; Times: 1
+	Query: "genus:Ptenopus specificepithet:garrulus" ; Times: 2
+	Query: "genus:Dendrelaphis specificepithet:caudolineatus" ; Times: 5
+	Query: "genus:leiocephalus hastissue:1" ; Times: 1
+	Query: "genus:Aparallactus  specificepithet:capensis " ; Times: 3
+	Query: "genus:Cyrtodactylus specificepithet:philippinicus" ; Times: 10
+	Query: "genus:Tantilla specificepithet:coronata" ; Times: 2
+	Query: "genus:Acrochordus specificepithet:javanicus" ; Times: 5
+	Query: "Dendrelaphis subocularis" ; Times: 1
+	Query: "genus:Philodryas specificepithet:viridissimus" ; Times: 6
+	Query: "genus:Epicrates specificepithet:angulifer" ; Times: 5
+	Query: "genus:Eryx hastissue:1" ; Times: 4
+	Query: "genus:Enhydris specificepithet:plumbea" ; Times: 6
+	Query: "reticulatus india" ; Times: 1
+	Query: "genus:Philothamnus specificepithet:bequaerti" ; Times: 3
+	Query: "genus:Oxyrhopus specificepithet:rhombifer" ; Times: 5
+	Query: "atheris hastissue:1" ; Times: 6
+	Query: "Lachesis hastissue:1" ; Times: 2
+	Query: "genus:Dendroaspis specificepithet:jamesoni" ; Times: 5
+	Query: "genus:Prosymna specificepithet:ambigua" ; Times: 7
+	Query: "genus:Drymoluber specificepithet:dichrous" ; Times: 5
+	Query: "genus:Atractaspis specificepithet:bibronii" ; Times: 5
+	Query: "genus:Eunectes specificepithet:murinus" ; Times: 5
+	Query: "Crotaphopeltis barotseensis" ; Times: 1
+	Query: "Pseudocerastes hastissue:1" ; Times: 1
+	Query: "genus:Lyriocephalus specificepithet:scutatus" ; Times: 5
+	Query: "genus:Helicops specificepithet:leopardinus" ; Times: 5
+	Query: "genus:Siphlophis specificepithet:cervinus" ; Times: 4
+	Query: "genus:Naultinus" ; Times: 3
+	Query: "specificepithet:petola genus:Oxyrhopus country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "genus:Corallus specificepithet:caninus" ; Times: 5
+	Query: "genus:Pyxicephalus specificepithet:adspersus" ; Times: 5
+	Query: "genus:Dipsas specificepithet:catesbyi" ; Times: 2
+	Query: "prosymna hastissue:1" ; Times: 12
+	Query: "genus:Chironius specificepithet:carinatus" ; Times: 2
+	Query: "KU 4986" ; Times: 2
+	Query: "specificepithet:cucullatus genus:Macroprotodon country:&#34;Egypt&#34;" ; Times: 1
+	Query: "genus:Probreviceps specificepithet:macrodactylus" ; Times: 5
+	Query: "genus:Tomodon specificepithet:dorsatus" ; Times: 5
+	Query: "genus:Varanus specificepithet:niloticus" ; Times: 5
+	Query: "Microlophus bivittatus Ecuador" ; Times: 1
+	Query: "Duberria lutrix shirana" ; Times: 2
+	Query: "genus:Mertensophryne specificepithet:micranotis" ; Times: 5
+	Query: "Natrix hastissue:1" ; Times: 1
+	Query: "genus:Uroplatus specificepithet:fimbriatus" ; Times: 5
+	Query: "specificepithet:platurus genus:Pelamis country:&#34;Panama&#34;" ; Times: 1
+	Query: "Hydrops hastissue:1" ; Times: 1
+	Query: "genus:Masticophis specificepithet:mentovarius" ; Times: 2
+	Query: "genus:Bothrops specificepithet:sp" ; Times: 5
+	Query: "Bufo luristanicus" ; Times: 1
+	Query: "genus:Phyllurus specificepithet:platurus" ; Times: 5
+	Query: "genus:Ceratophora specificepithet:stoddartii" ; Times: 5
+	Query: "genus:Triturus specificepithet:cristatus" ; Times: 5
+	Query: "Microlophus bivittatus" ; Times: 5
+	Query: "genus:Afrixalus specificepithet:fornasini" ; Times: 2
+	Query: "genus:Dasypeltis specificepithet:scabra" ; Times: 5
+	Query: "genus:Leptophis specificepithet:diplotropis" ; Times: 5
+	Query: "genus:Crotalus country:&#34;Suriname&#34;" ; Times: 3
+	Query: "genus:Naja specificepithet:mossambica" ; Times: 6
+	Query: "Helicops hastissue:1" ; Times: 1
+	Query: "specificepithet:cervinus genus:Siphlophis country:&#34;unknown&#34;" ; Times: 1
+	Query: "genus:Arthroleptis specificepithet:affinis" ; Times: 5
+	Query: "genus:Oligodon specificepithet:octolineatus" ; Times: 5
+	Query: "genus:Chironius specificepithet:fuscus" ; Times: 5
+	Query: "Micrurus bocourti" ; Times: 2
+	Query: "genus:Leptophis specificepithet:ahaetulla" ; Times: 2
+	Query: "genus:Plectrurus specificepithet:perroteti" ; Times: 5
+	Query: "genus:Chiromantis specificepithet:rufescens" ; Times: 5
+	Query: "genus:Anilius specificepithet:scytale" ; Times: 5
+	Query: "genus:Prosymna specificepithet:ruspolii" ; Times: 5
+	Query: "genus:eryx institutioncode:ZMUC hastissue:1" ; Times: 1
+	Query: "genus:Stenorrhina specificepithet:degenhardtii" ; Times: 5
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 6
+	Query: "genus:Aparallactus specificepithet:capensis " ; Times: 2
+	Query: "Bothrops bilineatus" ; Times: 1
+	Query: "causus hastissue:1" ; Times: 1
+	Query: "ku striolata" ; Times: 1
+	Query: "genus:Phelsuma specificepithet:laticauda" ; Times: 2
+	Query: "vipera hastissue:1" ; Times: 1
+	Query: "genus:Prosymna specificepithet:meleagris" ; Times: 5
+	Query: "genus:Candoia specificepithet:carinata" ; Times: 2
+	Query: "Lamprophis aurora" ; Times: 1
+	Query: "genus:Kinyongia specificepithet:matschiei" ; Times: 5
+	Query: "genus:Eremias hastissue:1" ; Times: 2
+	Query: "genus:Philodryas specificepithet:olfersii" ; Times: 6
+	Query: "genus:Draco specificepithet:maculatus" ; Times: 5
+	Query: "hemidactylus bangkok" ; Times: 2
+	Query: "vipera ursinii" ; Times: 9
+	Query: "genus:Crotalus specificepithet:durissus" ; Times: 2
+	Query: "opisthotropis" ; Times: 2
+	Query: "genus:Leptopelis specificepithet:barbouri" ; Times: 6
+	Query: "genus:Leptopelis specificepithet:notatus" ; Times: 2
+	Query: "KU 2534" ; Times: 1
+	Query: "genus:Atheris specificepithet:ceratophora" ; Times: 5
+	Query: "genus:Agama specificepithet:planiceps" ; Times: 5
+	Query: "specificepithet:natrix genus:Natrix year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 2
+	Query: "genus:Gekko specificepithet:smithii" ; Times: 5
+	Query: "Leptodeira septentrionalis country:&#34;Peru&#34;" ; Times: 1
+	Query: "Heterodactylus lundii" ; Times: 2
+	Query: "genus:Elaphe specificepithet:radiata" ; Times: 5
+	Query: "genus:Sitana specificepithet:ponticeriana" ; Times: 5
+	Query: "specificepithet:reticulatus country:&#34;India&#34;" ; Times: 1
+	Query: "genus:Afrixalus specificepithet:orophilus" ; Times: 5
+	Query: "hydrophis brooki" ; Times: 1
+	Query: "genus:Nectophrynoides specificepithet:viviparus" ; Times: 5
+	Query: "Kinyongia tavetana" ; Times: 1
+	Query: "genus:Ahaetulla specificepithet:nasuta" ; Times: 5
+	Query: "Duberria" ; Times: 1
+	Query: "genus:Kassina specificepithet:senegalensis" ; Times: 2
+	Query: "hydrophis caerulescens" ; Times: 1
+	Query: "genus:Lamprophis specificepithet:fuliginosus" ; Times: 2
+	Query: "genus:Oligodon specificepithet:cruentatus" ; Times: 5
+	Query: "genus:anguis year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "genus:Elachistodon" ; Times: 1
+	Query: "genus:Bunopus specificepithet:tuberculatus" ; Times: 5
+	Query: "Kinyongia matschiei" ; Times: 1
+	Query: "genus:Hemidactylus specificepithet:bowringii" ; Times: 2
+	Query: "genus:Phrynobatrachus specificepithet:krefftii" ; Times: 5
+	Query: "Vipera hastissue:1" ; Times: 2
+	Query: "genus:Xenodon specificepithet:neuwiedii" ; Times: 5
+	Query: "genus:Dixonius specificepithet:siamensis" ; Times: 5
+	Query: "genus:Thelotornis specificepithet:kirtlandii" ; Times: 5
+	Query: "Bitis hastissue:1" ; Times: 1
+	Query: "genus:Psammophis specificepithet:rukwae" ; Times: 5
+	Query: "genus:Acrochordus specificepithet:granulatus" ; Times: 2
+	Query: "Daboia hastissue:1" ; Times: 1
+	Query: "genus:Philothamnus specificepithet:heterolepidotus" ; Times: 3
+	Query: "Lygodactylus luteopicturatus mappable:1" ; Times: 1
+	Query: "specificepithet:subradiata genus:Elaphe" ; Times: 2
+	Query: "genus:Vipera year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "Mertensophryne" ; Times: 1
+	Query: "Pseudoeryx hastissue:1" ; Times: 1
+	Query: "genus:Chamaesaura" ; Times: 3
+	Query: "sistrurus AND illinois hastissue:1" ; Times: 1
+	Query: "genus:Tarentola specificepithet:mauritanica " ; Times: 2
+	Query: "(3401) institutioncode:ZMUC" ; Times: 1
+	Query: "genus:Psammodynastes specificepithet:pulverulentus" ; Times: 2
+	Query: "genus:Draco specificepithet:blanfordii" ; Times: 5
+	Query: "genus:Liophis specificepithet:epinephelus" ; Times: 2
+	Query: "Lygodactylus luteopicturatus" ; Times: 1
+	Query: "Lycophidion meleagre" ; Times: 1
+	Query: "specificepithet:braminus continent:South America" ; Times: 1
+	Query: "genus:Oligodon specificepithet:arnensis" ; Times: 5
+	Query: "specificepithet:durissus genus:Crotalus continent:South America hastissue:1" ; Times: 1
+	Query: "cnemaspis spinicollis" ; Times: 1
+	Query: "genus:Afrogecko specificepithet:porphyreus" ; Times: 5
+	Query: "genus:Chrysopelea specificepithet:paradisi" ; Times: 5
+	Query: "genus:Uropeltis specificepithet:melanogaster" ; Times: 5
+	Query: "genus:Naja specificepithet:nigricollis" ; Times: 6
+	Query: "genus:Unknown specificepithet:sp." ; Times: 5
+	Query: "genus:Homoroselaps specificepithet:lacteus" ; Times: 5
+	Query: "specificepithet:cervinus genus:Siphlophis" ; Times: 1
+	Query: "genus:Clelia specificepithet:clelia" ; Times: 2
+	Query: "genus:Pseustes specificepithet:poecilonotus" ; Times: 10
+	Query: "python sebae" ; Times: 1
+	Query: "genus:Cnemaspis specificepithet:spinicollis" ; Times: 4
+	Query: "genus:Arthroleptis specificepithet:tanneri" ; Times: 5
+	Query: "genus:Rhotropus" ; Times: 4
+	Query: "genus:Kinyongia specificepithet:tavetana" ; Times: 5
+	Query: "Leptotyphlops conjunctus" ; Times: 1
+	Query: "genus:Bufo specificepithet:stomaticus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1284 download events in this period)
+Total number of records downloaded: 149
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 6
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-10 ; Times: 2
+	Date: 2018-03-02 ; Times: 1
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-03 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-29 ; Times: 3
+	Date: 2018-03-26 ; Times: 1
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-31 ; Times: 1
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bothrops jararacussu" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus hastissue:1" ; Times: 1
+	Query: "Gekko gecko" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma hastissue:1" ; Times: 2
+	Query: "Atractus badius" ; Times: 1
+	Query: "chiromantis rufescens" ; Times: 1
+	Query: "Lygodactylus luteopicturatus mappable:1" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Dendrelaphis subocularis" ; Times: 1
+	Query: "python regius" ; Times: 1
+	Query: "Tropidurus hygomi" ; Times: 1
+	Query: "Kinyongia matschiei" ; Times: 1
+	Query: "Microlophus Galapagos" ; Times: 1
+	Query: "Microlophus bivittatus" ; Times: 1
+	Query: "Dendrelaphis caudolineatus" ; Times: 1
+
+
+End of report.
