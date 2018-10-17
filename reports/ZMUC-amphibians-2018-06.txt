@@ -1,0 +1,169 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 144
+Number of records retrieved in searches: 1971
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 30
+	Country: Australia ; Times: 2
+	Country: South Africa ; Times: 4
+	Country: Mexico ; Times: 13
+	Country: India ; Times: 4
+	Country: France ; Times: 68
+	Country: United Kingdom ; Times: 6
+	Country: Hungary ; Times: 2
+	Country: Nicaragua ; Times: 9
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 15
+	Date: 2018-06-06 ; Times: 24
+	Date: 2018-06-05 ; Times: 14
+	Date: 2018-06-04 ; Times: 13
+	Date: 2018-06-03 ; Times: 4
+	Date: 2018-06-28 ; Times: 2
+	Date: 2018-06-01 ; Times: 8
+	Date: 2018-06-25 ; Times: 3
+	Date: 2018-06-24 ; Times: 4
+	Date: 2018-06-27 ; Times: 4
+	Date: 2018-06-20 ; Times: 4
+	Date: 2018-06-08 ; Times: 1
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 2
+	Date: 2018-06-12 ; Times: 5
+	Date: 2018-06-13 ; Times: 5
+	Date: 2018-06-14 ; Times: 5
+	Date: 2018-06-17 ; Times: 6
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-19 ; Times: 5
+	Date: 2018-06-30 ; Times: 11
+	Date: 2018-06-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Vipera latasti" ; Times: 1
+	Query: "A. bernieri" ; Times: 2
+	Query: "Gehyra vorax" ; Times: 1
+	Query: "R602093" ; Times: 1
+	Query: "Neurergus kaiseri" ; Times: 1
+	Query: "specificepithet:pullatus genus:Spilotes country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Elachistodon westermanni" ; Times: 1
+	Query: "meizodon regularis" ; Times: 1
+	Query: "chiromantis rufescens" ; Times: 1
+	Query: "genus:Rana specificepithet:dalmatina" ; Times: 1
+	Query: "psammophylax variabilis" ; Times: 2
+	Query: "bothrops hastissue:1" ; Times: 1
+	Query: "situla" ; Times: 2
+	Query: "micrurus frontalis" ; Times: 1
+	Query: "country:&#34;Brazil&#34; institutioncode:ZMUC" ; Times: 5
+	Query: "specificepithet:grandisquamis genus:Chironius hastissue:1" ; Times: 1
+	Query: "Hydraethiops" ; Times: 1
+	Query: "aspidelaps" ; Times: 2
+	Query: "genus:natriciteres country:&#34;nigeria&#34;" ; Times: 4
+	Query: "KU 5932" ; Times: 2
+	Query: "zmuc year &gt; 2005" ; Times: 1
+	Query: "specificepithet:asper genus:Bothrops hastissue:1" ; Times: 1
+	Query: "zmuc year &gt; 2000" ; Times: 1
+	Query: "natriciteres fuliginoides" ; Times: 5
+	Query: "genus:duberria country:&#34;tanzania&#34;" ; Times: 2
+	Query: "afronatrix" ; Times: 1
+	Query: "Xenodon hastissue=1" ; Times: 1
+	Query: "Cemophora Missouri" ; Times: 1
+	Query: "genus:duberria country:&#34;kenya&#34;" ; Times: 9
+	Query: "genus:psammophylax country:&#34;kenya&#34;" ; Times: 11
+	Query: "genus:psammophylax country:&#34;tanzania&#34;" ; Times: 1
+	Query: "R60749" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "genus:grayia country:&#34;liberia&#34;" ; Times: 1
+	Query: "specificepithet:cenchoa genus:Imantodes hastissue:1" ; Times: 4
+	Query: "micrurus hemprichii" ; Times: 1
+	Query: "tropidodipsas fasciata" ; Times: 9
+	Query: "micrurus ibiboboca" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 4
+	Query: "vntype:specimen specificepithet:reticulatus country:&#34;India&#34;" ; Times: 1
+	Query: "duberria shirana" ; Times: 13
+	Query: "specificepithet:nigrofasciata genus:Leptodeira hastissue:1" ; Times: 1
+	Query: "Crotaphopeltis braestrupi" ; Times: 6
+	Query: "micrurus surinamensis" ; Times: 1
+	Query: "specificepithet:reticulatus country:&#34;India&#34;" ; Times: 1
+	Query: "genus:crotaphopeltis country:&#34;botswana&#34;" ; Times: 5
+	Query: "specificepithet:pullatus genus:Spilotes country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Chamaeleo dilepis" ; Times: 1
+	Query: "R601749" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus hastissue:1" ; Times: 2
+	Query: "natriciteres variegata" ; Times: 1
+	Query: "KU 5929" ; Times: 3
+	Query: "ovophis hastissue:1" ; Times: 2
+	Query: "dasypeltis palmarum" ; Times: 4
+	Query: "Philothamnus macrops" ; Times: 1
+	Query: "Dendroaspis jamesoni" ; Times: 3
+	Query: "genus:Liopeltis hastissue:1" ; Times: 4
+	Query: "specificepithet:schlegelii genus:Bothriechis hastissue:1" ; Times: 1
+	Query: "specificepithet:tropidonotus genus:Anolis hastissue:1" ; Times: 1
+	Query: "genus:natriciteres country:&#34;tanzania&#34;" ; Times: 1
+	Query: "specificepithet:spectrum genus:Rhampholeon hastissue:1" ; Times: 1
+	Query: "KU 0727" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1169 download events in this period)
+Total number of records downloaded: 926
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: South Africa ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: United States ; Times: 8
+	Country: Austria ; Times: 1
+	Country: Hungary ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-05 ; Times: 1
+	Date: 2018-06-07 ; Times: 6
+	Date: 2018-06-06 ; Times: 5
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-08 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-23 ; Times: 3
+	Date: 2018-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pituophis deppei" ; Times: 5
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "siphlophis" ; Times: 1
+	Query: "chiromantis rufescens" ; Times: 1
+	Query: "situla" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Tylototriton verrucosus" ; Times: 1
+	Query: "Triturus cristatus" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 2
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "family:Lacertidae hastissue:1" ; Times: 1
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "python reticulatus" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 2
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "Philothamnus macrops" ; Times: 2
+	Query: "Aspidomorphus" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "crotalus adamanteus" ; Times: 1
+
+
+End of report.
