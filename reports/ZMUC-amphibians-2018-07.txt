@@ -1,0 +1,148 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 501
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 13
+	Country: Iran ; Times: 1
+	Country: South Africa ; Times: 10
+	Country: Unknown ; Times: 5
+	Country: Czechia ; Times: 1
+	Country: India ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 31
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Italy ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 2
+	Date: 2018-07-11 ; Times: 4
+	Date: 2018-07-10 ; Times: 4
+	Date: 2018-07-08 ; Times: 4
+	Date: 2018-07-09 ; Times: 1
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-04 ; Times: 3
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-18 ; Times: 10
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-25 ; Times: 2
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-31 ; Times: 7
+	Date: 2018-07-23 ; Times: 3
+	Date: 2018-07-05 ; Times: 3
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-22 ; Times: 9
+	Date: 2018-07-20 ; Times: 9
+	Date: 2018-07-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:dorsalis genus:Psammophilus country:&#34;India&#34;" ; Times: 1
+	Query: "Eirenis modestus" ; Times: 1
+	Query: "kerilia" ; Times: 1
+	Query: "genus:Odontophrynus specificepithet:cultripes" ; Times: 1
+	Query: "genus:Gonocephalus country:&#34;Indonesia&#34;" ; Times: 3
+	Query: "Ptychozoon sumatra" ; Times: 2
+	Query: "Hydrops triangularis" ; Times: 1
+	Query: "dipsadoboa" ; Times: 1
+	Query: "Astrotia" ; Times: 1
+	Query: "specificepithet:poecilonotus genus:Pseustes hastissue:1" ; Times: 1
+	Query: "Tylototriton verrucosus" ; Times: 1
+	Query: "vntype:specimen specificepithet:blanfordanus genus:Psammophilus country:&#34;India&#34;" ; Times: 2
+	Query: "ku 5862" ; Times: 1
+	Query: "vipera aspis" ; Times: 1
+	Query: "Ptychozoon kuhli" ; Times: 10
+	Query: "genus:Oxybelis hastissue:1" ; Times: 3
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "4744 KU" ; Times: 1
+	Query: "Blanus strauchi hastissue:1" ; Times: 1
+	Query: "Mt Kupe" ; Times: 2
+	Query: "ZMUC R631340" ; Times: 5
+	Query: "Aprasia hastissue:1" ; Times: 1
+	Query: "6070 KU" ; Times: 1
+	Query: "ku 2796" ; Times: 1
+	Query: "Boiga ochracea" ; Times: 1
+	Query: "specificepithet:aeneus genus:Oxybelis hastissue:1" ; Times: 1
+	Query: "KU 4600" ; Times: 1
+	Query: "genus:Chironius hastissue:1" ; Times: 1
+	Query: "emydocephalus" ; Times: 2
+	Query: "atractaspis ghana" ; Times: 1
+	Query: "hydrophis fasciatus" ; Times: 1
+	Query: "lamprophis erlangeri" ; Times: 2
+	Query: "specificepithet:pullatus genus:Spilotes hastissue:1" ; Times: 1
+	Query: "genus:Callulina hastissue:1" ; Times: 1
+	Query: "elaphe situla" ; Times: 1
+	Query: "oligodon bitorquatus" ; Times: 1
+	Query: "hydrophis parviceps" ; Times: 1
+	Query: "genus:Tropidophis family:Tropidophiidae hastissue:1" ; Times: 1
+	Query: "genus:Hyperolius specificepithet:mitchelli" ; Times: 1
+	Query: "genus:Bronchocela country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "specificepithet:pulcher genus:Phyllodactylus" ; Times: 1
+	Query: "procterae" ; Times: 2
+	Query: "6505 KU" ; Times: 1
+	Query: "ZMUC R631336" ; Times: 2
+	Query: "mertensophryne" ; Times: 2
+	Query: "genus:Probreviceps hastissue:1" ; Times: 1
+	Query: "genus:Polychrus (specimen) hastissue:1" ; Times: 1
+	Query: "KU 8563" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 977 download events in this period)
+Total number of records downloaded: 5080
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 2
+	Country: United States ; Times: 8
+	Country: Germany ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Bulgaria ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 5
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-17 ; Times: 2
+	Date: 2018-07-09 ; Times: 2
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-31 ; Times: 3
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-19 ; Times: 2
+	Date: 2018-07-18 ; Times: 2
+	Date: 2018-07-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "vipera berus" ; Times: 2
+	Query: "Platyurus platyurus" ; Times: 1
+	Query: "oxyrhopus" ; Times: 1
+	Query: "karnataka" ; Times: 1
+	Query: "(Liophis OR Leimadophis OR Lygophis OR Dromicus OR Xenodon OR Waglerophis OR Lystrophis OR Umbrivaga OR Erythrolamprus) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:versicolor genus:Calotes country:&#34;India&#34;" ; Times: 1
+	Query: "family:chamaeleonidae hastissue:1" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "dipsadoboa" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "mertensophryne" ; Times: 1
+	Query: "Boiga ochracea" ; Times: 2
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Cosymbotus platyurus" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 1
+
+
+End of report.
