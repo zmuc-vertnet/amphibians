@@ -1,0 +1,162 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 98
+Number of records retrieved in searches: 611
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 57
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Sweden ; Times: 15
+	Country: United Kingdom ; Times: 2
+	Country: Democratic Republic of the Congo ; Times: 2
+	Country: Austria ; Times: 12
+	Country: Germany ; Times: 2
+	Country: Kenya ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ukraine ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-02 ; Times: 3
+	Date: 2018-09-26 ; Times: 4
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-06 ; Times: 2
+	Date: 2018-09-07 ; Times: 11
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-05 ; Times: 5
+	Date: 2018-09-28 ; Times: 1
+	Date: 2018-09-29 ; Times: 3
+	Date: 2018-09-30 ; Times: 2
+	Date: 2018-09-11 ; Times: 5
+	Date: 2018-09-10 ; Times: 14
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-14 ; Times: 2
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 4
+	Date: 2018-09-24 ; Times: 4
+	Date: 2018-09-01 ; Times: 12
+	Date: 2018-09-20 ; Times: 17
+	Date: 2018-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Boiga ochracea institutioncode:ZMUC" ; Times: 1
+	Query: "genus:Vipera country:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Afrixalus specificepithet:quadrivittatus" ; Times: 1
+	Query: "genus:Vipera country:&#34;Greece&#34;" ; Times: 1
+	Query: "genus:psammophilus hastissue:1" ; Times: 2
+	Query: "ialtris dorsalis" ; Times: 1
+	Query: "Pseudoeryx plicatilis hastissue:1" ; Times: 1
+	Query: "Gloydius halys" ; Times: 4
+	Query: "genus:Acanthocercus hastissue:1" ; Times: 3
+	Query: "Micrelaps" ; Times: 3
+	Query: "Pareas carinatus" ; Times: 1
+	Query: "Boiga multimaculata institutioncode:ZMUC" ; Times: 1
+	Query: "vntype:specimen specificepithet:anomalus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Pareas monticola" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "Dispholidus typus" ; Times: 6
+	Query: "Typhlops tenuis" ; Times: 1
+	Query: "genus:Rhotropus" ; Times: 1
+	Query: "Rana dalmatina" ; Times: 1
+	Query: "Hydrops triangularis hastissue:1" ; Times: 1
+	Query: "Helicops modestus hastissue:1" ; Times: 1
+	Query: "Oligodon hastissue:1" ; Times: 3
+	Query: "oligodon arnensis" ; Times: 1
+	Query: "reinhardti zmuc" ; Times: 2
+	Query: "genus:trapelus hastissue:1" ; Times: 1
+	Query: "Pseudocerastes" ; Times: 1
+	Query: "Vipera vntype:specimen country:&#34;Russia&#34;" ; Times: 1
+	Query: "genus:lyriocephalus hastissue:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:Draco country:&#34;Thailand&#34;" ; Times: 3
+	Query: "(Lygosoma OR Riopa OR Mochlus) hastissue:1" ; Times: 2
+	Query: "Walterinnesia" ; Times: 1
+	Query: "Helicops carinicaudus hastissue:1" ; Times: 1
+	Query: "genus:Ceratophora hastissue:1" ; Times: 1
+	Query: "genus:coryphophylax hastissue:1" ; Times: 1
+	Query: "Calloselasma rhodostoma hastissue:1" ; Times: 1
+	Query: "genus:sitana hastissue:1" ; Times: 1
+	Query: "elachistodon" ; Times: 2
+	Query: "Naja nigricollis" ; Times: 6
+	Query: "genus:Vipera country:&#34;Afghanistan&#34;" ; Times: 1
+	Query: "specificepithet:laticaudata genus:laticauda country:&#34;papua new guinea&#34;" ; Times: 1
+	Query: "Helicops leopardinus hastissue:1" ; Times: 1
+	Query: "ialtris" ; Times: 1
+	Query: "genus:Naja specificepithet:nigricollis" ; Times: 1
+	Query: "Anilius scytale" ; Times: 1
+	Query: "Vipera lebetina" ; Times: 4
+	Query: "genus:Micrelaps hastissue:1" ; Times: 2
+	Query: "african amphibians" ; Times: 2
+	Query: "genus:Naja specificepithet:mossambica" ; Times: 1
+	Query: "procterae" ; Times: 1
+	Query: "Helicops hastissue:1" ; Times: 5
+	Query: "specificepithet:maculatus genus:Draco country:&#34;malaysia&#34;" ; Times: 1
+	Query: "Leptopelis notatus mappable:1" ; Times: 1
+	Query: "genus:Otocryptis hastissue:1" ; Times: 2
+	Query: "KU 5212" ; Times: 1
+	Query: "(Lygosoma OR Riopa OR Mochlus) institutioncode:ZMUC" ; Times: 3
+	Query: "ceratophora" ; Times: 1
+	Query: "Vipera renardi" ; Times: 1
+	Query: "specificepithet:baliodeirus genus:Liopeltis" ; Times: 1
+	Query: "Oligodon taeniolatus" ; Times: 2
+	Query: "Naja oxiana" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 846 download events in this period)
+Total number of records downloaded: 374
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: United Kingdom ; Times: 2
+	Country: Brazil ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 6
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-20 ; Times: 3
+	Date: 2018-09-21 ; Times: 2
+	Date: 2018-09-19 ; Times: 4
+	Date: 2018-09-18 ; Times: 6
+	Date: 2018-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Boiga ochracea institutioncode:ZMUC" ; Times: 1
+	Query: "genus:Phrynosoma basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Boiga multimaculata institutioncode:ZMUC" ; Times: 1
+	Query: "specificepithet:maculatus genus:Draco country:&#34;malaysia&#34;" ; Times: 1
+	Query: "Rhadinaea decorata" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "Pareas carinatus" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Pareas monticola" ; Times: 1
+	Query: "Typhlops tenuis" ; Times: 1
+	Query: "Leptodeira polysticta" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "hemidactylus frenatus continent:Asia hastissue:1" ; Times: 1
+	Query: "Leptophis mexicanus mexicanus" ; Times: 1
+	Query: "Pliocercus elapoides elapoides" ; Times: 1
+	Query: "liolaemus country:&#34;Peru&#34;" ; Times: 1
+	Query: "Drymobius margaritiferus margaritiferus" ; Times: 1
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "Leptodeira septentrionalis" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "Ameiva undulata" ; Times: 2
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Pareas margaritophorus" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 2
+
+
+End of report.
