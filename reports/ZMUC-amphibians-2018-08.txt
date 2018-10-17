@@ -1,0 +1,224 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 148
+Number of records retrieved in searches: 2327
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: United Kingdom ; Times: 8
+	Country: South Africa ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 19
+	Country: France ; Times: 5
+	Country: United States ; Times: 82
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 9
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-02 ; Times: 9
+	Date: 2018-08-27 ; Times: 11
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-01 ; Times: 19
+	Date: 2018-08-08 ; Times: 10
+	Date: 2018-08-30 ; Times: 4
+	Date: 2018-08-31 ; Times: 10
+	Date: 2018-08-24 ; Times: 10
+	Date: 2018-08-09 ; Times: 8
+	Date: 2018-08-22 ; Times: 31
+	Date: 2018-08-18 ; Times: 1
+	Date: 2018-08-20 ; Times: 4
+	Date: 2018-08-16 ; Times: 2
+	Date: 2018-08-23 ; Times: 3
+	Date: 2018-08-07 ; Times: 1
+	Date: 2018-08-06 ; Times: 17
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-14 ; Times: 2
+	Date: 2018-08-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "ophiophagus thailand" ; Times: 2
+	Query: "zmuc tanzania" ; Times: 1
+	Query: "family:Brevicipitidae class:amphibia locality:uluguru country:&#34;Tanzania&#34; hastissue:1" ; Times: 1
+	Query: "Bothrops bilineatus" ; Times: 1
+	Query: "Naja mappable:1" ; Times: 3
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 4
+	Query: "ophiophagus borneo" ; Times: 1
+	Query: "Bothrops lanceolatus" ; Times: 1
+	Query: "KU 8132" ; Times: 2
+	Query: "family:Brevicipitidae class:amphibia country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "ophiophagus philippines" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT FMNH)" ; Times: 2
+	Query: "specificepithet:uluguruensis class:reptilia country:&#34;Tanzania&#34; year &gt;= 1990" ; Times: 1
+	Query: "zmuc indonesia" ; Times: 1
+	Query: "gonatodes caudiscutatus" ; Times: 2
+	Query: "Helicops angulatus" ; Times: 6
+	Query: "psammophylax multisquamis" ; Times: 1
+	Query: "specificepithet:melanoleuca genus:naja country:&#34;nigeria&#34;" ; Times: 1
+	Query: "oligodon arnensis" ; Times: 8
+	Query: "genus:Oxybelis hastissue:1" ; Times: 2
+	Query: "specificepithet:poecilonotus genus:Pseustes country:&#34;Trinidad and Tobago&#34;" ; Times: 1
+	Query: "rhamphiophis" ; Times: 1
+	Query: "Lycodon jara" ; Times: 10
+	Query: "genus:Rieppeleon class:reptilia country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "zmuc peru" ; Times: 1
+	Query: "KU 7066" ; Times: 3
+	Query: "Naja melanoleuca" ; Times: 2
+	Query: "Bothrops punctatus" ; Times: 1
+	Query: "class:reptilia country:&#34;Sudan&#34; year &lt;= 2000" ; Times: 1
+	Query: "naja melanoleuca liberia" ; Times: 1
+	Query: "Hydrophis cyanocinctus" ; Times: 1
+	Query: "ophiophagus malaysia" ; Times: 1
+	Query: "Bothrops cotiara" ; Times: 1
+	Query: "Hydrophis belcheri" ; Times: 2
+	Query: "hastissue:1 Gloydius" ; Times: 2
+	Query: "multisquamis" ; Times: 1
+	Query: "genus:Rieppeleon class:reptilia country:&#34;Tanzania&#34; year &gt;= 1990" ; Times: 1
+	Query: "7066 KU" ; Times: 2
+	Query: "blomhoffi (japan)" ; Times: 1
+	Query: "specificepithet:laticaudata genus:Laticauda hastissue:1" ; Times: 1
+	Query: "KU 6517" ; Times: 3
+	Query: "genus:Sibynophis" ; Times: 1
+	Query: "specificepithet:melanoleuca genus:naja country:&#34;congo&#34;" ; Times: 1
+	Query: "genus:Boulengerina" ; Times: 1
+	Query: "specificepithet:arnensis genus:oligodon hastissue:1" ; Times: 1
+	Query: "naja melanoleuca" ; Times: 1
+	Query: "class:reptilia country:&#34;south Sudan&#34; year &lt;= 2000" ; Times: 2
+	Query: "specificepithet:dilepis genus:Chamaeleo class:reptilia hastissue:1" ; Times: 1
+	Query: "order:Anura country:&#34;Sudan&#34;" ; Times: 1
+	Query: "hastissue:1 Calloselasma rhodostoma" ; Times: 1
+	Query: "1435 KU" ; Times: 1
+	Query: "boiga ochracea" ; Times: 1
+	Query: "genus:Naja specificepithet:nigricollis" ; Times: 4
+	Query: "Bothrops venezuelensis" ; Times: 1
+	Query: "tropidophis hastissue:1" ; Times: 1
+	Query: "genus:Rieppeleon class:reptilia" ; Times: 1
+	Query: "specificepithet:cervinus genus:Siphlophis" ; Times: 1
+	Query: "genus:Leptophis hastissue:1" ; Times: 3
+	Query: "genus:Chamaeleo class:reptilia country:&#34;Tanzania&#34; hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Bothrops punctatus " ; Times: 1
+	Query: "genus:Naja specificepithet:mossambica" ; Times: 4
+	Query: "order:Anura country:&#34;Zambia&#34; year &gt;= 1980" ; Times: 3
+	Query: "9832 KU" ; Times: 1
+	Query: "genus:dipsadoboa country:&#34;congo&#34;" ; Times: 2
+	Query: "specificepithet:polylepis genus:Dendroaspis family:Elapidae order:Squamata" ; Times: 1
+	Query: "Melanoseps" ; Times: 1
+	Query: "chironius bicarinatus" ; Times: 1
+	Query: "family:Brevicipitidae class:amphibia locality:uluguru country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "specificepithet:spectrum genus:Rhampholeon class:reptilia hastissue:1" ; Times: 1
+	Query: "KU 9612" ; Times: 1
+	Query: "V 1128" ; Times: 1
+	Query: "genus:Rhotropus" ; Times: 4
+	Query: "genus:Naja melanoleuca" ; Times: 8
+	Query: "genus:Spilotes hastissue:1" ; Times: 1
+	Query: "Eryx johnii" ; Times: 1
+	Query: "zmuc ecuador" ; Times: 2
+	Query: "country:&#34;Brazil&#34; institutioncode:ZMUC" ; Times: 10
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 1416 download events in this period)
+Total number of records downloaded: 12519
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United Kingdom ; Times: 9
+	Country: South Africa ; Times: 3
+	Country: Denmark ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: India ; Times: 1
+	Country: United States ; Times: 11
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: Spain ; Times: 26
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-02 ; Times: 1
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-30 ; Times: 3
+	Date: 2018-08-26 ; Times: 3
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-24 ; Times: 2
+	Date: 2018-08-09 ; Times: 10
+	Date: 2018-08-22 ; Times: 4
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-05 ; Times: 2
+	Date: 2018-08-23 ; Times: 4
+	Date: 2018-08-07 ; Times: 5
+	Date: 2018-08-06 ; Times: 2
+	Date: 2018-08-01 ; Times: 9
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-10 ; Times: 7
+	Date: 2018-08-08 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "amphiesma (japan)" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "Laticauda laticaudata" ; Times: 1
+	Query: "gonatodes caudiscutatus" ; Times: 2
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Bothrops lanceolatus" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "recordedby:Baron" ; Times: 1
+	Query: "Hydrophis melanocephalus" ; Times: 1
+	Query: "odontophrynus" ; Times: 1
+	Query: "rhamphiophis" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "Epicrates cenchria" ; Times: 1
+	Query: "Emydocephalus" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Hemidactylus turcicus turcicus" ; Times: 1
+	Query: "rhabdophis (japan)" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "Bothrops venezuelensis" ; Times: 1
+	Query: "Hydrophis cyanocinctus" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Helicops angulatus" ; Times: 1
+	Query: "genus:Liotyphlops" ; Times: 1
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "multisquamis" ; Times: 1
+	Query: "Sceloporus variabilis variabilis" ; Times: 1
+	Query: "genus:Naja melanoleuca" ; Times: 1
+	Query: "Bothrops jararacussu" ; Times: 1
+	Query: "boiga (Solomon islands)" ; Times: 1
+	Query: "genus:Sibynophis" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 2
+	Query: "genus:Boulengerina" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "genus:Clelia" ; Times: 1
+	Query: "oligodon arnensis" ; Times: 1
+	Query: "boiga ochracea" ; Times: 1
+	Query: "Hydrophis ornatus" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 2
+	Query: "family:Bufonidae continent:Africa AND (NOT bufo)" ; Times: 1
+	Query: "Porthidium lansbergii" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "Bothrops neuwiedi" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "Bothrops bilineatus" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "Chironius exoletus" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Bothrops jararaca" ; Times: 1
+	Query: "Bothrops cotiara" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Bothrops alternatus" ; Times: 1
+	Query: "psammophylax" ; Times: 1
+	Query: "specificepithet:clelia genus:Clelia" ; Times: 1
+
+
+End of report.
