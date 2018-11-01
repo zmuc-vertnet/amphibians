@@ -1,0 +1,190 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 91
+Number of records retrieved in searches: 455
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 49
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Austria ; Times: 27
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 6
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 2
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-07 ; Times: 5
+	Date: 2018-10-01 ; Times: 3
+	Date: 2018-10-03 ; Times: 28
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-06 ; Times: 2
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-26 ; Times: 8
+	Date: 2018-10-27 ; Times: 2
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-25 ; Times: 4
+	Date: 2018-10-29 ; Times: 3
+	Date: 2018-10-08 ; Times: 2
+	Date: 2018-10-09 ; Times: 2
+	Date: 2018-10-19 ; Times: 4
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-13 ; Times: 2
+	Date: 2018-10-12 ; Times: 1
+	Date: 2018-10-11 ; Times: 2
+	Date: 2018-10-10 ; Times: 1
+	Date: 2018-10-17 ; Times: 4
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 2
+	Date: 2018-10-14 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lycodonomorphus" ; Times: 1
+	Query: "genus:Rana specificepithet:dalmatina" ; Times: 1
+	Query: "Elapsoidea semiannulata" ; Times: 2
+	Query: "Atractaspis aterrima" ; Times: 2
+	Query: "genus:Afronatrix" ; Times: 1
+	Query: "specificepithet:carinata genus:Candoia hastissue:1" ; Times: 2
+	Query: "genus:Ramphotyphlops continent:South America" ; Times: 1
+	Query: "telescopus fallax" ; Times: 1
+	Query: "Cardioglossa pulchra" ; Times: 1
+	Query: "specificepithet:sumatrana genus:naja hastissue:1" ; Times: 1
+	Query: "Tropidurus hygomi" ; Times: 1
+	Query: "specificepithet:boa genus:Bothrochilus" ; Times: 4
+	Query: "Naja haje" ; Times: 4
+	Query: "genus:Grayia" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "Vipera ammodytes" ; Times: 1
+	Query: "Emydocephalus" ; Times: 1
+	Query: "micrelaps" ; Times: 1
+	Query: "specificepithet:hoplogaster genus:Philothamnus" ; Times: 1
+	Query: "Dendroaspis polylepis" ; Times: 1
+	Query: "ZMUC-R6562" ; Times: 1
+	Query: "genus: Boulengerina" ; Times: 1
+	Query: "genus:Arthroleptis specificepithet:xenodactylus" ; Times: 1
+	Query: "specificepithet:sumatrana genus:naja" ; Times: 1
+	Query: "boulengerina" ; Times: 1
+	Query: "genus:Euleptes" ; Times: 1
+	Query: "specificepithet:armata genus:Agama hastissue:1" ; Times: 1
+	Query: "trimeresurus malabaricus" ; Times: 2
+	Query: "Feylinia currori" ; Times: 2
+	Query: "genus:pseudonaja hastissue:1" ; Times: 1
+	Query: "rennell ku" ; Times: 1
+	Query: "Atractaspis dahomeyensis" ; Times: 2
+	Query: "genus:naja hastissue:1" ; Times: 1
+	Query: "oligodon arnensis india" ; Times: 1
+	Query: "loveridgelaps" ; Times: 1
+	Query: "genus:Hydraethiops" ; Times: 1
+	Query: "ahaetulla nasuta india" ; Times: 2
+	Query: "Atractaspis micropholis" ; Times: 3
+	Query: "specificepithet:mipartitus genus:Micrurus" ; Times: 1
+	Query: "genus:Bothriechis country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Python sebae" ; Times: 7
+	Query: "specificepithet:aculeata genus:Agama hastissue:1" ; Times: 1
+	Query: "Bitis arietans country:&#34;Kenya&#34;" ; Times: 1
+	Query: "ahaetulla dispar" ; Times: 1
+	Query: "Hoplodactylus pacificus" ; Times: 1
+	Query: "Afrixalus equatorialis mappable:1" ; Times: 1
+	Query: "Afrixalus osorioi mappable:1" ; Times: 1
+	Query: "gbifdatasetid:cb643105-2e6b-403d-a23b-2c8128d1f97c" ; Times: 1
+	Query: "calliophis nigriscens" ; Times: 1
+	Query: "boiga trigonata" ; Times: 2
+	Query: "specificepithet:ornatus genus:Philothamnus" ; Times: 1
+	Query: "Ophiophagus thailand" ; Times: 2
+	Query: "Naja katiensis" ; Times: 2
+	Query: "scaphiophis" ; Times: 1
+	Query: "genus:afronatrix" ; Times: 1
+	Query: "oligodon venustus" ; Times: 1
+	Query: "specificepithet:muta genus:Lachesis" ; Times: 2
+	Query: "xenodermus" ; Times: 1
+	Query: "genus: Python sebae" ; Times: 1
+	Query: "Lachesis muta" ; Times: 2
+	Query: "Atractaspis microlepidota" ; Times: 4
+	Query: "specificepithet:laticaudata genus:laticauda country:&#34;papua new guinea&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1300 download events in this period)
+Total number of records downloaded: 1966
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 4
+	Country: United States ; Times: 21
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-23 ; Times: 4
+	Date: 2018-10-06 ; Times: 2
+	Date: 2018-10-07 ; Times: 6
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-24 ; Times: 4
+	Date: 2018-10-03 ; Times: 5
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-25 ; Times: 4
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-29 ; Times: 3
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-17 ; Times: 6
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Crotaphopeltis" ; Times: 1
+	Query: "genus:Cnemidophorus" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "specificepithet:lemniscatus genus:Micrurus" ; Times: 2
+	Query: "Bitis arietans" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "specificepithet:schlegelii genus:Bothriechis" ; Times: 1
+	Query: "Tropidurus hygomi" ; Times: 1
+	Query: "genus:Lycodonomorphus" ; Times: 1
+	Query: "genus:Grayia" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "telescopus fallax" ; Times: 2
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "genus: Python sebae" ; Times: 1
+	Query: "specificepithet:hoplogaster genus:Philothamnus" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "genus: Boulengerina" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "genus:naja hastissue:1" ; Times: 1
+	Query: "genus:Hydraethiops" ; Times: 1
+	Query: "heterodon platyrhinos vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:mipartitus genus:Micrurus" ; Times: 1
+	Query: "genus:Bothriechis country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Bitis arietans country:&#34;Kenya&#34;" ; Times: 1
+	Query: "Gonatodes humeralis" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "genus:afronatrix" ; Times: 1
+	Query: "specificepithet:muta genus:Lachesis" ; Times: 3
+	Query: "family:Viperidae country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "nerodia" ; Times: 1
+	Query: "genus: Natriciteres" ; Times: 1
+	Query: "Micrurus Mexico" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
