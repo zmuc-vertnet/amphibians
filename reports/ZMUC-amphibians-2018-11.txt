@@ -1,0 +1,178 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 1251
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 10
+	Country: Israel ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 7
+	Country: France ; Times: 6
+	Country: United States ; Times: 66
+	Country: Malaysia ; Times: 1
+	Country: China ; Times: 1
+	Country: Chile ; Times: 10
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-18 ; Times: 4
+	Date: 2018-11-23 ; Times: 1
+	Date: 2018-11-09 ; Times: 11
+	Date: 2018-11-08 ; Times: 1
+	Date: 2018-11-07 ; Times: 5
+	Date: 2018-11-06 ; Times: 4
+	Date: 2018-11-05 ; Times: 15
+	Date: 2018-11-04 ; Times: 17
+	Date: 2018-11-03 ; Times: 6
+	Date: 2018-11-15 ; Times: 2
+	Date: 2018-11-01 ; Times: 8
+	Date: 2018-11-17 ; Times: 1
+	Date: 2018-11-24 ; Times: 1
+	Date: 2018-11-26 ; Times: 3
+	Date: 2018-11-14 ; Times: 6
+	Date: 2018-11-20 ; Times: 5
+	Date: 2018-11-30 ; Times: 7
+	Date: 2018-11-22 ; Times: 5
+	Date: 2018-11-12 ; Times: 1
+	Date: 2018-11-29 ; Times: 4
+	Date: 2018-11-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pseustes class:reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Chersodromus" ; Times: 1
+	Query: "Tropidodipsas sartorii" ; Times: 1
+	Query: "family:Colubridae order:squamata country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "xenochrophis java" ; Times: 3
+	Query: "Chamaesaura anguina" ; Times: 1
+	Query: "genus:Leptopelis specificepithet:occidentalis" ; Times: 7
+	Query: "specificepithet:bogerti genus:Micrurus" ; Times: 1
+	Query: "Pareas carinatus" ; Times: 2
+	Query: "genus:Rhotropus" ; Times: 4
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 4
+	Query: "specificepithet:modestus genus:Eirenis" ; Times: 2
+	Query: "genus:Micrurus order:squamata country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "specificepithet:kaouthia genus:naja hastissue:1" ; Times: 3
+	Query: "Cordylus beraduccii" ; Times: 1
+	Query: "specificepithet:kaouthia genus:naja" ; Times: 1
+	Query: "oligodon arnensis india" ; Times: 1
+	Query: "Tarentola annularis is mappable =1" ; Times: 1
+	Query: "liophis triscalis" ; Times: 1
+	Query: "gemonensis" ; Times: 1
+	Query: "Tropidodipsas fasciata" ; Times: 2
+	Query: "Coleonyx variegata" ; Times: 3
+	Query: "genus:hemachatus hastissue:1" ; Times: 1
+	Query: "Elachistodon" ; Times: 2
+	Query: "sibynomorphus turgidus" ; Times: 3
+	Query: "xenochrophis melanozostus" ; Times: 2
+	Query: "Hypsilurus dilophus" ; Times: 1
+	Query: "genus:Tantilla order:squamata country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Afrixalus fulvovittatus mappable:1" ; Times: 1
+	Query: "ovophis monticola" ; Times: 1
+	Query: "genus:eublepharis hastissue:1" ; Times: 2
+	Query: "xenochrophis asperrimus" ; Times: 1
+	Query: "ahaetulla nasuta india" ; Times: 1
+	Query: "Pseudopus" ; Times: 1
+	Query: "genus:aspidelaps hastissue:1" ; Times: 1
+	Query: "Cordylus cordylus" ; Times: 1
+	Query: "liopeltis tricolor" ; Times: 1
+	Query: "specificepithet:trinitatis genus:Anolis hastissue:1" ; Times: 1
+	Query: "genus:Bothrops class:reptilia country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "genus:Walterinnesia hastissue:1" ; Times: 1
+	Query: "genus:Micrurus class:reptilia country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Afrixalus osorioi mappable:1" ; Times: 1
+	Query: "genus:Naja specificepithet:nigricollis" ; Times: 4
+	Query: "genus:Rana specificepithet:dalmatina" ; Times: 2
+	Query: "genus:Thamnodynastes order:squamata country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "genus:Leptotyphlops order:squamata country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Gekko swinhonis country:&#34;China&#34;" ; Times: 1
+	Query: "echis carinatus india" ; Times: 1
+	Query: "genus:Naja specificepithet:mossambica" ; Times: 4
+	Query: "Atractus badius" ; Times: 1
+	Query: "genus:Agkistrodon piscivorus Arkansas" ; Times: 1
+	Query: "genus:Arthroleptis specificepithet:affinis" ; Times: 1
+	Query: "amphiesma stolata india" ; Times: 1
+	Query: "Leptopelis notatus mappable:1" ; Times: 2
+	Query: "venningi" ; Times: 1
+	Query: "dendrelaphis tristis india" ; Times: 1
+	Query: "genus:elapsoidea hastissue:1" ; Times: 7
+	Query: "Acrochordus javanicus" ; Times: 1
+	Query: "Pareas margaritophorus" ; Times: 1
+	Query: "oligodon purpurascens" ; Times: 1
+	Query: "specificepithet:westermanni class:reptilia" ; Times: 1
+	Query: "Leptopelis ocellatus mappable:1" ; Times: 6
+	Query: "Grayia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1719 download events in this period)
+Total number of records downloaded: 2755
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: France ; Times: 1
+	Country: United States ; Times: 8
+	Country: China ; Times: 2
+	Country: Chile ; Times: 7
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 3
+	Date: 2018-11-07 ; Times: 2
+	Date: 2018-11-06 ; Times: 2
+	Date: 2018-11-05 ; Times: 2
+	Date: 2018-11-03 ; Times: 2
+	Date: 2018-11-15 ; Times: 1
+	Date: 2018-11-01 ; Times: 4
+	Date: 2018-11-27 ; Times: 1
+	Date: 2018-11-26 ; Times: 3
+	Date: 2018-11-14 ; Times: 1
+	Date: 2018-11-30 ; Times: 1
+	Date: 2018-11-12 ; Times: 6
+	Date: 2018-11-29 ; Times: 3
+	Date: 2018-11-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Tropidodipsas sartorii" ; Times: 2
+	Query: "Zootoca vivipara" ; Times: 1
+	Query: "family:Colubridae order:squamata country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "class:reptilia country:&#34;Venezuela&#34;" ; Times: 3
+	Query: "specificepithet:euryxanthus genus:Micruroides" ; Times: 1
+	Query: "genus:Ptychadena hastissue:1" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "family:Viperidae" ; Times: 1
+	Query: "genus:pachydactylus" ; Times: 1
+	Query: "Gekko japonicus country:&#34;China&#34;" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Hypsilurus dilophus" ; Times: 1
+	Query: "Dasypeltis" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Dipsas catesbyi" ; Times: 1
+	Query: "Tarentola annularis mappable =1" ; Times: 1
+	Query: "Pseudopus" ; Times: 1
+	Query: "order:squamata country:&#34;brazil&#34;" ; Times: 1
+	Query: "sceloporus" ; Times: 1
+	Query: "Leptophis mexicanus" ; Times: 1
+	Query: "Pseustes poecilonotus" ; Times: 1
+	Query: "genus:Opheodrys" ; Times: 2
+	Query: "genus:Bothrops class:reptilia country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "genus:Micrurus class:reptilia country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Gekko swinhonis country:&#34;China&#34;" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 2
+	Query: "Tropidodipsas fasciata" ; Times: 1
+	Query: "Pliocercus elapoides" ; Times: 1
+	Query: "genus:Thamnodynastes order:squamata country:&#34;Venezuela&#34;" ; Times: 1
+
+
+End of report.
