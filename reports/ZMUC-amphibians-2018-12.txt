@@ -1,0 +1,163 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 544
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 63
+	Country: Colombia ; Times: 1
+	Country: El Salvador ; Times: 1
+	Country: Tanzania ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: China ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Germany ; Times: 5
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-01 ; Times: 1
+	Date: 2018-12-08 ; Times: 6
+	Date: 2018-12-19 ; Times: 13
+	Date: 2018-12-11 ; Times: 2
+	Date: 2018-12-03 ; Times: 4
+	Date: 2018-12-14 ; Times: 4
+	Date: 2018-12-06 ; Times: 3
+	Date: 2018-12-22 ; Times: 6
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-18 ; Times: 1
+	Date: 2018-12-31 ; Times: 2
+	Date: 2018-12-09 ; Times: 19
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-29 ; Times: 1
+	Date: 2018-12-17 ; Times: 4
+	Date: 2018-12-05 ; Times: 2
+	Date: 2018-12-04 ; Times: 3
+	Date: 2018-12-10 ; Times: 4
+	Date: 2018-12-13 ; Times: 5
+	Date: 2018-12-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:ptyas country:&#34;thailand&#34; hastissue:1" ; Times: 1
+	Query: "genus:Rana specificepithet:dalmatina" ; Times: 2
+	Query: "atheris nitschei" ; Times: 5
+	Query: "vntype:specimen specificepithet:petersii genus:anolis" ; Times: 1
+	Query: "naja naja india" ; Times: 2
+	Query: "mussau leiopython" ; Times: 1
+	Query: "bitis caudalis" ; Times: 1
+	Query: "genus:acrochordus country:&#34;thailand&#34; hastissue:1" ; Times: 1
+	Query: "boiga trigonata india" ; Times: 1
+	Query: "Cryptothylax" ; Times: 1
+	Query: "Bothrops lanceolatus" ; Times: 2
+	Query: "specificepithet:taeniura genus:Elaphe hastissue:1" ; Times: 1
+	Query: "Pareas carinatus" ; Times: 2
+	Query: "phrynobatrachus sp." ; Times: 1
+	Query: "Vipera renardi" ; Times: 1
+	Query: "specificepithet:purpureomaculatus genus:Trimeresurus country:&#34;India&#34;" ; Times: 2
+	Query: "Trimeresurus malabaricus" ; Times: 1
+	Query: "Acanthosaura armata" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "Trimeresurus purpureomaculatus" ; Times: 1
+	Query: "Hypsilurus godeffroyi" ; Times: 3
+	Query: "Trimeresurus sumatranus" ; Times: 1
+	Query: "oligodon arnensis" ; Times: 1
+	Query: "telescopus fallax" ; Times: 1
+	Query: "telescopus fallax vntype:specimen hastissue:1" ; Times: 1
+	Query: "Trimeresurus cantori" ; Times: 1
+	Query: "psammodynastes pulverulentus india" ; Times: 1
+	Query: "Hydrosaurus vntype:specimen" ; Times: 2
+	Query: "causus rhombeatus" ; Times: 1
+	Query: "Elachistodon" ; Times: 1
+	Query: "hastissue:1 Gloydius halys" ; Times: 1
+	Query: "bothrops lanceolatus" ; Times: 3
+	Query: "typhlops muelleri" ; Times: 1
+	Query: "VIPERA AMMODYTES vntype:specimen hastissue:1" ; Times: 1
+	Query: "causus bilineatus" ; Times: 1
+	Query: "sphaerodactylus microlepis" ; Times: 1
+	Query: "Pseudocerastes persicus" ; Times: 1
+	Query: "Hoplophryne hastissue:1" ; Times: 1
+	Query: "hastissue:1 LACHESIS MUTA" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "Cryptothylax hastissue:1" ; Times: 1
+	Query: "genus:Bothrops country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "ptyas mucosus india" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 2
+	Query: "Bitis parviocula" ; Times: 1
+	Query: "hastissue:1 Calloselasma rhodostoma" ; Times: 1
+	Query: "bungarus caeruleus india" ; Times: 1
+	Query: "Toxicocalamus loriae" ; Times: 1
+	Query: "genus:sphaerodactylus hastissue:1" ; Times: 2
+	Query: "KU-4248" ; Times: 1
+	Query: "ku 6655" ; Times: 1
+	Query: "Tropidonophis dahlii" ; Times: 2
+	Query: "genus:Pyxicephalus specificepithet:adspersus" ; Times: 1
+	Query: "genus:Afrixalus specificepithet:septentrionalis" ; Times: 1
+	Query: "Xenodon rhabdocephalus" ; Times: 1
+	Query: "bothrops punctatus" ; Times: 1
+	Query: "atheris ceratophora" ; Times: 2
+	Query: "specificepithet:variabilis genus:sceloporus hastissue:1" ; Times: 1
+	Query: "amphiesma stolata india" ; Times: 1
+	Query: "echis carinatus india" ; Times: 1
+	Query: "Gonatodes caudiscutatus" ; Times: 1
+	Query: "echis multisquamatus" ; Times: 1
+	Query: "hastissue:1 Bothrops bilineatus" ; Times: 2
+	Query: "Daboia" ; Times: 1
+	Query: "specificepithet:durissus genus:Crotalus hastissue:1" ; Times: 1
+	Query: "dryophiops" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 809 download events in this period)
+Total number of records downloaded: 350
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 6
+	Country: China ; Times: 1
+	Country: Taiwan ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-22 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 2
+	Date: 2018-12-04 ; Times: 3
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-13 ; Times: 2
+	Date: 2018-12-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "VIPERA AMMODYTES vntype:specimen hastissue:1" ; Times: 1
+	Query: "telescopus fallax" ; Times: 1
+	Query: "telescopus fallax vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:variabilis genus:sceloporus hastissue:1" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "ophiophagus" ; Times: 1
+	Query: "Ethiopia" ; Times: 1
+	Query: "vietnam" ; Times: 1
+	Query: "helicops" ; Times: 1
+	Query: "crotalus durissus" ; Times: 1
+	Query: "Japalura swinhonis country:&#34;taiwan&#34;" ; Times: 1
+	Query: "vntype:specimen class:reptilia AND (NOT PARATYPE) hastypestatus:1" ; Times: 1
+	Query: "genus:Cnemidophorus hastissue:1" ; Times: 1
+	Query: "Hydrosaurus vntype:specimen" ; Times: 1
+	Query: "vntype:specimen genus:hemidactylus frenatus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+
+
+End of report.
