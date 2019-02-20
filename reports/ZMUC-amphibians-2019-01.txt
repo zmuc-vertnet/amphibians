@@ -1,0 +1,155 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 103
+Number of records retrieved in searches: 573
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 54
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United Arab Emirates ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 3
+	Country: Saint Kitts and Nevis ; Times: 1
+	Country: France ; Times: 8
+	Country: United Kingdom ; Times: 22
+	Country: Rwanda ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Belgium ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 4
+	Date: 2019-01-26 ; Times: 1
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-14 ; Times: 7
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-16 ; Times: 5
+	Date: 2019-01-17 ; Times: 6
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-03 ; Times: 6
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-28 ; Times: 2
+	Date: 2019-01-07 ; Times: 7
+	Date: 2019-01-06 ; Times: 4
+	Date: 2019-01-05 ; Times: 23
+	Date: 2019-01-04 ; Times: 3
+	Date: 2019-01-21 ; Times: 3
+	Date: 2019-01-20 ; Times: 5
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-24 ; Times: 6
+	Date: 2019-01-27 ; Times: 4
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Micrurus arkansas" ; Times: 1
+	Query: "(Mertensophryne)" ; Times: 1
+	Query: "Anolis (Crab)" ; Times: 1
+	Query: "genus:ptychozoon country:&#34;thailand&#34;" ; Times: 1
+	Query: "Sumatra AND Amphibians" ; Times: 1
+	Query: "(Mertensophryne) hastissue:1" ; Times: 2
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Causus resimus" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:jaculus genus:Eryx country:&#34;Egypt&#34;" ; Times: 1
+	Query: "specificepithet:petersii genus:Anolis" ; Times: 3
+	Query: "Atractaspis irregularis" ; Times: 2
+	Query: "rhamphiophis" ; Times: 2
+	Query: "specificepithet:humeralis genus:gonatodes country:&#34;tobago&#34;" ; Times: 1
+	Query: "ZFMK" ; Times: 1
+	Query: "Atractaspis aterrima" ; Times: 6
+	Query: "genus:Micrurus country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "liopeltis" ; Times: 2
+	Query: "zamenis longissimus" ; Times: 2
+	Query: "Dendroaspis polylepis" ; Times: 2
+	Query: "Anolis (Vieques)" ; Times: 2
+	Query: "Candoia bibroni" ; Times: 1
+	Query: "specificepithet:gabonica genus:Bitis" ; Times: 1
+	Query: "Heliobolus nitidus" ; Times: 1
+	Query: "specificepithet:semperi genus:Hydrophis" ; Times: 1
+	Query: "KU 8886" ; Times: 1
+	Query: "Bitis parviocula" ; Times: 1
+	Query: "Calloselasma" ; Times: 1
+	Query: "lycodonomorphus" ; Times: 1
+	Query: "specificepithet:guianensis genus:PHimophis AND (NOT MEXICO)" ; Times: 1
+	Query: "genus:Leptopelis specificepithet:bocagii" ; Times: 1
+	Query: "Vernalis illinois" ; Times: 1
+	Query: "country:&#34;tanzania&#34; institutioncode:ZMUC" ; Times: 1
+	Query: "Bungarus candidus" ; Times: 2
+	Query: "specificepithet:humeralis genus:gonatodes country:&#34;trinidad&#34;" ; Times: 1
+	Query: "808 genus:Hydrophis" ; Times: 2
+	Query: "Lycodon jara" ; Times: 2
+	Query: "Boiga irregularis country:&#34;Solomon Islands&#34; hastissue:1" ; Times: 1
+	Query: "genus:Liopeltis" ; Times: 1
+	Query: "liopeltis tricolor" ; Times: 4
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT AMNH)" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 5
+	Query: "Atractaspis dahomeyensis" ; Times: 1
+	Query: "Atractaspis bibronii" ; Times: 2
+	Query: "ZMUC R68184" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Suriname&#34;" ; Times: 1
+	Query: "dasypeltis" ; Times: 1
+	Query: "Gekko smithii" ; Times: 2
+	Query: "walterinnesia" ; Times: 1
+	Query: "boiga trigonata" ; Times: 1
+	Query: "Thrasops jacksoni" ; Times: 1
+	Query: "vntype:specimen specificepithet:naja genus:Naja basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hoplophryne hastissue:1" ; Times: 1
+	Query: "sphaerodactylus sputator" ; Times: 1
+	Query: "rennel" ; Times: 1
+	Query: "Trachischium" ; Times: 1
+	Query: "genus:Oxybelis hastissue:1" ; Times: 1
+	Query: "Atheris squamigera" ; Times: 1
+	Query: "mertensophryne" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 3
+	Query: "calotes maria" ; Times: 2
+	Query: "recordedby:andersen institutioncode:ZMUC" ; Times: 1
+	Query: "genus:Tantilla country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "anilius" ; Times: 1
+	Query: "Anolis roosevelti" ; Times: 4
+	Query: "teratoscincus scincus pakistan" ; Times: 1
+	Query: "family:Pygopodidae hastissue:1" ; Times: 1
+	Query: "(Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:ZMUC" ; Times: 1
+	Query: "specificepithet:durissus genus:Crotalus hastissue:1" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Venezuela&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 962 download events in this period)
+Total number of records downloaded: 293
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 4
+	Country: Germany ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-16 ; Times: 3
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "zootoca vivipara" ; Times: 1
+	Query: "Gymnophiona" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus" ; Times: 1
+	Query: "Phelsuma laticauda" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis hastissue:1" ; Times: 2
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "Candoia bibroni" ; Times: 1
+
+
+End of report.
