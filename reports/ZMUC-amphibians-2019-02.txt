@@ -1,0 +1,180 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 562
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 3
+	Country: Portugal ; Times: 6
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 33
+	Country: United States ; Times: 47
+	Country: United Kingdom ; Times: 8
+	Country: Hungary ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Hong Kong ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-23 ; Times: 3
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-10 ; Times: 9
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-12 ; Times: 7
+	Date: 2019-02-15 ; Times: 8
+	Date: 2019-02-16 ; Times: 2
+	Date: 2019-02-18 ; Times: 4
+	Date: 2019-02-24 ; Times: 2
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-27 ; Times: 4
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-07 ; Times: 30
+	Date: 2019-02-04 ; Times: 3
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-08 ; Times: 7
+	Date: 2019-02-28 ; Times: 7
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-01 ; Times: 5
+	Date: 2019-02-21 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:causus country:&#34;nigeria&#34;" ; Times: 1
+	Query: "specificepithet:maculatus genus:causus country:&#34;nigeria&#34;" ; Times: 1
+	Query: "specificepithet:clelia genus:Clelia country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Liopeltis" ; Times: 3
+	Query: "specificepithet:resimus genus:causus country:&#34;congo&#34;" ; Times: 1
+	Query: "specificepithet:aegyptia genus:Uromastyx" ; Times: 1
+	Query: "Bungarus andamanensis" ; Times: 1
+	Query: "specificepithet:marmoratus genus:anolis hastissue:1" ; Times: 1
+	Query: "naja haje" ; Times: 1
+	Query: "specificepithet:taeniura family:Colubridae" ; Times: 3
+	Query: "specificepithet:lineatus genus:Liophis country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Echis mappable:1" ; Times: 1
+	Query: "rhampholeon spectrum" ; Times: 1
+	Query: "ZMUC R631333" ; Times: 2
+	Query: "genus:causus country:&#34;congo&#34;" ; Times: 2
+	Query: "Hyperolius schoutedeni mappable:1" ; Times: 1
+	Query: "Daboia russellii" ; Times: 1
+	Query: "genus:Chironius country:&#34;Trinidad&#34;" ; Times: 1
+	Query: "genus:causus country:&#34;malawi&#34;" ; Times: 2
+	Query: "specificepithet:cerastes genus:Crotalus hastissue:1" ; Times: 1
+	Query: "genus:Oxybelis hastissue:1" ; Times: 1
+	Query: "KU 4864" ; Times: 1
+	Query: "Lycodon jara" ; Times: 1
+	Query: "Psammophis sibilans" ; Times: 1
+	Query: "specificepithet:resimus genus:causus country:&#34;sudan&#34;" ; Times: 1
+	Query: "Buhoma vauerocegae" ; Times: 1
+	Query: "genus:Salvadora hastissue:1" ; Times: 1
+	Query: "genus:causus country:&#34;sudan&#34;" ; Times: 2
+	Query: "specificepithet:maculatus genus:causus country:&#34;ghana&#34;" ; Times: 1
+	Query: "Trimeresurus trigonocephalus" ; Times: 1
+	Query: "specificepithet:clelia genus:Clelia country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "genus:Drymarchon country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "vipera ursinii" ; Times: 1
+	Query: "family:uropeltidae hastissue:1" ; Times: 5
+	Query: "Hydraethiops mappable:1" ; Times: 1
+	Query: "specificepithet:rhombeatus genus:causus country:&#34;tanzania&#34;" ; Times: 3
+	Query: "specificepithet:aestivus genus:philodryas" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "ZMUC R6385" ; Times: 2
+	Query: "specificepithet:gecko genus:gekko hastissue:1" ; Times: 4
+	Query: "genus:Spilotes hastissue:1" ; Times: 2
+	Query: "ZMUC R63547" ; Times: 2
+	Query: "specificepithet:gingivinus genus:anolis hastissue:1" ; Times: 1
+	Query: "Eryx johnii" ; Times: 1
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "specificepithet:maculatus genus:causus country:&#34;congo&#34;" ; Times: 1
+	Query: "Drymarchon corais OR (melanurus) NOT (couperi) NOT (USA) NOT (United States)" ; Times: 1
+	Query: "bitis nasicornis" ; Times: 6
+	Query: "specificepithet:gabonica genus:bitis country:&#34;zambia&#34;" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus hastissue:1" ; Times: 1
+	Query: "genus:Asaccus" ; Times: 1
+	Query: "specificepithet:hemprichii genus:Micrurus" ; Times: 1
+	Query: "specificepithet:maculatus genus:causus country:&#34;cameroon&#34;" ; Times: 1
+	Query: "genus:Pseudopus hastissue:1" ; Times: 1
+	Query: "genus:Anguis hastissue:1" ; Times: 1
+	Query: "genus:bitis country:&#34;zambia&#34;" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "specificepithet:resimus genus:causus country:&#34;tanzania&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:cerastes country:&#34;Egypt&#34;" ; Times: 1
+	Query: "KU-5929" ; Times: 1
+	Query: "genus:bitis country:&#34;nigeria&#34;" ; Times: 1
+	Query: "specificepithet:fornasini genus:afrixalus" ; Times: 1
+	Query: "genus:causus country:&#34;zambia&#34;" ; Times: 3
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "ENHYDRIS PUNCTATA" ; Times: 2
+	Query: "genus:Spilotes country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:lichtensteini genus:causus" ; Times: 4
+	Query: "specificepithet:roseofusca" ; Times: 1
+	Query: "Calabaria mappable:1" ; Times: 1
+	Query: "Echis pyramidum" ; Times: 1
+	Query: "Antillophis andreae country:&#34;Cuba&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:spectrum genus:Rhampholeon hastissue:1" ; Times: 1
+	Query: "Atractaspis microlepidota" ; Times: 1
+	Query: "specificepithet:rufozonatum family:Colubridae" ; Times: 2
+	Query: "specificepithet:lineatus genus:Liophis country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Liopeltis genus:Liopeltis country:&#34;India&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1227 download events in this period)
+Total number of records downloaded: 547
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 11
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Hungary ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 4
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-21 ; Times: 5
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-16 ; Times: 2
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ursinii" ; Times: 1
+	Query: "phelsuma" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "tantilla melanocephala" ; Times: 1
+	Query: "Daboia russellii" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "Buhoma vauerocegae" ; Times: 1
+	Query: "siphonops" ; Times: 1
+	Query: "genus:Chironius" ; Times: 1
+	Query: "porcupine" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "genus:Pseudopus hastissue:1" ; Times: 1
+	Query: "Trimeresurus trigonocephalus" ; Times: 1
+	Query: "specificepithet:biscutatus genus:Trimorphodon" ; Times: 1
+	Query: "hastissue:1 AND Sumatra AND Reptilia" ; Times: 1
+	Query: "genus:Anguis hastissue:1" ; Times: 2
+	Query: "Hypnale hypnale" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "order:Anura locality:Sokoke country:&#34;Kenya&#34;" ; Times: 1
+	Query: "Atractaspis microlepidota" ; Times: 1
+	Query: "Bungarus caeruleus" ; Times: 1
+
+
+End of report.
