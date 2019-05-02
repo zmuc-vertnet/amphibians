@@ -1,0 +1,203 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 140
+Number of records retrieved in searches: 1321
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 1
+	Country: South Africa ; Times: 5
+	Country: India ; Times: 15
+	Country: France ; Times: 3
+	Country: United States ; Times: 86
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: Greece ; Times: 2
+	Country: Argentina ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 4
+	Date: 2019-04-13 ; Times: 6
+	Date: 2019-04-12 ; Times: 4
+	Date: 2019-04-11 ; Times: 10
+	Date: 2019-04-10 ; Times: 13
+	Date: 2019-04-17 ; Times: 2
+	Date: 2019-04-16 ; Times: 4
+	Date: 2019-04-15 ; Times: 2
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-30 ; Times: 13
+	Date: 2019-04-07 ; Times: 2
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-02 ; Times: 7
+	Date: 2019-04-03 ; Times: 7
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-23 ; Times: 8
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-26 ; Times: 9
+	Date: 2019-04-01 ; Times: 15
+	Date: 2019-04-24 ; Times: 11
+	Date: 2019-04-25 ; Times: 11
+	Date: 2019-04-28 ; Times: 2
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-09 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pulchra genus:Cardioglossa institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "genus:liopeltis hastissue:1" ; Times: 7
+	Query: "Sibynomorphus turgidus" ; Times: 1
+	Query: "Sitana" ; Times: 1
+	Query: "Psammophis sibilans mappable:1" ; Times: 1
+	Query: "Dendroaspis jamesoni mappable:1" ; Times: 1
+	Query: "Ischnocnema verrucosa" ; Times: 2
+	Query: "atractaspis aterrima" ; Times: 2
+	Query: "specificepithet:viviparus genus:Nectophrynoides institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "specificepithet:verrucosa genus:Ischnocnema institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 2
+	Query: "specificepithet:nasicornis genus:Bitis" ; Times: 1
+	Query: "Hyperolius platyceps mappable:1" ; Times: 2
+	Query: "specificepithet:minima genus:Rana institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "ku 8886" ; Times: 2
+	Query: "Chamaeleo dilepis mappable:1" ; Times: 1
+	Query: "specificepithet:gabonica genus:bitis" ; Times: 1
+	Query: "Dasypeltis atra mappable:1" ; Times: 1
+	Query: "Liopeltis tricolor" ; Times: 2
+	Query: "chrysopelea ornata india" ; Times: 1
+	Query: "class:reptilia country:&#34;India&#34; hastissue:1" ; Times: 1
+	Query: "elapsoidea sundevallii" ; Times: 2
+	Query: "ophiomorus punctatissimus" ; Times: 1
+	Query: "liopeltis tricolor" ; Times: 1
+	Query: "Rhampholeon spectrum" ; Times: 1
+	Query: "Leptopelis flavomaculatus" ; Times: 1
+	Query: "specificepithet:xenodactylus genus:Arthroleptis institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "genus:Lycophidion hastissue:1" ; Times: 1
+	Query: "genus:leptopelis specificepithet:uluguruensis" ; Times: 2
+	Query: "vntype:specimen (Phrynocephalus) hastissue:1" ; Times: 1
+	Query: "KU 6933" ; Times: 1
+	Query: "KU 5932" ; Times: 1
+	Query: "Natriciteres olivacea mappable:1" ; Times: 1
+	Query: "elachistodon westermanni" ; Times: 2
+	Query: "genus:Euleptes" ; Times: 1
+	Query: "xylophis perroteti" ; Times: 1
+	Query: "liopeltis calamaria" ; Times: 2
+	Query: "genus:Rhampholeon hastissue:1" ; Times: 1
+	Query: "specificepithet:maura genus:natrix hastissue:1" ; Times: 2
+	Query: "dendroaspis polylepis" ; Times: 1
+	Query: "xylophis" ; Times: 4
+	Query: "oligodon arnensis" ; Times: 1
+	Query: "walterinnesia" ; Times: 1
+	Query: "Otocryptis" ; Times: 1
+	Query: "specificepithet:affinis genus:Arthroleptis institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "Lyriocephalus" ; Times: 1
+	Query: "family:typhlopidae AND (NOT braminus) year &gt;= 1990 hastissue:1" ; Times: 2
+	Query: "Hydraethiops" ; Times: 2
+	Query: "Apostolepis" ; Times: 1
+	Query: "Liopeltis calamaria" ; Times: 1
+	Query: "vipera aspis" ; Times: 6
+	Query: "specificepithet:minima genus:Rana institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 2
+	Query: "Philothamnus angolensis mappable:1" ; Times: 1
+	Query: "liopeltis" ; Times: 1
+	Query: "specificepithet:kurtmuelleri genus:Pelophylax institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 2
+	Query: "Naja melanoleuca mappable:1" ; Times: 1
+	Query: "Hyperolius phantasticus mappable:1" ; Times: 2
+	Query: "pamir" ; Times: 2
+	Query: "bitis gabonica" ; Times: 1
+	Query: "Atheris nitschei" ; Times: 2
+	Query: "Enhydris punctata" ; Times: 1
+	Query: "Causus maculatus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:spectrum genus:Rhampholeon" ; Times: 2
+	Query: "Bothrops cotiara" ; Times: 3
+	Query: "specificepithet:spectrum genus:Rhampholeon hastissue:1" ; Times: 1
+	Query: "Salea" ; Times: 1
+	Query: "specificepithet:spectrum genus:Rhampholeon" ; Times: 6
+	Query: "zamenis" ; Times: 1
+	Query: "Cemophora missouri" ; Times: 1
+	Query: "ku 5791" ; Times: 2
+	Query: "Ogmodon" ; Times: 1
+	Query: "specificepithet:tanneri genus:Arthroleptis institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "zamenis longissimus" ; Times: 1
+	Query: "Crotaphopeltis hotamboeia mappable:1" ; Times: 1
+	Query: "specificepithet:macrodactylus genus:Probreviceps institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "psammodynastes pulverulentus india" ; Times: 1
+	Query: "genus:Leptopelis specificepithet:uluguruensis" ; Times: 2
+	Query: "Python sebae mappable:1" ; Times: 1
+	Query: "specificepithet:adolfifriederici genus:Arthroleptis institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "specificepithet:natrix genus:Natrix continent:Europe year &gt;= 1985 year &lt;= 2019" ; Times: 2
+	Query: "Feylinia currori mappable:1" ; Times: 1
+	Query: "Aparallactus n" ; Times: 1
+	Query: "specificepithet:verrucosa genus:Ischnocnema institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 4
+	Query: "feylinia currori" ; Times: 1
+	Query: "vntype:specimen genus:Euleptes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cordylus cordylus mappable:1" ; Times: 1
+	Query: "Atheris rungweensis" ; Times: 1
+	Query: "family:Colubridae country:&#34;India&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Liopeltis hastissue:1" ; Times: 1
+	Query: "blanus strauchi" ; Times: 1
+	Query: "specificepithet:kurtmuelleri genus:Pelophylax institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "class:reptilia country:&#34;iraq&#34;" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1263 download events in this period)
+Total number of records downloaded: 315
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 14
+	Country: Mexico ; Times: 8
+	Country: South Africa ; Times: 3
+	Country: United Kingdom ; Times: 4
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-02 ; Times: 1
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-16 ; Times: 3
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-23 ; Times: 3
+	Date: 2019-04-06 ; Times: 2
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-26 ; Times: 2
+	Date: 2019-04-24 ; Times: 1
+	Date: 2019-04-25 ; Times: 4
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-08 ; Times: 2
+	Date: 2019-04-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Phyllodactylus" ; Times: 1
+	Query: "specificepithet:spectrum genus:Rhampholeon" ; Times: 1
+	Query: "lachesis" ; Times: 2
+	Query: "genus:Pachydactylus" ; Times: 1
+	Query: "country:&#34;Uruguay&#34;" ; Times: 1
+	Query: "Hydraethiops" ; Times: 1
+	Query: "vntype:specimen (Phrynocephalus) hastissue:1" ; Times: 1
+	Query: "vipera aspis" ; Times: 3
+	Query: "candoia carinata" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "Lophognathus temporalis" ; Times: 1
+	Query: "class:Reptilia country:&#34;Mozambique&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "dendroaspis polylepis" ; Times: 2
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 2
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "genus:Lycophidion hastissue:1" ; Times: 1
+	Query: "Lyriocephalus" ; Times: 1
+	Query: "class:reptilia country:&#34;iraq&#34;" ; Times: 3
+	Query: "Odontophrynus" ; Times: 1
+	Query: "cnemaspis" ; Times: 1
+
+
+End of report.
