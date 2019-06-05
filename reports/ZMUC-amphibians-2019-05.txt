@@ -1,0 +1,153 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 88
+Number of records retrieved in searches: 412
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 24
+	Country: Australia ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Czechia ; Times: 1
+	Country: Finland ; Times: 4
+	Country: India ; Times: 4
+	Country: France ; Times: 12
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 1
+	Country: Greece ; Times: 10
+	Country: Gabon ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Germany ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 2
+	Date: 2019-05-31 ; Times: 3
+	Date: 2019-05-09 ; Times: 11
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-07 ; Times: 2
+	Date: 2019-05-06 ; Times: 8
+	Date: 2019-05-01 ; Times: 5
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-27 ; Times: 4
+	Date: 2019-05-26 ; Times: 10
+	Date: 2019-05-21 ; Times: 4
+	Date: 2019-05-23 ; Times: 2
+	Date: 2019-05-22 ; Times: 3
+	Date: 2019-05-28 ; Times: 2
+	Date: 2019-05-18 ; Times: 2
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-11 ; Times: 5
+	Date: 2019-05-13 ; Times: 3
+	Date: 2019-05-14 ; Times: 6
+	Date: 2019-05-15 ; Times: 9
+	Date: 2019-05-16 ; Times: 1
+	Date: 2019-05-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Arthroleptis adolfifriederici" ; Times: 1
+	Query: "vntype:specimen specificepithet:temporaria genus:Rana order:Anura basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Drymarchon corais couperi" ; Times: 2
+	Query: "Elachistodon westermanni" ; Times: 1
+	Query: "Hydrops triangularis" ; Times: 1
+	Query: "Crotalus durissus terrificus" ; Times: 1
+	Query: "genus:Afrixalus specificepithet:vittiger" ; Times: 1
+	Query: "bothrochilus hastissue:1" ; Times: 3
+	Query: "Dendrophidion dendrophis" ; Times: 1
+	Query: "Rhadinaea brevirostris" ; Times: 1
+	Query: "Causus bilineatus" ; Times: 1
+	Query: "genus:Mehelya hastissue:1" ; Times: 2
+	Query: "genus:Hydrops hastissue:1" ; Times: 1
+	Query: "Lampropeltis polyzona" ; Times: 3
+	Query: "specificepithet:adolfifriederici genus:Arthroleptis institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "vipera aspis" ; Times: 4
+	Query: "vntype:specimen specificepithet:smithii genus:Gekko hastissue:1" ; Times: 1
+	Query: "genus:Gonionotophis hastissue:1" ; Times: 1
+	Query: "genus:Chamaelycus hastissue:1" ; Times: 3
+	Query: "genus:Helicops hastissue:1" ; Times: 1
+	Query: "bothrochilus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Tomodon ocellatus" ; Times: 3
+	Query: "Hemidactylus mabouia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "daboia indonesia" ; Times: 1
+	Query: "Chironius flavolineatus" ; Times: 1
+	Query: "Dipsas variegata" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "Ahaetulla vntype:specimen country:&#34;India&#34;" ; Times: 2
+	Query: "Anilius scytale" ; Times: 1
+	Query: "chamaelycus" ; Times: 3
+	Query: "Walterinnesia" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+	Query: "Lichanura" ; Times: 1
+	Query: "genus:Rhabdophis country:&#34;Burma&#34;" ; Times: 3
+	Query: "Siphlophis cervinus peru" ; Times: 2
+	Query: "elachistodon" ; Times: 1
+	Query: "Crotalus durissus terrificus#" ; Times: 1
+	Query: "ophiophagus indonesia" ; Times: 1
+	Query: "Eutropis macularia" ; Times: 2
+	Query: "Micrurus hemprichii" ; Times: 1
+	Query: "uromastyx aegyptia" ; Times: 10
+	Query: "genus:Walterinnesia" ; Times: 1
+	Query: "Chironius spixi" ; Times: 2
+	Query: "Micrelaps" ; Times: 2
+	Query: "genus:Arthroleptis specificepithet:xenodactyloides" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Lamprophis hastissue:1" ; Times: 1
+	Query: "Pseustes sulphureus" ; Times: 1
+	Query: "genus:Pseudoeryx hastissue:1" ; Times: 1
+	Query: "ZMUC R631333" ; Times: 2
+	Query: "specificepithet:spectrum genus:Rhampholeon hastissue:1" ; Times: 1
+	Query: "Micrurus bocourti" ; Times: 2
+	Query: "Leptopelis notatus mappable:1" ; Times: 1
+	Query: "specificepithet:durissus genus:Crotalus hastissue:1" ; Times: 1
+	Query: "naja indonesia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 940 download events in this period)
+Total number of records downloaded: 289
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 7
+	Country: Switzerland ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-06 ; Times: 2
+	Date: 2019-05-09 ; Times: 2
+	Date: 2019-05-08 ; Times: 2
+	Date: 2019-05-11 ; Times: 5
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-14 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "Lygodactylus genus:Lygodactylus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "genus:Pseudoeryx hastissue:1" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "&#34;Echis carinatus&#34;" ; Times: 1
+	Query: "sylvatica hastissue:1" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "&#34;Naja naja&#34;" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "genus:Hydrops hastissue:1" ; Times: 1
+	Query: "&#34;Bungarus&#34;" ; Times: 1
+	Query: "&#34;Ophiophagus hannah&#34;" ; Times: 2
+	Query: "genus:Helicops hastissue:1" ; Times: 1
+
+
+End of report.
