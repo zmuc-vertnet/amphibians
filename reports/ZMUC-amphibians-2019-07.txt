@@ -1,0 +1,193 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 157
+Number of records retrieved in searches: 2164
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Netherlands ; Times: 2
+	Country: Colombia ; Times: 8
+	Country: Portugal ; Times: 4
+	Country: Singapore ; Times: 6
+	Country: Unknown ; Times: 11
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 68
+	Country: United States ; Times: 47
+	Country: China ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Hong Kong ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-19 ; Times: 3
+	Date: 2019-07-12 ; Times: 5
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-16 ; Times: 16
+	Date: 2019-07-17 ; Times: 6
+	Date: 2019-07-14 ; Times: 2
+	Date: 2019-07-15 ; Times: 2
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-09 ; Times: 7
+	Date: 2019-07-08 ; Times: 37
+	Date: 2019-07-21 ; Times: 1
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-26 ; Times: 6
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-24 ; Times: 6
+	Date: 2019-07-01 ; Times: 3
+	Date: 2019-07-30 ; Times: 5
+	Date: 2019-07-29 ; Times: 7
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-05 ; Times: 26
+	Date: 2019-07-04 ; Times: 2
+	Date: 2019-07-07 ; Times: 13
+	Date: 2019-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "2874 ku" ; Times: 1
+	Query: "microcephalophis" ; Times: 1
+	Query: "(Mertensophryne) hastissue:1" ; Times: 1
+	Query: "Mertensophryne micranotis hastissue:1" ; Times: 1
+	Query: "gonatodes hastissue:1" ; Times: 2
+	Query: "genus:pelamis country:&#34;taiwan&#34;" ; Times: 1
+	Query: "Lampropeltis polyzona" ; Times: 2
+	Query: "micrurus ruatanus" ; Times: 5
+	Query: "genus:Natriciteres" ; Times: 1
+	Query: "specificepithet:blandingii genus:boiga country:&#34;congo&#34;" ; Times: 1
+	Query: "genus:Tympanocryptis specificepithet:lineata" ; Times: 1
+	Query: "specificepithet:bufo genus:Bufo hastissue:1" ; Times: 1
+	Query: "specificepithet:ruatanus genus:micrurus hastissue:1" ; Times: 1
+	Query: "specificepithet:multicarinata genus:Elgaria country:&#34;Mexico&#34;" ; Times: 1
+	Query: "KU 5752" ; Times: 2
+	Query: "micrurus surinamensis" ; Times: 1
+	Query: "Bufo gargarizans hastissue:1" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 4
+	Query: "liopeltis tricolor" ; Times: 1
+	Query: "xenelaphis" ; Times: 1
+	Query: "Nectophrynoides cryptus hastissue:1" ; Times: 1
+	Query: "genus:Eublepharis" ; Times: 1
+	Query: "specificepithet:gabonica genus:Bitis AND (NOT Tanzania NOT Uganda NOT Ghana NOT Cameroon NOT Nigeria)" ; Times: 1
+	Query: "hydrophis obscurus" ; Times: 2
+	Query: "genus:Malpolon" ; Times: 1
+	Query: "calamaria prakkei" ; Times: 2
+	Query: "Acanthosaura armata" ; Times: 2
+	Query: "genus:Naultinus" ; Times: 1
+	Query: "genus:pelamis country:&#34;china&#34;" ; Times: 1
+	Query: "KU 536" ; Times: 2
+	Query: "Odontophrynus cultripes" ; Times: 1
+	Query: "specificepithet:jugularis institutioncode:ZMUC" ; Times: 1
+	Query: "specificepithet:gabonica genus:Bitis" ; Times: 1
+	Query: "genus:Ptychozoon" ; Times: 1
+	Query: "genus:pelamis country:&#34;india&#34;" ; Times: 1
+	Query: "genus:Otocryptis" ; Times: 1
+	Query: "genus:Anguis" ; Times: 1
+	Query: "calamaria linnaei" ; Times: 2
+	Query: "genus:pelamis country:&#34;malaysia&#34;" ; Times: 3
+	Query: "oligodon bitorquatus" ; Times: 1
+	Query: "Buhoma depressiceps" ; Times: 2
+	Query: "sphaerodactylus hastissue:1" ; Times: 1
+	Query: "Nectophrynoides tornieri hastissue:1" ; Times: 1
+	Query: "specificepithet:gabonica genus:Bitis AND (NOT Tanzania NOT Uganda NOT Ghana NOT Cameroon NOT Nigeria NOT Zambia NOT Togo NOT Gabon)" ; Times: 1
+	Query: "genus:hydrophis country:&#34;oman&#34;" ; Times: 1
+	Query: "specificepithet:kirtlandii family:Colubridae" ; Times: 1
+	Query: "gekko smithii" ; Times: 3
+	Query: "genus:Hydrops" ; Times: 1
+	Query: "genus:Chiromantis specificepithet:rufescens" ; Times: 1
+	Query: "genus:pelamis country:&#34;solomon&#34;" ; Times: 1
+	Query: "(Nectophrynoides) hastissue:1" ; Times: 1
+	Query: "Vipera renardi" ; Times: 1
+	Query: "genus:Micrurus specificepithet:ancoralis" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "KU 1009" ; Times: 1
+	Query: "eirenis modestus" ; Times: 1
+	Query: "liopeltis" ; Times: 1
+	Query: "genus:Micrurus hastissue:1" ; Times: 1
+	Query: "genus:pelamis country:&#34;indonesia&#34;" ; Times: 5
+	Query: "specificepithet:jagorii genus:Enhydris hastissue:1" ; Times: 1
+	Query: "KU 1241" ; Times: 2
+	Query: "genus:pelamis country:&#34;thailand&#34;" ; Times: 5
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "genus:leptotyphlops country:&#34;nigeria&#34;" ; Times: 4
+	Query: "Boiga cyanea" ; Times: 1
+	Query: "teratoscincus hastissue:1" ; Times: 1
+	Query: "genus:Agama specificepithet:planiceps" ; Times: 1
+	Query: "pristurus hastissue:1" ; Times: 1
+	Query: "genus:Pseustes specificepithet:poecilonotus" ; Times: 1
+	Query: "genus:Afrixalus specificepithet:orophilus" ; Times: 1
+	Query: "genus:Ahaetulla specificepithet:nasuta" ; Times: 1
+	Query: "hydrophis caerulescens" ; Times: 4
+	Query: "specificepithet:blandingii genus:boiga country:&#34;nigeria&#34;" ; Times: 1
+	Query: "Nectophrynoides viviparus hastissue:1" ; Times: 2
+	Query: "country:&#34;brazil&#34; institutioncode:ZMUC" ; Times: 1
+	Query: "hydrophis klossi" ; Times: 2
+	Query: "genus:hydrophis country:&#34;bangladesh&#34;" ; Times: 3
+	Query: "bitia" ; Times: 1
+	Query: "specificepithet:blandingii genus:boiga country:&#34;cameroon&#34;" ; Times: 1
+	Query: "hydrophis brooki" ; Times: 2
+	Query: "Buhoma procterae" ; Times: 8
+	Query: "specificepithet:viridis genus:Crotalus (helleri)" ; Times: 1
+	Query: "micrurus hemprichii" ; Times: 1
+	Query: "bitia hydroides" ; Times: 1
+	Query: "genus:ophiophagus country:&#34;thailand&#34;" ; Times: 2
+	Query: "euleptes hastissue:1" ; Times: 1
+	Query: "genus:Brachyorrhos" ; Times: 1
+	Query: "hydrophis lapemoides" ; Times: 4
+	Query: "genus:Bothrochilus specificepithet:boa" ; Times: 1
+	Query: "Buhoma vauerocegae" ; Times: 4
+	Query: "genus:hydrophis country:&#34;india&#34;" ; Times: 1
+	Query: "genus:microcephalophis" ; Times: 1
+	Query: "cantoria violacea" ; Times: 1
+	Query: "Blanus strauchi" ; Times: 1
+	Query: "KU 5780" ; Times: 2
+	Query: "genus:hydrophis country:&#34;thailand&#34;" ; Times: 1
+	Query: "genus:Pachydactylus specificepithet:geitje" ; Times: 1
+	Query: "python sebae" ; Times: 1
+	Query: "KU 3245" ; Times: 1
+	Query: "hydrophis torquatus" ; Times: 1
+	Query: "genus:Rhotropus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 985 download events in this period)
+Total number of records downloaded: 1520
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 4
+	Country: Rwanda ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 6
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-16 ; Times: 1
+	Date: 2019-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "class:reptilia country:&#34;Singapore&#34;" ; Times: 1
+	Query: "class:Reptilia country:&#34;Namibia&#34;" ; Times: 1
+	Query: "Diplodactylus vittatus" ; Times: 1
+	Query: "specificepithet:frenatus genus:hemidactylus hastissue:1" ; Times: 1
+	Query: "Phyllurus platurus" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 1
+	Query: "country:&#34;brazil&#34; institutioncode:ZMUC" ; Times: 2
+	Query: "genus:Micrurus hastissue:1" ; Times: 1
+	Query: "Hyperolius lateralis" ; Times: 1
+	Query: "lygodactylus" ; Times: 1
+
+
+End of report.
