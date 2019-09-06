@@ -1,0 +1,225 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 162
+Number of records retrieved in searches: 974
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: United Arab Emirates ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 5
+	Country: France ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: Thailand ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: United States ; Times: 108
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 20
+	Date: 2019-08-08 ; Times: 15
+	Date: 2019-08-07 ; Times: 17
+	Date: 2019-08-01 ; Times: 2
+	Date: 2019-08-02 ; Times: 9
+	Date: 2019-08-05 ; Times: 8
+	Date: 2019-08-06 ; Times: 8
+	Date: 2019-08-29 ; Times: 5
+	Date: 2019-08-26 ; Times: 16
+	Date: 2019-08-09 ; Times: 6
+	Date: 2019-08-24 ; Times: 1
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-23 ; Times: 5
+	Date: 2019-08-20 ; Times: 5
+	Date: 2019-08-21 ; Times: 1
+	Date: 2019-08-16 ; Times: 3
+	Date: 2019-08-15 ; Times: 15
+	Date: 2019-08-14 ; Times: 3
+	Date: 2019-08-13 ; Times: 12
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-30 ; Times: 3
+	Date: 2019-08-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Microcephalophis gracilis" ; Times: 1
+	Query: "Xenodermus javanicus" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 3
+	Query: "Kolpophis annandalei" ; Times: 1
+	Query: "Hoplophryne" ; Times: 1
+	Query: "Phyllodactylus pulcher" ; Times: 8
+	Query: "Sistrurus catenatus catenatus" ; Times: 5
+	Query: "hypnale hypnale" ; Times: 1
+	Query: "genus:Arthroleptides specificepithet:martiensseni" ; Times: 1
+	Query: "Pareas carinatus" ; Times: 1
+	Query: "specificepithet:vittatus genus:Gonatodes institutioncode:ZMUC" ; Times: 2
+	Query: "specificepithet:agilis genus:Trapelus hastissue:1" ; Times: 1
+	Query: "Pareas monticola" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "ZMUC R6232" ; Times: 1
+	Query: "specificepithet:biscutatus genus:Trimorphodon hastissue:1" ; Times: 1
+	Query: "Rhinotyphlops schlegelii" ; Times: 2
+	Query: "Lampropeltis polyzona" ; Times: 1
+	Query: "specificepithet:macrolepis genus:Sphaerodactylus institutioncode:ZMUC" ; Times: 2
+	Query: "genus:Opisthotropis hastissue:1" ; Times: 1
+	Query: "Corallus annulatus" ; Times: 4
+	Query: "specificepithet:darwinii genus:Homonota institutioncode:ZMUC" ; Times: 2
+	Query: "specificepithet:gingivinus genus:anolis hastissue:1" ; Times: 1
+	Query: "Micrurus hemprichii" ; Times: 1
+	Query: "Hydrophis coggeri" ; Times: 1
+	Query: "Hydrophis fasciatus" ; Times: 1
+	Query: "Calamaria hastissue:1" ; Times: 2
+	Query: "genus:cyrtopodion country:&#34;turkmenistan&#34;" ; Times: 1
+	Query: "Drymarchon corais couperi" ; Times: 13
+	Query: "Xylophis" ; Times: 1
+	Query: "specificepithet:fantasticus genus:Sphaerodactylus institutioncode:ZMUC" ; Times: 2
+	Query: "Aipysurus duboisii" ; Times: 1
+	Query: "Cardioglossa" ; Times: 1
+	Query: "specificepithet:sputator genus:Sphaerodactylus institutioncode:ZMUC" ; Times: 2
+	Query: "genus:Trachischium" ; Times: 1
+	Query: "specificepithet:humeralis genus:Gonatodes institutioncode:ZMUC" ; Times: 2
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "Hydrophis cyanocinctus" ; Times: 1
+	Query: "genus:Simophis hastissue:1" ; Times: 1
+	Query: "Hydrophis belcheri" ; Times: 1
+	Query: "Hydrophis bituberculatus" ; Times: 1
+	Query: "liopeltis calamaria" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:ZMUC" ; Times: 2
+	Query: "Hydrophis caerulescens" ; Times: 6
+	Query: "Xenochrophis piscator" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 17
+	Query: "Lapemis curtus" ; Times: 1
+	Query: "Micrelaps bicoloratus" ; Times: 1
+	Query: "Arthroleptides" ; Times: 1
+	Query: "genus:Acrochordus country:&#34;Philippines&#34;" ; Times: 2
+	Query: "Heterodactylus lundii" ; Times: 1
+	Query: "Monard" ; Times: 1
+	Query: "specificepithet:pulcher genus:Phyllodactylus institutioncode:ZMUC" ; Times: 2
+	Query: "Drymarchon corais" ; Times: 3
+	Query: "Hydrophis klossi" ; Times: 2
+	Query: "genus:Trachischium hastissue:1" ; Times: 2
+	Query: "trimeresurus malabaricus" ; Times: 3
+	Query: "boiga trigonata" ; Times: 2
+	Query: "genus:thelotornis country:&#34;ghana&#34;" ; Times: 7
+	Query: "Hydrophis lapemoides" ; Times: 1
+	Query: "Hydrophis atriceps" ; Times: 1
+	Query: "Disteira major" ; Times: 1
+	Query: "specificepithet:oxyrhinus genus:Sphaerodactylus institutioncode:ZMUC" ; Times: 2
+	Query: "specificepithet:sputator genus:sphaerodactylus hastissue:1" ; Times: 1
+	Query: "Crotaphopeltis braestrupi" ; Times: 1
+	Query: "specificepithet:albogularis genus:Gonatodes institutioncode:ZMUC" ; Times: 2
+	Query: "lapemis curtus" ; Times: 1
+	Query: "Calamaria sumatra" ; Times: 1
+	Query: "specificepithet:durissus genus:Crotalus hastissue:1" ; Times: 1
+	Query: "Typhlops reticulatus" ; Times: 1
+	Query: "specificepithet:microlepis genus:Sphaerodactylus institutioncode:ZMUC" ; Times: 2
+	Query: "dendrelaphis tristis india" ; Times: 1
+	Query: "genus:Rhotropus" ; Times: 1
+	Query: "Acrochordus javanicus" ; Times: 1
+	Query: "specificepithet:spectrum genus:Rhampholeon hastissue:1" ; Times: 2
+	Query: "genus:leptopelis country:&#34;zambia&#34;" ; Times: 1
+	Query: "specificepithet:carinatus genus:Philothamnus hastissue:1" ; Times: 1
+	Query: "specificepithet:roseofusca genus:Lichanura" ; Times: 1
+	Query: "specificepithet:caudiscutatus genus:Gonatodes institutioncode:ZMUC" ; Times: 2
+	Query: "Hydrophis lamberti" ; Times: 1
+	Query: "specificepithet:notatus genus:Sphaerodactylus institutioncode:ZMUC" ; Times: 2
+	Query: "specificepithet:elegans genus:Sphaerodactylus institutioncode:ZMUC" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1034 download events in this period)
+Total number of records downloaded: 947
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 30
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-09 ; Times: 4
+	Date: 2019-08-18 ; Times: 1
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-19 ; Times: 1
+	Date: 2019-08-02 ; Times: 15
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 5
+	Date: 2019-08-13 ; Times: 6
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-29 ; Times: 4
+	Date: 2019-08-08 ; Times: 2
+	Date: 2019-08-27 ; Times: 2
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-31 ; Times: 2
+	Date: 2019-08-23 ; Times: 1
+	Date: 2019-08-20 ; Times: 2
+	Date: 2019-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Microcephalophis gracilis" ; Times: 1
+	Query: "Xenodermus javanicus" ; Times: 1
+	Query: "Kolpophis annandalei" ; Times: 1
+	Query: "Hydrophis lapemoides" ; Times: 1
+	Query: "Micrurus lemniscatus" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "specificepithet:multicarinata genus:elgaria" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "Pareas carinatus" ; Times: 1
+	Query: "specificepithet:agilis genus:Trapelus hastissue:1" ; Times: 1
+	Query: "Pareas monticola" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "Lampropeltis polyzona" ; Times: 1
+	Query: "Hydrophis fasciatus" ; Times: 1
+	Query: "Hydrophis elegans" ; Times: 1
+	Query: "genus:Masticophis country:&#34;United States&#34;" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "Aipysurus duboisii" ; Times: 1
+	Query: "Hydrophis coggeri" ; Times: 1
+	Query: "Aipysurus eydouxii" ; Times: 1
+	Query: "Masticophis mentovarius" ; Times: 1
+	Query: "Hydrophis cyanocinctus" ; Times: 1
+	Query: "Hydrophis belcheri" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Acrochordus granulatus" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Hydrophis caerulescens" ; Times: 1
+	Query: "genus:hyperolius country:&#34;zambia&#34;" ; Times: 1
+	Query: "Micrelaps bicoloratus" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 2
+	Query: "Crotaphopeltis braestrupi" ; Times: 1
+	Query: "Acrochordus" ; Times: 1
+	Query: "Leptophis diplotropis" ; Times: 1
+	Query: "Hydrophis klossi" ; Times: 1
+	Query: "crotalus ruber" ; Times: 1
+	Query: "genus:Diadophis hastissue:1" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "Rhinocheilus lecontei" ; Times: 1
+	Query: "Disteira major" ; Times: 1
+	Query: "drymobius margaritiferus" ; Times: 1
+	Query: "locality:Palawan country:&#34;Philippines&#34;" ; Times: 1
+	Query: "genus:Acrochordus country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Aspidomorphus muelleri" ; Times: 1
+	Query: "lapemis curtus" ; Times: 1
+	Query: "Heterodactylus lundii" ; Times: 1
+	Query: "Acrochordus javanicus" ; Times: 1
+	Query: "Pareas margaritophorus" ; Times: 1
+	Query: "Hydrophis atriceps" ; Times: 1
+	Query: "Hydrophis lamberti" ; Times: 1
+	Query: "Emydocephalus annulatus" ; Times: 1
+
+
+End of report.
