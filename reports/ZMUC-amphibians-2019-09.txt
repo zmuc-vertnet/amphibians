@@ -1,0 +1,205 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 137
+Number of records retrieved in searches: 843
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: United States ; Times: 86
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 6
+	Country: United Kingdom ; Times: 7
+	Country: Slovakia ; Times: 5
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-15 ; Times: 2
+	Date: 2019-09-16 ; Times: 6
+	Date: 2019-09-17 ; Times: 4
+	Date: 2019-09-10 ; Times: 9
+	Date: 2019-09-11 ; Times: 7
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 3
+	Date: 2019-09-18 ; Times: 5
+	Date: 2019-09-19 ; Times: 7
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 3
+	Date: 2019-09-08 ; Times: 2
+	Date: 2019-09-03 ; Times: 4
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-07 ; Times: 7
+	Date: 2019-09-06 ; Times: 19
+	Date: 2019-09-05 ; Times: 5
+	Date: 2019-09-04 ; Times: 5
+	Date: 2019-09-20 ; Times: 5
+	Date: 2019-09-23 ; Times: 3
+	Date: 2019-09-25 ; Times: 13
+	Date: 2019-09-24 ; Times: 5
+	Date: 2019-09-27 ; Times: 17
+	Date: 2019-09-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 1871" ; Times: 2
+	Query: "Hydrophis sibauensis" ; Times: 1
+	Query: "specificepithet:torrentis genus:Hyperolius" ; Times: 1
+	Query: "Hydrophis pachycercos" ; Times: 1
+	Query: "Hydrophis semperi" ; Times: 2
+	Query: "family:amphisbaenidae country:&#34;Brazil&#34; year &gt;= 1990" ; Times: 1
+	Query: "Phyllodactylus pulcher" ; Times: 8
+	Query: "Elaphe quatuorlineata" ; Times: 2
+	Query: "genus:Ahaetulla country:&#34;India&#34;" ; Times: 1
+	Query: "KU 577" ; Times: 1
+	Query: "Elaphe sauromates" ; Times: 2
+	Query: "Dendrophidion dendrophis" ; Times: 1
+	Query: "Neurergus" ; Times: 1
+	Query: "specificepithet:trivittatus genus:Helicops hastissue:1" ; Times: 1
+	Query: "Lions" ; Times: 1
+	Query: "indotestudo elongata" ; Times: 1
+	Query: "Arthroleptis reichei" ; Times: 3
+	Query: "Calliophis gracilis" ; Times: 1
+	Query: "Elaphe quatuorlineata sauromates" ; Times: 1
+	Query: "anolis roosevelti" ; Times: 2
+	Query: "genus:Hydrops hastissue:1" ; Times: 2
+	Query: "specificepithet:spectrum genus:Rhampholeon" ; Times: 3
+	Query: "genus:Helicops hastissue:1" ; Times: 2
+	Query: "Thalassophis anomalus" ; Times: 1
+	Query: "Laticauda crockeri" ; Times: 1
+	Query: "Pseudocerastes" ; Times: 1
+	Query: "Micrurus ibiboboca" ; Times: 1
+	Query: "genus:Stenorrhina hastissue:1" ; Times: 1
+	Query: "Hydrophis spiralis" ; Times: 1
+	Query: "genus:Simophis hastissue:1" ; Times: 3
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "Thalassophina viperina" ; Times: 2
+	Query: "Hydrophis parviceps" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 10
+	Query: "family:Viperidae country:&#34;Iran&#34;" ; Times: 1
+	Query: "specificepithet:caeruleus genus:Bungarus hastissue:1" ; Times: 2
+	Query: "KU 2464" ; Times: 2
+	Query: "vntype:specimen genus:Calamaria hastissue:1" ; Times: 2
+	Query: "genus:Mastigodryas hastissue:1" ; Times: 1
+	Query: "genus:Cerberus country:&#34;India&#34; hastissue:1" ; Times: 1
+	Query: "Acalyptophis peronii" ; Times: 2
+	Query: "specificepithet:intermedius genus:Gloydius" ; Times: 1
+	Query: "KU 6517" ; Times: 2
+	Query: "specificepithet:spectrum genus:Rhampholeon hastissue:1" ; Times: 1
+	Query: "Dasypeltis palmarum" ; Times: 2
+	Query: "KU reptiles 2670" ; Times: 1
+	Query: "Zoological Museum Hamburg" ; Times: 1
+	Query: "specificepithet:ruwenzorica  genus:Rana" ; Times: 1
+	Query: "Anilius" ; Times: 1
+	Query: "specificepithet:carinatus genus:Philothamnus country:&#34;Cameroon&#34;" ; Times: 1
+	Query: "Dipsas incerta" ; Times: 1
+	Query: "Helicops trivittatus" ; Times: 2
+	Query: "genus:Bungarus hastissue:1" ; Times: 2
+	Query: "KU 1178" ; Times: 1
+	Query: "KU 1179" ; Times: 5
+	Query: "genus:Cerberus country:&#34;India&#34;" ; Times: 1
+	Query: "Anilius scytale" ; Times: 3
+	Query: "Micrurus bogerti" ; Times: 1
+	Query: "genus:Calamaria hastissue:1" ; Times: 3
+	Query: "anilius scytale" ; Times: 3
+	Query: "KU 2831" ; Times: 4
+	Query: "genus:Gloydius hastissue:1" ; Times: 1
+	Query: "python sebae" ; Times: 2
+	Query: "KU 2669" ; Times: 2
+	Query: "Chironius laevicollis" ; Times: 1
+	Query: "genus:Pseudoeryx hastissue:1" ; Times: 3
+	Query: "Hydrophis obscurus" ; Times: 1
+	Query: "genus:gymnophthalmus hastissue:1" ; Times: 1
+	Query: "specificepithet:bifossatus hastissue:1" ; Times: 2
+	Query: "specificepithet:abacura genus:Farancia hastissue:1" ; Times: 2
+	Query: "ovophis monticola" ; Times: 4
+	Query: "Micrurus ruatanus" ; Times: 1
+	Query: "genus:Cerberus hastissue:1" ; Times: 3
+	Query: "specificepithet:nasuta genus:Ahaetulla country:&#34;India&#34;" ; Times: 1
+	Query: "Naja oxiana" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 1073 download events in this period)
+Total number of records downloaded: 676
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 16
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-16 ; Times: 5
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-11 ; Times: 6
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-26 ; Times: 3
+	Date: 2019-09-29 ; Times: 2
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-18 ; Times: 8
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-07 ; Times: 7
+	Date: 2019-09-06 ; Times: 2
+	Date: 2019-09-05 ; Times: 2
+	Date: 2019-09-04 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:turcicus genus:Hemidactylus" ; Times: 1
+	Query: "Diadophis punctatus hastissue:1" ; Times: 1
+	Query: "Hydrophis semperi" ; Times: 1
+	Query: "Sinomicrurus OR Calliophis OR Hemibungarus" ; Times: 1
+	Query: "Lampropeltis (abnorma OR annulata OR elapsoides OR gentilis OR micropholis OR polyzona OR triangulum) hastissue:1" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "Dendrophidion dendrophis" ; Times: 1
+	Query: "jaculus jaculus" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "Agkistrodon (contortrix OR laticinctus) hastissue:1" ; Times: 1
+	Query: "Hydrophis melanocephalus" ; Times: 1
+	Query: "genus:Hydrops hastissue:1" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "genus:Helicops hastissue:1" ; Times: 1
+	Query: "Thalassophis anomalus" ; Times: 1
+	Query: "Laticauda crockeri" ; Times: 1
+	Query: "Tantilla coronata" ; Times: 2
+	Query: "genus:Pseudoeryx hastissue:1" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "Hydrophis spiralis" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "Thalassophina viperina" ; Times: 1
+	Query: "Hydrophis parviceps" ; Times: 1
+	Query: "Chironius grandisquamis" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "Eirenis" ; Times: 1
+	Query: "Hydrophis torquatus" ; Times: 1
+	Query: "Dipsas incerta" ; Times: 1
+	Query: "Thamnophis sirtalis hastissue:1" ; Times: 1
+	Query: "Hydrophis ornatus" ; Times: 1
+	Query: "Masticophis flagellum hastissue:1" ; Times: 1
+	Query: "Lampropeltis (getula OR californiae OR holbrooki OR nigra OR splendida) hastissue:1" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "leptophis mexicanus" ; Times: 2
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "Chironius laevicollis" ; Times: 1
+	Query: "Hydrophis obscurus" ; Times: 1
+	Query: "Storeria dekayi hastissue:1" ; Times: 1
+	Query: "Thamnophis radix hastissue:1" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Laticauda laticaudata" ; Times: 1
+	Query: "anilius scytale" ; Times: 2
+	Query: "Acalyptophis peronii" ; Times: 1
+
+
+End of report.
