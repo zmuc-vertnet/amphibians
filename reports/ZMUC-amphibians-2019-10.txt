@@ -1,0 +1,214 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 106
+Number of records retrieved in searches: 683
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 7
+	Country: Philippines ; Times: 10
+	Country: Nepal ; Times: 3
+	Country: India ; Times: 5
+	Country: United States ; Times: 39
+	Country: China ; Times: 9
+	Country: Denmark ; Times: 1
+	Country: Mozambique ; Times: 3
+	Country: Argentina ; Times: 9
+	Country: Germany ; Times: 4
+	Country: Poland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 2
+	Date: 2019-10-08 ; Times: 2
+	Date: 2019-10-21 ; Times: 9
+	Date: 2019-10-20 ; Times: 12
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-24 ; Times: 1
+	Date: 2019-10-01 ; Times: 4
+	Date: 2019-10-02 ; Times: 7
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-23 ; Times: 11
+	Date: 2019-10-22 ; Times: 10
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-19 ; Times: 7
+	Date: 2019-10-13 ; Times: 3
+	Date: 2019-10-10 ; Times: 5
+	Date: 2019-10-11 ; Times: 7
+	Date: 2019-10-16 ; Times: 3
+	Date: 2019-10-17 ; Times: 7
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-15 ; Times: 3
+	Date: 2019-10-28 ; Times: 3
+	Date: 2019-10-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Hyperolius mitchelli" ; Times: 2
+	Query: "Hyperolius kibarae" ; Times: 1
+	Query: "Oligodon arnensis" ; Times: 1
+	Query: "Hyperolius constellatus" ; Times: 1
+	Query: "Boiga Philippines" ; Times: 1
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "genus:Sphaerodactylus hastissue:1" ; Times: 2
+	Query: "genus:odontophrynus hastissue:1" ; Times: 1
+	Query: "trachischium fuscum" ; Times: 1
+	Query: "Cardioglossa pulchra" ; Times: 2
+	Query: "genus:Sphaerodactylus country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Hyperolius specificepithet:robustus" ; Times: 4
+	Query: "genus:Hydrops hastissue:1" ; Times: 1
+	Query: "Dendrelaphis tristis" ; Times: 1
+	Query: "oligodon taeniolatus" ; Times: 1
+	Query: "Hyperolius bobirensis" ; Times: 2
+	Query: "genus:Gymnophthalmus hastissue:1" ; Times: 1
+	Query: "Drymarchon couperi 2015" ; Times: 1
+	Query: "Hyperolius brachiofasciatus" ; Times: 1
+	Query: "Ptychozoon kuhli" ; Times: 1
+	Query: "genus:Helicops hastissue:1" ; Times: 1
+	Query: "Kassina arboricola" ; Times: 1
+	Query: "Toxicocalamus" ; Times: 1
+	Query: "Storeria dekayi (Missouri OR Arkansas OR Illinois OR Mississippi OR Louisiana) hastissue:1" ; Times: 1
+	Query: "Leptopelis occidentalis" ; Times: 1
+	Query: "specificepithet:notatus genus:sphaerodactylus hastissue:1" ; Times: 1
+	Query: "amphisbaena schmidti" ; Times: 3
+	Query: "Afrixalus upembae" ; Times: 1
+	Query: "Chironius flavolineatus" ; Times: 1
+	Query: "specificepithet:adspersus genus:Hyperolius" ; Times: 1
+	Query: "Leptodeira nigrofasciata" ; Times: 1
+	Query: "Hyperolius torrentis" ; Times: 1
+	Query: "specificepithet:spectrum genus:rhampholeon hastissue:1" ; Times: 2
+	Query: "Phrynobatrachus phyllophilus" ; Times: 1
+	Query: "Leptopelis macrotis" ; Times: 1
+	Query: "specificepithet:caeruleus genus:Bungarus hastissue:1" ; Times: 1
+	Query: "Hyperolius viridigulosus" ; Times: 1
+	Query: "Imantodes hastissue:1" ; Times: 1
+	Query: "order:Squamata country:&#34;Cambodia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Philodryas patagoniensis" ; Times: 3
+	Query: "Hyperolius leucotaenius" ; Times: 1
+	Query: "Hyperolius laurenti" ; Times: 1
+	Query: "kirtlandii basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "imantodes hastissue:1" ; Times: 1
+	Query: "ZMUC R602903" ; Times: 1
+	Query: "Afrixalus nigeriensis" ; Times: 1
+	Query: "Drymarchon couperi 2016" ; Times: 1
+	Query: "Sistrurus catenatus 2016" ; Times: 1
+	Query: "Afrixalus equatorialis" ; Times: 1
+	Query: "Sistrurus catenatus 2011" ; Times: 1
+	Query: "specificepithet:aspis genus:Vipera country:&#34;Italy&#34;" ; Times: 1
+	Query: "Vipera ammodytes" ; Times: 3
+	Query: "genus:Afrixalus specificepithet:equatorialis" ; Times: 1
+	Query: "locality:New Hanover" ; Times: 2
+	Query: "genus:Polychrus hastissue:1" ; Times: 1
+	Query: "Drymarchon couperi 2011" ; Times: 1
+	Query: "Micrurus bogerti" ; Times: 3
+	Query: "elaphe flavirufa" ; Times: 1
+	Query: "genus:Pyxicephalus specificepithet:adspersus" ; Times: 4
+	Query: "Chironius quadricarinatus" ; Times: 1
+	Query: "Hyperolius nienokouensis" ; Times: 1
+	Query: "specificepithet:spectrum genus:rhampholeon" ; Times: 1
+	Query: "specificepithet:sputator genus:sphaerodactylus hastissue:1" ; Times: 1
+	Query: "specificepithet:angulatus genus:Helicops hastissue:1" ; Times: 2
+	Query: "ku 4686" ; Times: 1
+	Query: "Tomodon ocellatus" ; Times: 4
+	Query: "Naja katiensis" ; Times: 3
+	Query: "Trachischium fuscum" ; Times: 2
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "Chironius laevicollis" ; Times: 1
+	Query: "genus:Pseudoeryx hastissue:1" ; Times: 1
+	Query: "Kassina lamottei" ; Times: 1
+	Query: "Hyperolius robustus" ; Times: 1
+	Query: "Hyperolius igbettensis" ; Times: 1
+	Query: "specificepithet:spectrum genus:Rhampholeon hastissue:1" ; Times: 1
+	Query: "Rhampholeon spectrum" ; Times: 1
+	Query: "lycodon thailand" ; Times: 2
+	Query: "Hyperolius sylvaticus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 1308 download events in this period)
+Total number of records downloaded: 699
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 15
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 10
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 18
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-19 ; Times: 8
+	Date: 2019-10-25 ; Times: 2
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-16 ; Times: 2
+	Date: 2019-10-03 ; Times: 2
+	Date: 2019-10-02 ; Times: 4
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-21 ; Times: 8
+	Date: 2019-10-15 ; Times: 4
+	Date: 2019-10-20 ; Times: 18
+	Date: 2019-10-10 ; Times: 3
+	Date: 2019-10-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Bufonidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "Hyperolius constellatus" ; Times: 2
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Cardioglossa pulchra" ; Times: 1
+	Query: "genus:Hydrops hastissue:1" ; Times: 1
+	Query: "Hyperolius igbettensis" ; Times: 3
+	Query: "genus:Morelia hastissue:1" ; Times: 1
+	Query: "Hyperolius bobirensis" ; Times: 3
+	Query: "sphaerodactylus macrolepis" ; Times: 1
+	Query: "Hyperolius brachiofasciatus" ; Times: 2
+	Query: "genus:Helicops hastissue:1" ; Times: 1
+	Query: "Kassina arboricola" ; Times: 1
+	Query: "Toxicocalamus" ; Times: 1
+	Query: "Ophiophagus hannah" ; Times: 1
+	Query: "amphisbaena schmidti" ; Times: 1
+	Query: "Afrixalus upembae" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "Phrynobatrachus phyllophilus" ; Times: 2
+	Query: "Hyperolius torrentis" ; Times: 1
+	Query: "gonatodes albogularis" ; Times: 1
+	Query: "Leptopelis macrotis" ; Times: 1
+	Query: "sphaerodactylus elegans" ; Times: 1
+	Query: "Hyperolius concolor" ; Times: 2
+	Query: "Hyperolius kibarae" ; Times: 2
+	Query: "genus:Anolis hastissue:1" ; Times: 1
+	Query: "order:Squamata country:&#34;Cambodia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hyperolius leucotaenius" ; Times: 2
+	Query: "Hyperolius laurenti" ; Times: 1
+	Query: "Leptopelis occidentalis" ; Times: 1
+	Query: "Afrixalus nigeriensis" ; Times: 1
+	Query: "Afrixalus equatorialis" ; Times: 1
+	Query: "Leptophis diplotropis" ; Times: 2
+	Query: "Squamata country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "genus:aprasia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:distichus genus:Anolis country:&#34;Dominican Republic&#34;" ; Times: 1
+	Query: "Hyperolius nienokouensis" ; Times: 1
+	Query: "genus:Odontophrynus" ; Times: 1
+	Query: "Hyperolius viridigulosus" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "genus:Pseudoeryx hastissue:1" ; Times: 1
+	Query: "Kassina lamottei" ; Times: 1
+	Query: "Hyperolius sylvaticus" ; Times: 1
+	Query: "gonatodes humeralis" ; Times: 1
+	Query: "Hyperolius fusciventris" ; Times: 1
+	Query: "Hyperolius robustus" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
