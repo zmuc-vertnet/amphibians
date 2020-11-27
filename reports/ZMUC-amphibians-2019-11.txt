@@ -1,0 +1,174 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 113
+Number of records retrieved in searches: 703
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 6
+	Country: Italy ; Times: 3
+	Country: South Africa ; Times: 2
+	Country: Unknown ; Times: 6
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 3
+	Country: United States ; Times: 63
+	Country: Germany ; Times: 22
+	Country: Thailand ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-22 ; Times: 6
+	Date: 2019-11-05 ; Times: 23
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 9
+	Date: 2019-11-08 ; Times: 16
+	Date: 2019-11-09 ; Times: 5
+	Date: 2019-11-06 ; Times: 8
+	Date: 2019-11-07 ; Times: 8
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-16 ; Times: 7
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-03 ; Times: 2
+	Date: 2019-11-01 ; Times: 2
+	Date: 2019-11-15 ; Times: 12
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-26 ; Times: 4
+	Date: 2019-11-24 ; Times: 2
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "atheris nitschei" ; Times: 11
+	Query: "Xenodermus javanicus" ; Times: 8
+	Query: "specificepithet:molleri genus:delma institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "family:pygopodidae hastypestatus:1" ; Times: 1
+	Query: "Chiromantis rufescens mappable:1" ; Times: 1
+	Query: "Ophiophagus hannah vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:anguina genus:chamaesaura institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:striolata genus:aprasia institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "epinephelus order:Squamata hastissue:1" ; Times: 1
+	Query: "specificepithet:impar genus:delma institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "Calliophis gracilis" ; Times: 1
+	Query: "Karon Thailand" ; Times: 1
+	Query: "Lampropeltis polyzona" ; Times: 1
+	Query: "specificepithet:viridis genus:chondropython institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "python india" ; Times: 1
+	Query: "Drymarchon couperi 2015" ; Times: 4
+	Query: "specificepithet:angolensis genus:typhlops institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:fraseri genus:delma institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "genus:Pyxicephalus specificepithet:adspersus" ; Times: 6
+	Query: "Drymarchon couperi 2011" ; Times: 4
+	Query: "Leptopelis notatus mappable:1" ; Times: 1
+	Query: "genus:Lygodactylus country:&#34;Nigeria&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:fragilis genus:anguis institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "Riise" ; Times: 2
+	Query: "specificepithet:maculatus genus:causus institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:pulchella genus:aprasia institutioncode:mcz OR mvz OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "genus:rhinotyphlops specificepithet:schlegeli" ; Times: 1
+	Query: "specificepithet:carinatus genus:Philothamnus country:&#34;Cameroon&#34;" ; Times: 1
+	Query: "specificepithet:johnii genus:eryx institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "vntype:specimen genus:Lygodactylus hastissue:1" ; Times: 3
+	Query: "specificepithet:scytale genus:anilius institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "liopeltis calamaria" ; Times: 1
+	Query: "Karon" ; Times: 1
+	Query: "specificepithet:unicolor genus:xenopeltis institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "genus:Lygodactylus country:&#34;Tanzania&#34; hastissue:1" ; Times: 1
+	Query: "dendroaspis polylepis" ; Times: 2
+	Query: "Drymarchon couperi 2016" ; Times: 4
+	Query: "genus:Lygodactylus country:&#34;Togo&#34; hastissue:1" ; Times: 1
+	Query: "Sistrurus catenatus 2016" ; Times: 4
+	Query: "Sistrurus catenatus 2015" ; Times: 2
+	Query: "Sistrurus catenatus 2011" ; Times: 4
+	Query: "Leptopelis ocellatus mappable:1" ; Times: 5
+	Query: "specificepithet:maculatus genus:cylindrophis institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "calloselasma rhodostoma" ; Times: 3
+	Query: "class:reptilia locality:bismarck" ; Times: 1
+	Query: "Similan Thailand" ; Times: 1
+	Query: "specificepithet:caeruleus genus:Bungarus hastissue:1" ; Times: 1
+	Query: "family:Pygopodidae hastypestatus:1" ; Times: 1
+	Query: "genus:Lygodactylus country:&#34;Sudan&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:conraui genus:Lygodactylus" ; Times: 4
+	Query: "genus:calabaria specificepithet:reinhardti institutioncode:mvz OR mcz OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "genus:Lygodactylus country:&#34;Ghana&#34; hastissue:1" ; Times: 1
+	Query: "liopeltis tricolor" ; Times: 1
+	Query: "specificepithet:punctatissimus genus:ophiomorus institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "Imantodes hastissue:1" ; Times: 2
+	Query: "locality:dyaul" ; Times: 1
+	Query: "anilius scytale" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1367 download events in this period)
+Total number of records downloaded: 692
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Indonesia ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 37
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-05 ; Times: 23
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 5
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-06 ; Times: 4
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-16 ; Times: 3
+	Date: 2019-11-03 ; Times: 2
+	Date: 2019-11-12 ; Times: 1
+	Date: 2019-11-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:striatus genus:epicrates institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "genus:Lygodactylus" ; Times: 1
+	Query: "specificepithet:lateralis genus:Masticophis" ; Times: 1
+	Query: "specificepithet:burtonis genus:lialis institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:molleri genus:delma institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "family:pygopodidae hastypestatus:1" ; Times: 1
+	Query: "specificepithet:abacura genus:farancia institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:granulatus genus:acrochordus institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:anguina genus:chamaesaura institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 1
+	Query: "specificepithet:impar genus:delma institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:guttata genus:elaphe institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:fraseri genus:delma institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:viridis genus:chondropython institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:striolata genus:aprasia institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:angolensis genus:typhlops institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:fulvius genus:micrurus institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:fragilis genus:anguis institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "vntype:specimen class:Amphibia country:&#34;Uganda&#34;" ; Times: 1
+	Query: "specificepithet:maculatus genus:causus institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "family:gekkonidae hastypestatus:1" ; Times: 3
+	Query: "specificepithet:rynchops genus:cerberus institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+	Query: "specificepithet:johnii genus:eryx institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:scytale genus:anilius institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "genus:Laticauda" ; Times: 1
+	Query: "specificepithet:laticaudata genus:Laticauda" ; Times: 1
+	Query: "specificepithet:unicolor genus:xenopeltis institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "Ctenophorus reticulatus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Ophiophagus hannah vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria" ; Times: 1
+	Query: "specificepithet:maculatus genus:cylindrophis institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:carinata genus:candoia institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "Leiolepis belliana" ; Times: 1
+	Query: "family:Pygopodidae hastypestatus:1" ; Times: 1
+	Query: "genus:calabaria specificepithet:reinhardti institutioncode:mvz OR mcz OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:pulchella genus:aprasia institutioncode:mcz OR mvz OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "genus:Pachydactylus country:&#34;South Africa&#34;" ; Times: 1
+	Query: "specificepithet:punctatissimus genus:ophiomorus institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+
+
+End of report.
