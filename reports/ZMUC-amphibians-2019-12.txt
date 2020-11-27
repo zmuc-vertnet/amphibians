@@ -1,0 +1,137 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 1517
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 40
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Belgium ; Times: 4
+	Country: Slovakia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 11
+	Date: 2019-12-27 ; Times: 3
+	Date: 2019-12-26 ; Times: 1
+	Date: 2019-12-12 ; Times: 4
+	Date: 2019-12-30 ; Times: 6
+	Date: 2019-12-31 ; Times: 1
+	Date: 2019-12-02 ; Times: 5
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-04 ; Times: 2
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-09 ; Times: 3
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-05 ; Times: 4
+	Date: 2019-12-13 ; Times: 10
+	Date: 2019-12-03 ; Times: 9
+	Date: 2019-12-15 ; Times: 2
+	Date: 2019-12-16 ; Times: 2
+	Date: 2019-12-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "hemidactylus mexico mexico" ; Times: 2
+	Query: "country:&#34;india&#34; institutioncode:ZMUC" ; Times: 2
+	Query: "Chiromantis rufescens mappable:1" ; Times: 1
+	Query: "specificepithet:similis genus:Ctenosaura hastissue:1" ; Times: 1
+	Query: "Dipsadoboa kageleri" ; Times: 1
+	Query: "leptodeira maculata mexico" ; Times: 2
+	Query: "specificepithet:viviparus genus:Nectophrynoides" ; Times: 2
+	Query: "Hydrosaurus" ; Times: 1
+	Query: "genus:Ischnocnema hastissue:1" ; Times: 1
+	Query: "Dendroaspis polylepis" ; Times: 1
+	Query: "family:Myobatrachidae hastissue:1" ; Times: 1
+	Query: "family:brevicipitidae hastissue:1" ; Times: 3
+	Query: "genus:Nectophrynoides hastissue:1" ; Times: 1
+	Query: "specificepithet:chamaeleontinus genus:Gonocephalus NOT (FMNH)" ; Times: 1
+	Query: "vipera renardi" ; Times: 1
+	Query: "Scaphiophis albopunctatus" ; Times: 1
+	Query: "specificepithet:cryptus genus:Nectophrynoides" ; Times: 2
+	Query: "Pseudopus apodus" ; Times: 4
+	Query: "riise vntype:specimen institutioncode:ZMUC" ; Times: 3
+	Query: "genus:Mertensophryne hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Boa constrictor " ; Times: 2
+	Query: "dendroaspis polylepis" ; Times: 2
+	Query: "Elapsoidea sundevallii" ; Times: 1
+	Query: "naja samarensis" ; Times: 2
+	Query: "specificepithet:micranotis genus:Mertensophryne" ; Times: 2
+	Query: "Agama agama mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "genus:euleptes" ; Times: 1
+	Query: "Leptopelis ocellatus mappable:1" ; Times: 1
+	Query: "Naultinus" ; Times: 1
+	Query: "class:reptilia country:&#34;India&#34; hastissue:1" ; Times: 3
+	Query: "Micrurus bogerti" ; Times: 1
+	Query: "genus:Buhoma" ; Times: 1
+	Query: "genus:Crotalus country:&#34;Suriname&#34;" ; Times: 1
+	Query: "platurus hastissue:1" ; Times: 8
+	Query: "vntype:specimen genus:Boiga country:&#34;India&#34;" ; Times: 1
+	Query: "Atractaspis engaddensis" ; Times: 1
+	Query: "phrynobatrachus uzungwensis" ; Times: 1
+	Query: "KU 7418" ; Times: 1
+	Query: "Leptopelis notatus mappable:1" ; Times: 1
+	Query: "genus:Hoplophryne hastissue:1" ; Times: 1
+	Query: "st. thomas vntype:specimen institutioncode:ZMUC" ; Times: 2
+	Query: "specificepithet:bufonides genus:leptopelis hastissue:1" ; Times: 1
+	Query: "specificepithet:curtus genus:Python" ; Times: 1
+	Query: "Hemidactylus mabouia mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "country:Ecuador scientificname:Micrurus ancoralis " ; Times: 1
+	Query: "specificepithet:tornieri genus:Nectophrynoides" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 596 download events in this period)
+Total number of records downloaded: 151
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Belgium ; Times: 6
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 6
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-28 ; Times: 2
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-05 ; Times: 2
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "Crotalus helleri" ; Times: 1
+	Query: "Scaphiophis albopunctatus" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "genus:micrurus country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "Dendroaspis polylepis" ; Times: 1
+	Query: "Dipsadoboa kageleri" ; Times: 1
+	Query: "family:Myobatrachidae hastissue:1" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Naultinus" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "dendroaspis polylepis" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
