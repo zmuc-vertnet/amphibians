@@ -1,0 +1,179 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 100
+Number of records retrieved in searches: 765
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Ukraine ; Times: 2
+	Country: South Africa ; Times: 3
+	Country: Unknown ; Times: 9
+	Country: Finland ; Times: 5
+	Country: India ; Times: 6
+	Country: United States ; Times: 39
+	Country: Sweden ; Times: 11
+	Country: Germany ; Times: 14
+	Country: United Kingdom ; Times: 1
+	Country: Slovakia ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 2
+	Date: 2020-03-06 ; Times: 5
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-02 ; Times: 7
+	Date: 2020-03-01 ; Times: 3
+	Date: 2020-03-19 ; Times: 20
+	Date: 2020-03-24 ; Times: 3
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 6
+	Date: 2020-03-28 ; Times: 1
+	Date: 2020-03-09 ; Times: 14
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-04 ; Times: 5
+	Date: 2020-03-14 ; Times: 3
+	Date: 2020-03-15 ; Times: 9
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-07 ; Times: 1
+	Date: 2020-03-03 ; Times: 10
+	Date: 2020-03-11 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Lygodactylus angolensis" ; Times: 1
+	Query: "genus:Vipera country:&#34;Georgia&#34;" ; Times: 1
+	Query: "Lygodactylus angularis year &gt;= 2000" ; Times: 1
+	Query: "genus:Vipera country:&#34;Greece&#34;" ; Times: 2
+	Query: "Duberria lutrix abyssinica" ; Times: 3
+	Query: "Bungarus andamanensis" ; Times: 1
+	Query: "Vipera lebetina" ; Times: 2
+	Query: "kassina lamottei" ; Times: 2
+	Query: "country:&#34;croatia&#34; vipera" ; Times: 2
+	Query: "Chamaelycus" ; Times: 1
+	Query: "polygrammicus" ; Times: 1
+	Query: "specificepithet:melanocephala genus:tantilla hastissue:1" ; Times: 2
+	Query: "Liopeltis calamaria" ; Times: 2
+	Query: "country:Ecuador scientificname:Clelia clelia " ; Times: 1
+	Query: "Bungarus candidus" ; Times: 1
+	Query: "Odontophrynus cultripes" ; Times: 2
+	Query: "braminus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Lygodactylus conradti" ; Times: 1
+	Query: "Hemachatus haemachatus" ; Times: 1
+	Query: "specificepithet:monticola family:viperidae class:reptilia" ; Times: 1
+	Query: "Dendroaspis polylepis" ; Times: 1
+	Query: "specificepithet:nasicornis genus:Bitis hastissue:1" ; Times: 1
+	Query: "genus:Vipera country:&#34;Cyprus&#34;" ; Times: 4
+	Query: "Naja samarensis" ; Times: 1
+	Query: "Naja pallida" ; Times: 1
+	Query: "country:Ecuador scientificname:Dendrophidion dendrophis " ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+	Query: "Lygodactylus conraui" ; Times: 1
+	Query: "bothrolycus" ; Times: 1
+	Query: "genus:Vipera country:&#34;Syria&#34;" ; Times: 2
+	Query: "ovophis monticola" ; Times: 8
+	Query: "pseudopus apodus" ; Times: 1
+	Query: "Vipera berus" ; Times: 1
+	Query: "r65401" ; Times: 1
+	Query: "r65400" ; Times: 1
+	Query: "specificepithet:cultripes genus:Odontophrynus hastissue:1" ; Times: 1
+	Query: "Ahaetulla nasuta" ; Times: 2
+	Query: "Elapsoidea sundevallii" ; Times: 1
+	Query: "Naja mossambica" ; Times: 2
+	Query: "country:Ecuador scientificname:Leptophis ahaetulla " ; Times: 1
+	Query: "psammophylax rhombeatus" ; Times: 1
+	Query: "genus:Neurergus specificepithet:crocatus" ; Times: 1
+	Query: "Anolis extremus" ; Times: 1
+	Query: "country:Ecuador scientificname:Dipsas oreas " ; Times: 1
+	Query: "Laticauda crockeri" ; Times: 2
+	Query: "Rhampholeon spectrum" ; Times: 1
+	Query: "genus:Nectophrynoides specificepithet:viviparus" ; Times: 1
+	Query: "genus:lachesis hastissue:1" ; Times: 1
+	Query: "genus:Buhoma" ; Times: 2
+	Query: "Enhydris punctata" ; Times: 6
+	Query: "genus:Ahaetulla country:&#34;Thailand&#34; hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Tantilla melanocephala " ; Times: 1
+	Query: "Bothrochilus boa" ; Times: 2
+	Query: "Naja katiensis" ; Times: 1
+	Query: "Naja haje" ; Times: 1
+	Query: "specificepithet:spectrum genus:Rhampholeon hastissue:1" ; Times: 1
+	Query: "specificepithet:angulatus genus:Helicops hastissue:1" ; Times: 3
+	Query: "institutioncode:zmuc Afghanistan 1948" ; Times: 1
+	Query: "genus:Tropidonophis institutioncode:ZMUC" ; Times: 1
+	Query: "Bungarus lividus" ; Times: 2
+	Query: "genus:atractus hastissue:1" ; Times: 3
+	Query: "Elapsoidea boulengeri" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+	Query: "Aspidelaps lubricus" ; Times: 1
+	Query: "Naja oxiana" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 853 download events in this period)
+Total number of records downloaded: 236
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 19
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-06 ; Times: 2
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-13 ; Times: 3
+	Date: 2020-03-27 ; Times: 2
+	Date: 2020-03-26 ; Times: 2
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-02 ; Times: 2
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-17 ; Times: 2
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-07 ; Times: 1
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:blandingii" ; Times: 1
+	Query: "genus:Lichanura" ; Times: 1
+	Query: "scincus scincus" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "Duberria lutrix abyssinica" ; Times: 1
+	Query: "genus:Drymarchon" ; Times: 2
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:guttata genus:Elaphe" ; Times: 1
+	Query: "Ahaetulla nasuta" ; Times: 1
+	Query: "genus:Hypsiglena" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "masticophis mentovarius" ; Times: 1
+	Query: "genus:Cemophora" ; Times: 1
+	Query: "specificepithet:getulus genus:Lampropeltis" ; Times: 1
+	Query: "genus:Sistrurus" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "genus:Farancia" ; Times: 1
+	Query: "amphibians (puebla)" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+
+
+End of report.
