@@ -1,0 +1,241 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 157
+Number of records retrieved in searches: 1942
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 115
+	Country: Italy ; Times: 2
+	Country: Finland ; Times: 2
+	Country: India ; Times: 5
+	Country: United Kingdom ; Times: 3
+	Country: Rwanda ; Times: 2
+	Country: Germany ; Times: 1
+	Country: China ; Times: 1
+	Country: South Korea ; Times: 10
+	Country: Dominica ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 11
+	Date: 2020-01-17 ; Times: 3
+	Date: 2020-01-29 ; Times: 16
+	Date: 2020-01-28 ; Times: 9
+	Date: 2020-01-07 ; Times: 7
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-20 ; Times: 2
+	Date: 2020-01-23 ; Times: 56
+	Date: 2020-01-08 ; Times: 3
+	Date: 2020-01-25 ; Times: 4
+	Date: 2020-01-24 ; Times: 6
+	Date: 2020-01-27 ; Times: 6
+	Date: 2020-01-26 ; Times: 2
+	Date: 2020-01-19 ; Times: 10
+	Date: 2020-01-14 ; Times: 4
+	Date: 2020-01-15 ; Times: 2
+	Date: 2020-01-16 ; Times: 3
+	Date: 2020-01-31 ; Times: 4
+	Date: 2020-01-10 ; Times: 2
+	Date: 2020-01-11 ; Times: 2
+	Date: 2020-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:verrucosa genus:Ischnocnema" ; Times: 1
+	Query: "specificepithet:esculenta genus:Rana" ; Times: 1
+	Query: "specificepithet:nasutus genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:krefftii genus:Phrynobatrachus" ; Times: 1
+	Query: "Rhampholeon temporalis" ; Times: 1
+	Query: "specificepithet:affinis genus:Arthroleptis" ; Times: 1
+	Query: "specificepithet:adspersus genus:Hyperolius" ; Times: 1
+	Query: "imantodes cenchoa hastissue:1" ; Times: 3
+	Query: "specificepithet:xenodactyloides genus:Arthroleptis" ; Times: 1
+	Query: "specificepithet:anchietae genus:Ptychadena" ; Times: 1
+	Query: "specificepithet:cinnamomeoventris genus:Hyperolius" ; Times: 1
+	Query: "genus:Atractaspis year &gt;= 1980 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "specificepithet:puncticulatus genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:trigonata genus:Boiga hastissue:1" ; Times: 1
+	Query: "specificepithet:bocagii genus:Leptopelis" ; Times: 1
+	Query: "gbifdatasetid:cb643105-2e6b-403d-a23b-2c8128d1f97c" ; Times: 1
+	Query: "acrochordus granulatus" ; Times: 1
+	Query: "genus:Crinia order:Anura hastissue:1" ; Times: 1
+	Query: "specificepithet:uluguruensis genus:Probreviceps" ; Times: 1
+	Query: "country:Ecuador scientificname:Bothrops punctatus " ; Times: 2
+	Query: "specificepithet:xenodactylus genus:Arthroleptis" ; Times: 1
+	Query: "Cnemaspis petrodroma" ; Times: 1
+	Query: "bothrochilus" ; Times: 1
+	Query: "specificepithet:tanneri genus:Arthroleptis" ; Times: 1
+	Query: "specificepithet:mabouia genus:hemidactylus country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "Chamaesaura tenuior" ; Times: 1
+	Query: "genus:ptyodactylus hastissue:1" ; Times: 1
+	Query: "genus:Tripanurgos hastissue:1" ; Times: 1
+	Query: "Cnemaspis africana" ; Times: 1
+	Query: "specificepithet:pusillus genus:Hyperolius" ; Times: 1
+	Query: "Phyllodactylus pulcher" ; Times: 10
+	Query: "specificepithet:carinatus genus:zaocys" ; Times: 2
+	Query: "Ramphotyphlops braminus country:&#34;philippines&#34;" ; Times: 2
+	Query: "Acanthosaura armata" ; Times: 1
+	Query: "specificepithet:kivuensis genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:adspersus genus:Pyxicephalus" ; Times: 1
+	Query: "genus:Phimophis hastissue:1" ; Times: 1
+	Query: "specificepithet:viviparus genus:Nectophrynoides" ; Times: 1
+	Query: "genus:Pyxicephalus specificepithet:adspersus" ; Times: 1
+	Query: "order:squamata nepal" ; Times: 2
+	Query: "genus:Geophis hastissue:1" ; Times: 1
+	Query: "specificepithet:mabouia genus:hemidactylus continent:South America hastissue:1" ; Times: 3
+	Query: "genus:Rhadinaea hastissue:1" ; Times: 2
+	Query: "specificepithet:fusciventris genus:Hyperolius" ; Times: 1
+	Query: "family:Myobatrachidae hastissue:1" ; Times: 1
+	Query: "Scaphiophis" ; Times: 1
+	Query: "specificepithet:rufescens genus:Chiromantis" ; Times: 1
+	Query: "specificepithet:reichei genus:Arthroleptis" ; Times: 1
+	Query: "specificepithet:boa genus:bothrochilus" ; Times: 2
+	Query: "specificepithet:roosevelti genus:anolis" ; Times: 2
+	Query: "specificepithet:mabouia genus:hemidactylus hastissue:1" ; Times: 3
+	Query: "Cnemaspis gigas" ; Times: 1
+	Query: "specificepithet:argus genus:Hyperolius" ; Times: 1
+	Query: "temporaria Rana" ; Times: 2
+	Query: "specificepithet:rogersi genus:Hoplophryne" ; Times: 1
+	Query: "specificepithet:macrodactylus genus:Probreviceps" ; Times: 1
+	Query: "specificepithet:concolor genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:micranotis genus:Mertensophryne" ; Times: 1
+	Query: "specificepithet:frontalis genus:Hyperolius" ; Times: 1
+	Query: "Rhampholeon spinosus" ; Times: 1
+	Query: "gloydius intermedius" ; Times: 7
+	Query: "Lygodactylus conradti" ; Times: 1
+	Query: "genus:Siphlophis hastissue:1" ; Times: 1
+	Query: "specificepithet:uluguruensis genus:Hoplophryne" ; Times: 1
+	Query: "specificepithet:regularis genus:Bufo" ; Times: 1
+	Query: "Kinyongia vosseleri" ; Times: 1
+	Query: "specificepithet:pulchra genus:Cardioglossa" ; Times: 1
+	Query: "genus:clelia hastissue:1" ; Times: 1
+	Query: "dipsas incerta" ; Times: 1
+	Query: "ramphotyphlops braminus country:&#34;philippines&#34;" ; Times: 1
+	Query: "Ramphotyphlops braminus country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "specificepithet:castaneus genus:Hyperolius" ; Times: 1
+	Query: "bothrochilus boa" ; Times: 1
+	Query: "Rieppeleon brevicaudatus" ; Times: 1
+	Query: "Ramphotyphlops braminus country:&#34;Burma&#34;" ; Times: 1
+	Query: "country:&#34;tanzania&#34; year &gt;= 1966 year &lt;= 1966 institutioncode:ZMUC" ; Times: 2
+	Query: "specificepithet:kreffti genus:Callulina" ; Times: 1
+	Query: "specificepithet:mabouia genus:hemidactylus country:&#34;tanzania&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:tuberilinguis genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:benguellensis genus:Hyperolius" ; Times: 1
+	Query: "Tarentola bischoffi" ; Times: 6
+	Query: "hydrophis semperi" ; Times: 1
+	Query: "specificepithet:mabouia genus:hemidactylus country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "class:Reptilia country:&#34;India&#34; hastissue:1" ; Times: 4
+	Query: "genus:Clelia hastissue:1" ; Times: 1
+	Query: "genus:Oxyrhopus hastissue:1" ; Times: 1
+	Query: "specificepithet:dalmatina genus:Rana" ; Times: 1
+	Query: "ramphotyphlops braminus country:&#34;china&#34;" ; Times: 1
+	Query: "specificepithet:mabouia genus:hemidactylus country:&#34;Tanzania&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:xerampelina genus:Chiromantis" ; Times: 1
+	Query: "Lampropeltis triangulum elapsoides" ; Times: 1
+	Query: "specificepithet:lateralis genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:stenodactylus genus:Arthroleptis" ; Times: 1
+	Query: "Kinyongia matschiei" ; Times: 1
+	Query: "specificepithet:brauni genus:Bufo" ; Times: 1
+	Query: "specificepithet:tornieri genus:Nectophrynoides" ; Times: 1
+	Query: "genus:Sibon hastissue:1" ; Times: 1
+	Query: "specificepithet:torrentis genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:vermiculatus genus:Leptopelis" ; Times: 1
+	Query: "specificepithet:fornasini genus:Afrixalus" ; Times: 1
+	Query: "specificepithet:petersii genus:Chiromantis" ; Times: 1
+	Query: "specificepithet:stomaticus genus:Bufo" ; Times: 1
+	Query: "genus:Arthroleptis specificepithet:adolfifriederici" ; Times: 2
+	Query: "specificepithet:phantasticus genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:ocellatus genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:mabouia genus:hemidactylus country:&#34;nigeria&#34; hastissue:1" ; Times: 1
+	Query: "elaphe dione" ; Times: 3
+	Query: "specificepithet:stuhlmanni genus:Afrixalus" ; Times: 1
+	Query: "Ptyodactylus hasselquisti" ; Times: 1
+	Query: "specificepithet:adolfifriederici genus:Arthroleptis" ; Times: 1
+	Query: "specificepithet:delicatus genus:Afrixalus" ; Times: 1
+	Query: "specificepithet:argenteus genus:Leptopelis" ; Times: 1
+	Query: "specificepithet:gutturalis genus:Bufo" ; Times: 1
+	Query: "specificepithet:cultripes genus:Odontophrynus" ; Times: 1
+	Query: "specificepithet:minima genus:Rana" ; Times: 1
+	Query: "specificepithet:senegalensis genus:Kassina" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 1584 download events in this period)
+Total number of records downloaded: 1321
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 27
+	Country: Rwanda ; Times: 1
+	Country: China ; Times: 13
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 5
+	Date: 2020-01-28 ; Times: 9
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-14 ; Times: 1
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-31 ; Times: 6
+	Date: 2020-01-25 ; Times: 6
+	Date: 2020-01-24 ; Times: 15
+	Date: 2020-01-30 ; Times: 1
+	Date: 2020-01-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Zootoca vivipara" ; Times: 1
+	Query: "Cnemaspis africana" ; Times: 1
+	Query: "Nactus pelagicus" ; Times: 1
+	Query: "Tarentola annularis" ; Times: 1
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 2
+	Query: "Rieppeleon brevicaudatus" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Gekko japonicus" ; Times: 1
+	Query: "Macroprotodon cucullatus" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 3
+	Query: "country:&#34;tanzania&#34; year &gt;= 1966 year &lt;= 1966 institutioncode:ZMUC" ; Times: 1
+	Query: "Gonatodes albogularis" ; Times: 1
+	Query: "cordylidae" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Sphaerodactylus elegans" ; Times: 1
+	Query: "Calotes mystaceus" ; Times: 1
+	Query: "Lygodactylus conradti" ; Times: 1
+	Query: "genus:Arthroleptis specificepithet:adolfifriederici" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "Calotes emma" ; Times: 1
+	Query: "Alsophylax pipiens" ; Times: 2
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "Hemidactylus bowringii" ; Times: 1
+	Query: "Drymobius margaritiferus" ; Times: 1
+	Query: "Teratoscincus scincus" ; Times: 1
+	Query: "Gekko gecko" ; Times: 3
+	Query: "Phelsuma laticauda" ; Times: 1
+	Query: "Rhampholeon spinosus" ; Times: 1
+	Query: "Sphaerodactylus notatus" ; Times: 1
+	Query: "Rhampholeon temporalis" ; Times: 1
+	Query: "Tropidonophis" ; Times: 1
+	Query: "Agama lionotus" ; Times: 1
+	Query: "Lamprolepis smaragdina" ; Times: 1
+	Query: "specificepithet:maculatus genus:Draco" ; Times: 1
+	Query: "Kinyongia vosseleri" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "Basiliscus basiliscus" ; Times: 1
+	Query: "Kinyongia matschiei" ; Times: 1
+	Query: "Chamaesaura tenuior" ; Times: 1
+	Query: "gekko smithii" ; Times: 1
+
+
+End of report.
