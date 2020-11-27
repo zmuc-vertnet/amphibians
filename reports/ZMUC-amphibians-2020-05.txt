@@ -1,0 +1,188 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 374
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Australia ; Times: 19
+	Country: Iran ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: India ; Times: 6
+	Country: France ; Times: 2
+	Country: United States ; Times: 21
+	Country: Vietnam ; Times: 5
+	Country: Germany ; Times: 2
+	Country: Ireland ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 7
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-21 ; Times: 1
+	Date: 2020-05-23 ; Times: 3
+	Date: 2020-05-22 ; Times: 6
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-19 ; Times: 2
+	Date: 2020-05-10 ; Times: 3
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-12 ; Times: 2
+	Date: 2020-05-16 ; Times: 2
+	Date: 2020-05-17 ; Times: 1
+	Date: 2020-05-30 ; Times: 4
+	Date: 2020-05-31 ; Times: 7
+	Date: 2020-05-09 ; Times: 4
+	Date: 2020-05-08 ; Times: 6
+	Date: 2020-05-07 ; Times: 8
+	Date: 2020-05-06 ; Times: 5
+	Date: 2020-05-05 ; Times: 6
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhinotyphlops praeocularis" ; Times: 3
+	Query: "Hemirhagerrhis nototaenia" ; Times: 1
+	Query: "genus:bronchocela country:&#34;thailand&#34;" ; Times: 4
+	Query: "genus:Sphaerodactylus country:&#34;Panama&#34; hastissue:1" ; Times: 2
+	Query: "Pareas monticola" ; Times: 5
+	Query: "Causus bilineatus" ; Times: 1
+	Query: "genus:Phimophis class:Reptilia" ; Times: 1
+	Query: "Prosymna meleagris" ; Times: 1
+	Query: "Vipera lebetina obtusa" ; Times: 1
+	Query: "Trimeresurus albolabris" ; Times: 6
+	Query: "zamenis longissimus" ; Times: 1
+	Query: "ACRANTOPHIS" ; Times: 1
+	Query: "Prosymna stuhlmanni" ; Times: 1
+	Query: "genus:micrurus mipartitus" ; Times: 1
+	Query: "genus:Bothrops specificepithet:jararaca" ; Times: 6
+	Query: "Homoroselaps lacteus" ; Times: 1
+	Query: "6363 ku" ; Times: 2
+	Query: "class:Amphibia country:&#34;Algeria&#34;" ; Times: 2
+	Query: "Hydraethiops melanogaster" ; Times: 1
+	Query: "specificepithet:colubrina genus:Laticauda country:&#34;Fiji&#34;" ; Times: 2
+	Query: "acanthosaura armata" ; Times: 2
+	Query: "KU 8577" ; Times: 2
+	Query: "clot bey" ; Times: 2
+	Query: "Gloydius halys" ; Times: 1
+	Query: "KU 6676" ; Times: 1
+	Query: "Lycophidion meleagre" ; Times: 1
+	Query: "Lycophidion multimaculatum" ; Times: 1
+	Query: "Chironius bicarinatus" ; Times: 1
+	Query: "imantodes cenchoa hastissue:1" ; Times: 1
+	Query: "genus:sphaerodactylus country:&#34;Panama&#34;" ; Times: 1
+	Query: "Xenochrophis vittatus" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis" ; Times: 1
+	Query: "Buhoma depressiceps" ; Times: 1
+	Query: "Micrurus bogerti" ; Times: 6
+	Query: "Lycophidion irroratum" ; Times: 1
+	Query: "genus:Calamaria hastissue:1" ; Times: 2
+	Query: "genus:Stenorrhina country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Trachischium" ; Times: 1
+	Query: "Thamnophis hammondi" ; Times: 1
+	Query: "specificepithet:pulverulenta genus:Boiga" ; Times: 2
+	Query: "specificepithet:lepidopodus genus:pygopus" ; Times: 1
+	Query: "genus:Sphaerodactylus country:&#34;Honduras&#34; hastissue:1" ; Times: 1
+	Query: "chondropython viridis" ; Times: 1
+	Query: "Neurergus" ; Times: 1
+	Query: "Leptotyphlops conjunctus" ; Times: 1
+	Query: "Meizodon regularis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 1106 download events in this period)
+Total number of records downloaded: 2102
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 17
+	Country: Australia ; Times: 20
+	Country: Portugal ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-21 ; Times: 2
+	Date: 2020-05-23 ; Times: 6
+	Date: 2020-05-22 ; Times: 5
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-31 ; Times: 8
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-01 ; Times: 4
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 4
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-11 ; Times: 2
+	Date: 2020-05-05 ; Times: 1
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-14 ; Times: 2
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Zootoca vivipara" ; Times: 1
+	Query: "Buhoma depressiceps" ; Times: 1
+	Query: "Crotaphopeltis hippocrepis" ; Times: 1
+	Query: "Hemirhagerrhis nototaenia" ; Times: 1
+	Query: "Equatorial Guinea" ; Times: 1
+	Query: "Tylototriton" ; Times: 1
+	Query: "order:Squamata country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Causus bilineatus" ; Times: 1
+	Query: "hemidactylus turcicus" ; Times: 2
+	Query: "contia" ; Times: 1
+	Query: "Trimeresurus albolabris" ; Times: 3
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "zamenis longissimus" ; Times: 1
+	Query: "Prosymna stuhlmanni" ; Times: 1
+	Query: "Dipsadoboa unicolor" ; Times: 1
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "Homoroselaps lacteus" ; Times: 1
+	Query: "Hydraethiops melanogaster" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "ctenosaura similis" ; Times: 1
+	Query: "Lycophidion meleagre" ; Times: 1
+	Query: "Neurergus" ; Times: 1
+	Query: "Lycophidion multimaculatum" ; Times: 1
+	Query: "Natriciteres olivacea" ; Times: 1
+	Query: "Xenochrophis vittatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:niloticus genus:Varanus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leptotyphlops conjunctus" ; Times: 1
+	Query: "gymnophiona" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "Causus defilippii" ; Times: 1
+	Query: "clot bey" ; Times: 1
+	Query: "Thamnophis hammondi" ; Times: 1
+	Query: "Meizodon regularis" ; Times: 1
+	Query: "Lycophidion irroratum" ; Times: 1
+	Query: "genus:Candoia country:&#34;Solomon Islands&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "sceloporus variabilis" ; Times: 1
+	Query: "Homonota darwinii" ; Times: 1
+	Query: "Prosymna meleagris" ; Times: 1
+	Query: "Stegonotus" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "genus:Triturus family:salamandridae" ; Times: 1
+	Query: "CROTALUS HORRIDUS" ; Times: 2
+
+
+End of report.
