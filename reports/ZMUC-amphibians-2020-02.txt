@@ -1,0 +1,163 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 657
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 56
+	Country: Australia ; Times: 8
+	Country: Czechia ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Rwanda ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Ukraine ; Times: 1
+	Country: Dominica ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 2
+	Date: 2020-02-02 ; Times: 2
+	Date: 2020-02-25 ; Times: 7
+	Date: 2020-02-01 ; Times: 2
+	Date: 2020-02-20 ; Times: 2
+	Date: 2020-02-21 ; Times: 2
+	Date: 2020-02-04 ; Times: 9
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-09 ; Times: 5
+	Date: 2020-02-28 ; Times: 3
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-10 ; Times: 3
+	Date: 2020-02-13 ; Times: 5
+	Date: 2020-02-12 ; Times: 4
+	Date: 2020-02-15 ; Times: 3
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-17 ; Times: 2
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-18 ; Times: 12
+	Date: 2020-02-03 ; Times: 4
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen class:Reptilia country:&#34;India&#34; hastypestatus:1" ; Times: 1
+	Query: "Antillophis andreae" ; Times: 1
+	Query: "genus:Naja continent:Africa hastypestatus:1" ; Times: 1
+	Query: "R69255" ; Times: 1
+	Query: "Phyllodactylus pulcher" ; Times: 2
+	Query: "KU and 4113" ; Times: 1
+	Query: "genus:Dipsadoboa hastissue:1" ; Times: 1
+	Query: "Cardioglossa pulchra" ; Times: 3
+	Query: "vntype:specimen specificepithet:samarensis genus:naja" ; Times: 1
+	Query: "vntype:specimen specificepithet:oxiana genus:naja" ; Times: 1
+	Query: "genus:Grayia hastissue:1" ; Times: 2
+	Query: "genus:Lichanura hastissue:1" ; Times: 1
+	Query: "ku 4740" ; Times: 1
+	Query: "specificepithet:juxtindicus genus:varanus" ; Times: 5
+	Query: "KU 2978" ; Times: 1
+	Query: "specificepithet:sputator genus:sphaerodactylus" ; Times: 1
+	Query: "Gekko smithii" ; Times: 1
+	Query: "Tarentola bischoffi" ; Times: 1
+	Query: "country:Ecuador scientificname:Leptodeira septentrionalis " ; Times: 1
+	Query: "hemidactylus garnotti" ; Times: 1
+	Query: "genus:Urocotyledon" ; Times: 1
+	Query: "specificepithet:vittatus genus:Gonatodes" ; Times: 1
+	Query: "gargarizans Bufo" ; Times: 1
+	Query: "Bunopus tuberculatus" ; Times: 1
+	Query: "Naja nigricollis" ; Times: 1
+	Query: "imantodes cenchoa hastissue:1" ; Times: 1
+	Query: "Urocotyledon wolterstorffi" ; Times: 1
+	Query: "specificepithet:smithii genus:Gekko basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:pallida genus:naja" ; Times: 1
+	Query: "Uromastyx aegyptia" ; Times: 1
+	Query: "genus:Naja continent:Africa (Naja melanoleuca)" ; Times: 1
+	Query: "vntype:specimen specificepithet:haje genus:naja" ; Times: 1
+	Query: "specificepithet:nasicornis genus:Bitis hastissue:1" ; Times: 1
+	Query: "gbifdatasetid:cb643105-2e6b-403d-a23b-2c8128d1f97c morelia" ; Times: 1
+	Query: "eirenis decemlineata" ; Times: 1
+	Query: "asaccus" ; Times: 1
+	Query: "currori" ; Times: 1
+	Query: "oligodon albocinctus" ; Times: 2
+	Query: "KU 5083" ; Times: 1
+	Query: "genus:Cardioglossa specificepithet:pulchra" ; Times: 4
+	Query: "country:Ecuador scientificname:Leptodeira annulata " ; Times: 1
+	Query: "vntype:specimen specificepithet:katiensis genus:naja" ; Times: 1
+	Query: "Oligodon vntype:specimen hastissue:1" ; Times: 2
+	Query: "specificepithet:gabonica genus:Bitis hastissue:1" ; Times: 1
+	Query: "genus:Arthroleptis specificepithet:adolfifriederici" ; Times: 2
+	Query: "country:Ecuador scientificname:Boa constrictor " ; Times: 1
+	Query: "vntype:specimen specificepithet:mossambica genus:naja" ; Times: 1
+	Query: "Atractaspis engaddensis" ; Times: 1
+	Query: "KU 7418" ; Times: 1
+	Query: "gbifdatasetid:cb643105-2e6b-403d-a23b-2c8128d1f97c" ; Times: 3
+	Query: "Eirenis rothi" ; Times: 2
+	Query: "Uropeltis" ; Times: 1
+	Query: "Walterinnesia aegyptia" ; Times: 3
+	Query: "gekko smithii" ; Times: 3
+	Query: "KU 7020" ; Times: 1
+	Query: "specificepithet:vittatus genus:Gonatodes country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "malpolon insignitus" ; Times: 1
+	Query: "anilius scytale" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1023 download events in this period)
+Total number of records downloaded: 291
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 7
+	Country: United States ; Times: 12
+	Country: Guyana ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Iraq ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-15 ; Times: 2
+	Date: 2020-02-05 ; Times: 5
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-16 ; Times: 2
+	Date: 2020-02-06 ; Times: 3
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Tantilla melanocephala" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "&#34;Cerastes cerastes&#34;" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "malpolon moilensis" ; Times: 1
+	Query: "Urocotyledon wolterstorffi" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "Anolis cybotes Dominican Republic" ; Times: 1
+	Query: "Uromastyx aegyptia" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "eirenis decemlineata" ; Times: 1
+	Query: "Anguidae" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Oligodon vntype:specimen hastissue:1" ; Times: 2
+	Query: "Atractaspis engaddensis" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "west java" ; Times: 1
+	Query: "specificepithet:macrolepis genus:Sphaerodactylus" ; Times: 1
+	Query: "Walterinnesia aegyptia" ; Times: 2
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "malpolon insignitus" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+
+
+End of report.
