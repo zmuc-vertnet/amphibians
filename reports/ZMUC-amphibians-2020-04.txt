@@ -1,0 +1,157 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 108
+Number of records retrieved in searches: 1320
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 2
+	Country: United States ; Times: 31
+	Country: Australia ; Times: 30
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 6
+	Country: Poland ; Times: 3
+	Country: Singapore ; Times: 1
+	Country: Montenegro ; Times: 2
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 23
+	Country: Finland ; Times: 3
+	Country: Ireland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 1
+	Date: 2020-04-04 ; Times: 4
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-20 ; Times: 4
+	Date: 2020-04-07 ; Times: 15
+	Date: 2020-04-01 ; Times: 6
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-08 ; Times: 9
+	Date: 2020-04-09 ; Times: 22
+	Date: 2020-04-27 ; Times: 3
+	Date: 2020-04-03 ; Times: 5
+	Date: 2020-04-19 ; Times: 4
+	Date: 2020-04-18 ; Times: 2
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 2
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-10 ; Times: 2
+	Date: 2020-04-17 ; Times: 2
+	Date: 2020-04-16 ; Times: 10
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Neurergus crocatus" ; Times: 1
+	Query: "leiolepis belliana" ; Times: 1
+	Query: "specificepithet:spectrum genus:Rhampholeon" ; Times: 9
+	Query: "Hyperolius tuberilinguis" ; Times: 6
+	Query: "country:Ecuador scientificname:Bothrops bilineatus " ; Times: 1
+	Query: "Psammophis lineolatus" ; Times: 1
+	Query: "A. cristatella" ; Times: 6
+	Query: "genus:Laticauda country:&#34;Philippines&#34;" ; Times: 5
+	Query: "Afrixalus fornasini" ; Times: 6
+	Query: "genus:Astrotia country:&#34;Philippines&#34;" ; Times: 4
+	Query: "Transcaspian" ; Times: 1
+	Query: "specificepithet:venningi genus:amphiesma" ; Times: 1
+	Query: "genus:leptopelis country:&#34;sierra leone&#34;" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 2
+	Query: "Opisthotropis" ; Times: 1
+	Query: "genus:Pseudoboodon" ; Times: 1
+	Query: "Triturus cristatus" ; Times: 2
+	Query: "order:squamata country:&#34;nepal&#34;" ; Times: 1
+	Query: "Oligodon cruentatus" ; Times: 1
+	Query: "crotalus indiana" ; Times: 6
+	Query: "Hydrophis cyanocinctus" ; Times: 1
+	Query: "country:Ecuador scientificname:Leptodeira annulata " ; Times: 1
+	Query: "genus:ramphotyphlops country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Amblyodipsas" ; Times: 1
+	Query: "opisthotropis" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 2
+	Query: "genus:oxyrhopus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Philothamnus heterolepidotus" ; Times: 1
+	Query: "python reticulatus" ; Times: 4
+	Query: "specificepithet:arnensis genus:oligodon hastissue:1" ; Times: 1
+	Query: "Pelophylax kurtmuelleri" ; Times: 3
+	Query: "specificepithet:trigonata genus:Boiga hastissue:1" ; Times: 1
+	Query: "genus:Hydrophis country:&#34;Philippines&#34;" ; Times: 11
+	Query: "oligodon albocinctus" ; Times: 1
+	Query: "genus:atractus hastissue:1" ; Times: 3
+	Query: "Vipera ammodytes" ; Times: 3
+	Query: "genus:Lapemis country:&#34;Philippines&#34;" ; Times: 4
+	Query: "specificepithet:schmidti genus:amphisbaena" ; Times: 1
+	Query: "genus:Buhoma" ; Times: 1
+	Query: "country:Ecuador scientificname:Boa constrictor " ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:dichrous genus:Drymoluber" ; Times: 1
+	Query: "genus:Hydrophis country:&#34;Philippines&#34; institutioncode:ZMUC basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "KU 1029" ; Times: 1
+	Query: "specificepithet:spectrum genus:Rhampholeon hastissue:1" ; Times: 2
+	Query: "specificepithet:macrotis genus:leptopelis country:&#34;sierra leone&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1171 download events in this period)
+Total number of records downloaded: 300
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Brazil ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Australia ; Times: 9
+	Country: Panama ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-13 ; Times: 2
+	Date: 2020-04-10 ; Times: 1
+	Date: 2020-04-06 ; Times: 2
+	Date: 2020-04-14 ; Times: 4
+	Date: 2020-04-30 ; Times: 1
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-21 ; Times: 1
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-03 ; Times: 3
+	Date: 2020-04-29 ; Times: 7
+	Date: 2020-04-08 ; Times: 1
+	Date: 2020-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Psammophis lineolatus" ; Times: 1
+	Query: "genus:arthroleptis hastissue:1" ; Times: 1
+	Query: "genus:Astrotia country:&#34;Philippines&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 2
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Heterodon" ; Times: 1
+	Query: "Philothamnus heterolepidotus" ; Times: 1
+	Query: "clelia clelia" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis" ; Times: 2
+	Query: "specificepithet:torquata genus:Hypsiglena" ; Times: 1
+	Query: "Oligodon cruentatus" ; Times: 1
+	Query: "elaphe dione" ; Times: 1
+	Query: "genus:Laticauda country:&#34;Philippines&#34;" ; Times: 1
+	Query: "blandingii" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "genus:Hydrophis country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Pachydactylus maculatus" ; Times: 1
+	Query: "genus:Lapemis country:&#34;Philippines&#34;" ; Times: 1
+	Query: "specificepithet:schmidti genus:amphisbaena" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 2
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+
+
+End of report.
