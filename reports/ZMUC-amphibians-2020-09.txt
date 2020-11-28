@@ -1,0 +1,136 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 112
+Number of records retrieved in searches: 1873
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 41
+	Country: Australia ; Times: 21
+	Country: Unknown ; Times: 1
+	Country: Finland ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 41
+	Country: Ireland ; Times: 4
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 6
+	Date: 2020-09-15 ; Times: 3
+	Date: 2020-09-16 ; Times: 13
+	Date: 2020-09-22 ; Times: 9
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-11 ; Times: 3
+	Date: 2020-09-27 ; Times: 29
+	Date: 2020-09-29 ; Times: 3
+	Date: 2020-09-18 ; Times: 2
+	Date: 2020-09-30 ; Times: 2
+	Date: 2020-09-08 ; Times: 2
+	Date: 2020-09-21 ; Times: 9
+	Date: 2020-09-02 ; Times: 4
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-25 ; Times: 10
+	Date: 2020-09-01 ; Times: 3
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-07 ; Times: 4
+	Date: 2020-09-05 ; Times: 4
+	Date: 2020-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Phyllodactylus pulcher" ; Times: 2
+	Query: "specificepithet:dendrophila genus:boiga hastissue:1" ; Times: 3
+	Query: "Crotaphopeltis hippocrepis" ; Times: 9
+	Query: "Hydrophis cyanocinctus vntype:specimen hastissue:1" ; Times: 2
+	Query: "country:&#34;Indonesia&#34; institutioncode:ZMUC" ; Times: 1
+	Query: "Calliophis gracilis" ; Times: 4
+	Query: "hydrophis atriceps vntype:specimen hastissue:1" ; Times: 1
+	Query: "hydrophis atriceps" ; Times: 5
+	Query: "Hypsiglena ochrorhynchus" ; Times: 1
+	Query: "Hydrophis fasciatus vntype:specimen hastissue:1" ; Times: 2
+	Query: "specificepithet:diadematus institutioncode:ZMUC" ; Times: 2
+	Query: "genus:Cerberus order:Squamata hastissue:1" ; Times: 2
+	Query: "Helicops modestus vntype:specimen hastissue:1" ; Times: 3
+	Query: "Tarentola bischoffi" ; Times: 2
+	Query: "genus:Drymarchon hastissue:1" ; Times: 1
+	Query: "hemidactylus mabouia hastissue:1" ; Times: 4
+	Query: "genus:Rhabdophis hastissue:1" ; Times: 1
+	Query: "genus:Sphaerodactylus country:&#34;Panama&#34;" ; Times: 1
+	Query: "KU 5133" ; Times: 1
+	Query: "pareas monticola" ; Times: 1
+	Query: "Hydrophis atriceps vntype:specimen hastissue:1" ; Times: 2
+	Query: "genus:Cerberus order:Squamata institutioncode:ZMUC hastissue:1" ; Times: 1
+	Query: "Atretium" ; Times: 1
+	Query: "genus:Bitis country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "Tahiti specificepithet:lugubris genus:lepidodactylus family:gekkonidae" ; Times: 1
+	Query: "ZMUC R631238" ; Times: 2
+	Query: "specificepithet:andreae genus:Antillophis hastissue:1" ; Times: 1
+	Query: "KU 5280" ; Times: 1
+	Query: "tropidodipsas fasciata" ; Times: 1
+	Query: "genus:cerberus order:Squamata" ; Times: 2
+	Query: "genus:Cerberus institutioncode:ZMUC" ; Times: 1
+	Query: "rhabdophis chrysargos" ; Times: 1
+	Query: "specificepithet:fantasticus genus:Sphaerodactylus hastissue:1" ; Times: 1
+	Query: "hemidactylus mabouia hassex:1 hastissue:1" ; Times: 1
+	Query: "hydrophis cyanocinctus" ; Times: 1
+	Query: "hydrophis belcheri" ; Times: 1
+	Query: "eutropis macularia ku" ; Times: 1
+	Query: "genus:Cerberus institutioncode:ZMUC hastissue:1" ; Times: 1
+	Query: "specificepithet:kuhli family:gekkonidae" ; Times: 1
+	Query: "genus:cerberus order:Squamata hastissue:1" ; Times: 2
+	Query: "Oxybelis hastissue:1" ; Times: 1
+	Query: "Crotaphopeltis hotamboeia" ; Times: 25
+	Query: "gekko gecko ku" ; Times: 1
+	Query: "specificepithet:pulcher family:gekkonidae" ; Times: 1
+	Query: "KU 5588" ; Times: 1
+	Query: "xylophis perroteti" ; Times: 1
+	Query: "ZMUC R631239" ; Times: 2
+	Query: "Rhampholeon spectrum" ; Times: 3
+	Query: "KU 7571" ; Times: 1
+	Query: "Helicops angulatus vntype:specimen hastissue:1" ; Times: 3
+	Query: "specificepithet:plumbea class:reptilia hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 976 download events in this period)
+Total number of records downloaded: 533
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: United Kingdom ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-24 ; Times: 2
+	Date: 2020-09-27 ; Times: 2
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-29 ; Times: 2
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-03 ; Times: 3
+	Date: 2020-09-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhadinaea decorata" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "tympanocryptis cephalus" ; Times: 1
+	Query: "tropidodipsas fasciata" ; Times: 1
+	Query: "tropidodipsas sartorii" ; Times: 1
+	Query: "gekko gecko ku" ; Times: 1
+	Query: "Crotaphopeltis hotamboeia" ; Times: 2
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "Geophis vntype:specimen" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "Rhampholeon spectrum" ; Times: 1
+	Query: "genus:Cerberus order:Squamata hastissue:1" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "Acrochordus granulatus" ; Times: 1
+
+
+End of report.
