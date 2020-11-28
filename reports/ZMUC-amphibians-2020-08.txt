@@ -1,0 +1,169 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 187
+Number of records retrieved in searches: 1006
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 149
+	Country: Italy ; Times: 2
+	Country: Colombia ; Times: 8
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 7
+	Country: Germany ; Times: 8
+	Country: Ireland ; Times: 3
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 3
+	Date: 2020-08-07 ; Times: 8
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-08 ; Times: 1
+	Date: 2020-08-14 ; Times: 5
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-12 ; Times: 2
+	Date: 2020-08-10 ; Times: 1
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-30 ; Times: 1
+	Date: 2020-08-19 ; Times: 1
+	Date: 2020-08-01 ; Times: 12
+	Date: 2020-08-03 ; Times: 121
+	Date: 2020-08-04 ; Times: 2
+	Date: 2020-08-28 ; Times: 5
+	Date: 2020-08-29 ; Times: 4
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-27 ; Times: 3
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-25 ; Times: 2
+	Date: 2020-08-22 ; Times: 1
+	Date: 2020-08-20 ; Times: 3
+	Date: 2020-08-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "pituophis deppei" ; Times: 2
+	Query: "Atractaspis aterrima" ; Times: 1
+	Query: "scientificname:Micrurus lemniscatus " ; Times: 1
+	Query: "Phyllodactylus pulcher" ; Times: 2
+	Query: "A. cristatella" ; Times: 1
+	Query: "Psammophilus dorsalis" ; Times: 1
+	Query: "country:Ecuador scientificname:Lampropeltis micropholis " ; Times: 1
+	Query: "genus:Cerberus order:Squamata hastissue:1" ; Times: 1
+	Query: "institutioncode:ZMUC 284" ; Times: 1
+	Query: "specificepithet:pulcher family:Gekkonidae" ; Times: 1
+	Query: "coronella girondica" ; Times: 1
+	Query: "Liopeltis calamaria" ; Times: 1
+	Query: "Lampropeltis polyzona" ; Times: 1
+	Query: "genus:Pyxicephalus specificepithet:adspersus" ; Times: 1
+	Query: "Tarentola bischoffi" ; Times: 2
+	Query: "liopeltis" ; Times: 1
+	Query: "specificepithet:nasicornis genus:Bitis hastissue:1" ; Times: 1
+	Query: "dendrophidion dendrophis" ; Times: 1
+	Query: "genus:Sphaerodactylus country:&#34;Panama&#34;" ; Times: 2
+	Query: "Anilius scytale" ; Times: 1
+	Query: "KU 7379" ; Times: 3
+	Query: "Aparallactus lunulatus" ; Times: 1
+	Query: "bothrolycus" ; Times: 1
+	Query: "Atractaspis dahomeyensis" ; Times: 1
+	Query: "Chrysopelea paradisi" ; Times: 1
+	Query: "mappable:1 scientificname:Agama boensis" ; Times: 1
+	Query: "Siphlophis cervinus peru" ; Times: 1
+	Query: "genus:Cerberus country:&#34;Indonesia&#34; hastissue:1" ; Times: 1
+	Query: "Atractaspis irregularis" ; Times: 2
+	Query: "Eirenis" ; Times: 1
+	Query: "Hyperolius argus" ; Times: 1
+	Query: "Leptodeira septentrionalis peru" ; Times: 2
+	Query: "genus:Bitis hastissue:1" ; Times: 4
+	Query: "specificepithet:plumbea genus:Enhydris" ; Times: 1
+	Query: "micrurus surinamensis" ; Times: 2
+	Query: "Kassina senegalensis" ; Times: 1
+	Query: "Hyperolius cinnamomeoventris" ; Times: 1
+	Query: "genus:Psammophilus" ; Times: 1
+	Query: "country:Ecuador scientificname:Micrurus mipartitus " ; Times: 3
+	Query: "specificepithet:gabonica genus:Bitis hastissue:1" ; Times: 1
+	Query: "micrurus mipartitus" ; Times: 8
+	Query: "specificepithet:fantasticus genus:Sphaerodactylus" ; Times: 114
+	Query: "Oxybelis hastissue:1" ; Times: 1
+	Query: "Chrysopelea paradisi paradisi" ; Times: 1
+	Query: "Aagaard siam" ; Times: 2
+	Query: "Bothriechis schlegelii Colombia" ; Times: 1
+	Query: "zfmk" ; Times: 1
+	Query: "country:Ecuador scientificname:Boa constrictor " ; Times: 1
+	Query: "Python molurus bivittatus" ; Times: 1
+	Query: "Dryophiops rubescens" ; Times: 1
+	Query: "chersodromus liebmanni" ; Times: 1
+	Query: "Coronella girondica" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 756 download events in this period)
+Total number of records downloaded: 430
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: China ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-18 ; Times: 2
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-19 ; Times: 1
+	Date: 2020-08-04 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-15 ; Times: 3
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-05 ; Times: 1
+	Date: 2020-08-06 ; Times: 3
+	Date: 2020-08-29 ; Times: 8
+	Date: 2020-08-08 ; Times: 5
+	Date: 2020-08-27 ; Times: 2
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-20 ; Times: 2
+	Date: 2020-08-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 2
+	Query: "pituophis deppei" ; Times: 1
+	Query: "Leptophis diplotropis" ; Times: 1
+	Query: "Texas genus:Heterodon" ; Times: 1
+	Query: "Laticauda laticaudata" ; Times: 1
+	Query: "imantodes gemmistratus" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 1
+	Query: "Lampropeltis polyzona" ; Times: 1
+	Query: "hypsiglena torquata" ; Times: 1
+	Query: "coronella girondica" ; Times: 1
+	Query: "genus:Cerberus order:Squamata hastissue:1" ; Times: 1
+	Query: "Emydocephalus" ; Times: 1
+	Query: "spilotes pullatus" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "leptodeira polysticta" ; Times: 1
+	Query: "stenorrhina degenhardtii" ; Times: 1
+	Query: "imantodes cenchoa" ; Times: 1
+	Query: "Leptophis mexicanus" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "geophis semidoliatus" ; Times: 1
+	Query: "leptodeira nigrofasciata" ; Times: 1
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "genus:Sphaerodactylus country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "Leptophis ahaetulla" ; Times: 1
+	Query: "Anilius scytale" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "drymobius margaritiferus" ; Times: 1
+	Query: "genus:Cerberus order:Squamata" ; Times: 1
+	Query: "micrurus mipartitus" ; Times: 2
+	Query: "chersodromus liebmanni" ; Times: 1
+	Query: "crotalus horridus" ; Times: 2
+
+
+End of report.
