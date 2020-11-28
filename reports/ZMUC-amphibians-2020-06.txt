@@ -1,0 +1,108 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 344
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 4
+	Country: Singapore ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: India ; Times: 4
+	Country: United States ; Times: 55
+	Country: Slovakia ; Times: 2
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 5
+	Date: 2020-06-09 ; Times: 6
+	Date: 2020-06-06 ; Times: 9
+	Date: 2020-06-07 ; Times: 6
+	Date: 2020-06-04 ; Times: 28
+	Date: 2020-06-05 ; Times: 3
+	Date: 2020-06-02 ; Times: 13
+	Date: 2020-06-03 ; Times: 3
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-10 ; Times: 3
+	Date: 2020-06-12 ; Times: 4
+	Date: 2020-06-30 ; Times: 1
+	Date: 2020-06-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ptyas mucosus india" ; Times: 2
+	Query: "genus:Tantilla class:Reptilia country:&#34;Venezuela&#34; AND (NOT ANOLIS NOT AMEIVA NOT CNEMIDOPHORUS)" ; Times: 1
+	Query: "Natriciteres fuliginoides" ; Times: 1
+	Query: "genus:Chamaesaura hastissue:1" ; Times: 5
+	Query: "boiga trigonata india" ; Times: 2
+	Query: "hypnale hypnale" ; Times: 1
+	Query: "phrynocephalus maculatus" ; Times: 1
+	Query: "Trimeresurus puniceus" ; Times: 4
+	Query: "lycodon aulicus india" ; Times: 4
+	Query: "specificepithet:kaouthia genus:naja hastissue:1" ; Times: 1
+	Query: "Micrurus Wagler" ; Times: 2
+	Query: "oligodon arnensis india" ; Times: 2
+	Query: "Trimeresurus cantori" ; Times: 1
+	Query: "genus:Oxyrhopus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Trimeresurus labialis" ; Times: 1
+	Query: "Natrix tessellata" ; Times: 1
+	Query: "calotes andamanensis" ; Times: 1
+	Query: "specificepithet:decorata genus:Rhadinaea class:Reptilia country:&#34;Venezuela&#34; AND (NOT ANOLIS NOT AMEIVA NOT CNEMIDOPHORUS)" ; Times: 1
+	Query: "genus:Erythrolamprus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "trimeresurus malabaricus india" ; Times: 1
+	Query: "trimeresurus malabaricus" ; Times: 4
+	Query: "hypnale hypnale india" ; Times: 1
+	Query: "genus:Ophiomorus hastissue:1" ; Times: 1
+	Query: "hastissue:1 gloydius" ; Times: 1
+	Query: "Chrysopelea paradisi" ; Times: 1
+	Query: "Fischer Tanzania" ; Times: 2
+	Query: "ahaetulla nasuta india" ; Times: 2
+	Query: "Emoia rennellensis" ; Times: 1
+	Query: "genus:Leptophis country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Chrysopelea paradisi vntype:specimen" ; Times: 3
+	Query: "rhabdophis chrysargos" ; Times: 1
+	Query: "9610 KU" ; Times: 1
+	Query: "Afrixalus equatorialis mappable:1" ; Times: 1
+	Query: "gloydius intermedius" ; Times: 7
+	Query: "boiga trigonata" ; Times: 1
+	Query: "genus:chironius country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Siphlophis country:&#34;Peru&#34;" ; Times: 2
+	Query: "genus:trimeresurus country:indonesia" ; Times: 1
+	Query: "genus:Cordylus hastissue:1" ; Times: 1
+	Query: "specificepithet:subcinctus country:&#34;indonesia&#34;" ; Times: 1
+	Query: "echis carinatus india" ; Times: 2
+	Query: "5615 KU" ; Times: 1
+	Query: "genus:Micrurus country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "genus:dendrophidion country:&#34;Ecuador&#34;" ; Times: 3
+	Query: "genus:Chamaesaura" ; Times: 1
+	Query: "genus:Tantilla country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Liophis country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "dendrelaphis tristis india" ; Times: 2
+	Query: "hastissue:1 bothriechis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 474 download events in this period)
+Total number of records downloaded: 6
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-07 ; Times: 2
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Dipsas country:&#34;Peru&#34;" ; Times: 1
+	Query: "gloydius intermedius" ; Times: 1
+	Query: "genus:Liophis country:&#34;Peru&#34;" ; Times: 1
+	Query: "Emoia rennellensis" ; Times: 1
+
+
+End of report.
