@@ -1,0 +1,166 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 195
+Number of records retrieved in searches: 929
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Philippines ; Times: 2
+	Country: Finland ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 12
+	Country: Ireland ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 141
+	Country: Ecuador ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 5
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-20 ; Times: 6
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-26 ; Times: 4
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-01 ; Times: 3
+	Date: 2020-07-03 ; Times: 5
+	Date: 2020-07-02 ; Times: 3
+	Date: 2020-07-04 ; Times: 6
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-06 ; Times: 3
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-29 ; Times: 2
+	Date: 2020-07-19 ; Times: 6
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 6
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-16 ; Times: 13
+	Date: 2020-07-31 ; Times: 116
+	Date: 2020-07-22 ; Times: 4
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "varanus vntype:specimen hastissue:1" ; Times: 1
+	Query: "Atractaspis aterrima" ; Times: 2
+	Query: "KU 4996" ; Times: 2
+	Query: "Cyrtodactylus philippinicus" ; Times: 1
+	Query: "Phyllodactylus pulcher" ; Times: 1
+	Query: "micrurus psyches" ; Times: 1
+	Query: "class:Reptilia country:&#34;Swaziland&#34;" ; Times: 1
+	Query: "micrurus bocourti" ; Times: 4
+	Query: "Atractaspis irregularis" ; Times: 1
+	Query: "specificepithet:granulatus genus:Acrochordus hastissue:1" ; Times: 1
+	Query: "naja oxiana" ; Times: 1
+	Query: "specificepithet:boa genus:bothrochilus hastissue:1" ; Times: 1
+	Query: "genus:Typhlops locality:Puerto Rico month &gt;= 1 month &lt;= 1" ; Times: 1
+	Query: "specificepithet:niloticus genus:varanus hastissue:1" ; Times: 1
+	Query: "genus:Crotalus country:&#34;venezuela&#34;" ; Times: 1
+	Query: "KU 8495" ; Times: 2
+	Query: "schoutedeni" ; Times: 1
+	Query: "Xenodon merremii" ; Times: 1
+	Query: "crotalus durissus terrificus" ; Times: 1
+	Query: "Chironius flavolineatus" ; Times: 1
+	Query: "Hyperolius sylvaticus mappable:1" ; Times: 1
+	Query: "Bothrops schlegelii" ; Times: 1
+	Query: "Leptopelis bocagii mappable:1" ; Times: 1
+	Query: "Afrixalus fulvovittatus mappable:1" ; Times: 2
+	Query: "corallus caninus" ; Times: 5
+	Query: "specificepithet:plumbea genus:enhydris hastissue:1" ; Times: 1
+	Query: "Chironius flavopictus" ; Times: 1
+	Query: "genus:Laticauda country:&#34;Philippines&#34;" ; Times: 2
+	Query: "specificepithet:andreae genus:Antillophis hastissue:1" ; Times: 1
+	Query: "Hyperolius phantasticus mappable:1" ; Times: 1
+	Query: "KU 4987" ; Times: 2
+	Query: "country:Ecuador scientificname:Clelia clelia " ; Times: 1
+	Query: "KU 4092" ; Times: 2
+	Query: "Naja nigricollis" ; Times: 1
+	Query: "Hyperolius parallelus mappable:1" ; Times: 2
+	Query: "genus:salvadora hastissue:1" ; Times: 1
+	Query: "micrurus surinamensis" ; Times: 13
+	Query: "Afrixalus equatorialis mappable:1" ; Times: 2
+	Query: "linnaea" ; Times: 2
+	Query: "micrurus ancoralis" ; Times: 2
+	Query: "Tarentola bischoffi" ; Times: 1
+	Query: "specificepithet:fantasticus genus:Sphaerodactylus" ; Times: 114
+	Query: "Chironius maculoventris" ; Times: 1
+	Query: "phimophis guianensis" ; Times: 1
+	Query: "genus:probreviceps" ; Times: 1
+	Query: "Leptopelis notatus mappable:1" ; Times: 1
+	Query: "Chironius laevicollis" ; Times: 1
+	Query: "KU 8646" ; Times: 1
+	Query: "anilius" ; Times: 1
+	Query: "Chironius quadricarinatus" ; Times: 1
+	Query: "specificepithet:rynchops genus:cerberus hastissue:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 940 download events in this period)
+Total number of records downloaded: 8950
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 6
+	Country: Germany ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-20 ; Times: 11
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 6
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-06 ; Times: 4
+	Date: 2020-07-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Clelia clelia" ; Times: 2
+	Query: "viperidae" ; Times: 1
+	Query: "class:Amphibia country:&#34;Argentina&#34;" ; Times: 1
+	Query: "chironius carinatus" ; Times: 1
+	Query: "specificepithet:granulatus genus:Acrochordus hastissue:1" ; Times: 1
+	Query: "Chironius flavopictus" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "class:Amphibia country:&#34;Peru&#34;" ; Times: 2
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "genus:Crotalus country:&#34;venezuela&#34;" ; Times: 1
+	Query: "Chironius flavolineatus" ; Times: 1
+	Query: "Chironius grandisquamis" ; Times: 1
+	Query: "Acrochordus granulatus" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "Chironius fuscus" ; Times: 1
+	Query: "linnaea" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "micrurus ancoralis" ; Times: 2
+	Query: "Viperidae" ; Times: 1
+	Query: "Chironius maculoventris" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "Chironius exoletus" ; Times: 1
+	Query: "chironius bicarinatus" ; Times: 2
+	Query: "Chironius laevicollis" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "Chironius quadricarinatus" ; Times: 1
+
+
+End of report.
