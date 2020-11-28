@@ -1,0 +1,173 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 155
+Number of records retrieved in searches: 1822
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 83
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Poland ; Times: 1
+	Country: Finland ; Times: 4
+	Country: United Kingdom ; Times: 54
+	Country: Slovakia ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Dominican Republic ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 20
+	Date: 2020-10-08 ; Times: 5
+	Date: 2020-10-18 ; Times: 22
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-27 ; Times: 5
+	Date: 2020-10-25 ; Times: 1
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-01 ; Times: 6
+	Date: 2020-10-13 ; Times: 20
+	Date: 2020-10-11 ; Times: 5
+	Date: 2020-10-05 ; Times: 3
+	Date: 2020-10-04 ; Times: 1
+	Date: 2020-10-07 ; Times: 5
+	Date: 2020-10-06 ; Times: 4
+	Date: 2020-10-12 ; Times: 22
+	Date: 2020-10-20 ; Times: 3
+	Date: 2020-10-21 ; Times: 13
+	Date: 2020-10-14 ; Times: 2
+	Date: 2020-10-15 ; Times: 9
+	Date: 2020-10-16 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Sibon hastissue:1" ; Times: 1
+	Query: "genus:Tropidodipsas hastissue:1" ; Times: 1
+	Query: "genus:Rana specificepithet:dalmatina" ; Times: 1
+	Query: "Dispholidus typus" ; Times: 7
+	Query: "genus: chersodromus hastissue:1" ; Times: 1
+	Query: "genus:Stegonotus institutioncode:ZMUC" ; Times: 3
+	Query: "Bothrochilus boa" ; Times: 2
+	Query: "Phyllodactylus pulcher" ; Times: 1
+	Query: "Causus rhombeatus" ; Times: 6
+	Query: "stegonotus parvus" ; Times: 1
+	Query: "Dendroaspis polylepis" ; Times: 1
+	Query: "specificepithet:jamesoni genus:dendroaspis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Causus resimus" ; Times: 18
+	Query: "Hypsiglena ochrorhynchus hastissue:1" ; Times: 1
+	Query: "genus: Thamnodynastes hastissue:1" ; Times: 3
+	Query: "family:Colubridae country:&#34;Afghanistan&#34;" ; Times: 2
+	Query: "genus:Dipsas hastissue:1" ; Times: 1
+	Query: "genus: alsophis hastissue:1" ; Times: 1
+	Query: "Liophis poecilogyrus" ; Times: 1
+	Query: "Triturus cristatus" ; Times: 1
+	Query: "genus: Chersodromus hastissue:1" ; Times: 3
+	Query: "Tarentola bischoffi" ; Times: 1
+	Query: "genus: arrhyton hastissue:1" ; Times: 1
+	Query: "specificepithet:gabonica genus:Bitis country:&#34;Zambia&#34;" ; Times: 1
+	Query: "tarentola annularis" ; Times: 1
+	Query: "leiopython albertisii" ; Times: 1
+	Query: "specificepithet:nasicornis genus:Bitis year &gt;= 1990 year &lt;= 2020" ; Times: 2
+	Query: "Anolis petersii" ; Times: 5
+	Query: "specificepithet:parviocula genus:Bitis" ; Times: 2
+	Query: "genus: pseudoeryx hastissue:1" ; Times: 1
+	Query: "specificepithet:boa genus:bothrochilus hastissue:1" ; Times: 1
+	Query: "Crotaphopeltis hotamboeia" ; Times: 4
+	Query: "genus: thamnodynastes hastissue:1" ; Times: 1
+	Query: "Stegonotus parvus" ; Times: 1
+	Query: "genus: pliocercus hastissue:1" ; Times: 1
+	Query: "genus:fordonia" ; Times: 2
+	Query: "genus:Bitis country:&#34;Malawi&#34;" ; Times: 1
+	Query: "specificepithet:gabonica genus:Bitis year &gt;= 1990 year &lt;= 2020" ; Times: 2
+	Query: "ANolis petersii" ; Times: 1
+	Query: "specificepithet:viridis genus:dipsadoboa year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "genus: carpophis hastissue:1" ; Times: 1
+	Query: "dendroaspis polylepis" ; Times: 1
+	Query: "Leiopython" ; Times: 1
+	Query: "genus:Cerberus institutioncode:ZMUC" ; Times: 3
+	Query: "genus: Rhadinaea hastissue:1" ; Times: 4
+	Query: "genus: Alsophis hastissue:1" ; Times: 2
+	Query: "Afrixalus equatorialis" ; Times: 1
+	Query: "specificepithet:gabonica genus:Bitis" ; Times: 2
+	Query: "genus: tachymenis hastissue:1" ; Times: 1
+	Query: "Causus maculatus" ; Times: 1
+	Query: "Liasis albertisii" ; Times: 1
+	Query: "genus: hydrops hastissue:1" ; Times: 1
+	Query: "specificepithet:pullatus genus:Spilotes hastissue:1" ; Times: 1
+	Query: "Naja nigricollis" ; Times: 5
+	Query: "Crotaphopeltis" ; Times: 2
+	Query: "genus: Pliocercus hastissue:1" ; Times: 2
+	Query: "genus: Uromacer hastissue:1" ; Times: 3
+	Query: "Crotaphopeltis hippocrepis" ; Times: 6
+	Query: "genus:stegonotus institutioncode:ZMUC" ; Times: 1
+	Query: "genus:Bitis country:&#34;Nigeria&#34;" ; Times: 5
+	Query: "Saurodactylus brosseti" ; Times: 1
+	Query: "genus: rhadinaea hastissue:1" ; Times: 1
+	Query: "naja nigricollis" ; Times: 2
+	Query: "specificepithet:nasicornis genus:Bitis year &gt;= 1995 year &lt;= 2020" ; Times: 1
+	Query: "genus: Pseudoeryx hastissue:1" ; Times: 2
+	Query: "genus: Tachymenis hastissue:1" ; Times: 3
+	Query: "genus:fordonia country:&#34;indonesia&#34;" ; Times: 5
+	Query: "specificepithet:spectrum genus:Rhampholeon hastissue:1" ; Times: 1
+	Query: "genus: Hydrops hastissue:1" ; Times: 2
+	Query: "Rhampholeon spectrum" ; Times: 1
+	Query: "specificepithet:irregularis genus:Atractaspis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "genus:Cerberus hastissue:1" ; Times: 3
+	Query: "ZFMK" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1521 download events in this period)
+Total number of records downloaded: 925
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 12
+	Country: Samoa ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 1
+	Date: 2020-10-08 ; Times: 2
+	Date: 2020-10-18 ; Times: 2
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-01 ; Times: 3
+	Date: 2020-10-05 ; Times: 6
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-02 ; Times: 1
+	Date: 2020-10-16 ; Times: 1
+	Date: 2020-10-21 ; Times: 3
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "Dispholidus typus" ; Times: 2
+	Query: "genus:Stegonotus institutioncode:ZMUC" ; Times: 1
+	Query: "Chironius" ; Times: 1
+	Query: "specificepithet:maculatus genus:Draco" ; Times: 1
+	Query: "Hylarana" ; Times: 1
+	Query: "dendroaspis polylepis" ; Times: 1
+	Query: "Causus rhombeatus" ; Times: 1
+	Query: "Causus resimus" ; Times: 1
+	Query: "order:Gymnophiona hastissue:1" ; Times: 4
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "Bitis arietans" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Lepidodactylus lugubris" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "order:Caudata hastissue:1" ; Times: 1
+	Query: "Anolis petersii" ; Times: 2
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Agkistrodon" ; Times: 1
+	Query: "Lampropeltis elapsoides" ; Times: 1
+
+
+End of report.
