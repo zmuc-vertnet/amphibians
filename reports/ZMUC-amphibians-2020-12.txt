@@ -1,0 +1,183 @@
+Report for Institution Code ZMUC, Resource amphibians
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 1756
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Malaysia ; Times: 1
+	Country: Mozambique ; Times: 40
+	Country: Peru ; Times: 7
+	Country: China ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Poland ; Times: 3
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-24 ; Times: 2
+	Date: 2020-12-21 ; Times: 1
+	Date: 2020-12-20 ; Times: 1
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-03 ; Times: 16
+	Date: 2020-12-22 ; Times: 8
+	Date: 2020-12-28 ; Times: 3
+	Date: 2020-12-02 ; Times: 31
+	Date: 2020-12-07 ; Times: 2
+	Date: 2020-12-01 ; Times: 5
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-10 ; Times: 1
+	Date: 2020-12-04 ; Times: 2
+	Date: 2020-12-14 ; Times: 2
+	Date: 2020-12-15 ; Times: 4
+	Date: 2020-12-16 ; Times: 2
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Hyperolius parkeri" ; Times: 1
+	Query: "mappable:1 scientificname:Leptopelis parbocagii" ; Times: 1
+	Query: "mappable:1 scientificname:Aparallactus capensis" ; Times: 2
+	Query: "Zamenis longissimus" ; Times: 1
+	Query: "family:Viperidae continent:Africa institutioncode:ZMUC" ; Times: 1
+	Query: "family:Colubridae institutioncode:ZMUC" ; Times: 1
+	Query: "mappable:1 scientificname:Hyperolius marginatus" ; Times: 1
+	Query: "mappable:1 scientificname:Melanoseps ater" ; Times: 2
+	Query: "mappable:1 scientificname:Psammophis subtaeniatus" ; Times: 2
+	Query: "mappable:1 scientificname:Ptychadena uzungwensis" ; Times: 1
+	Query: "mappable:1 scientificname:Rhampholeon nchisiensis" ; Times: 2
+	Query: "mappable:1 scientificname:Psammophylax tritaeniatus" ; Times: 2
+	Query: "country:Ecuador scientificname:Bothriechis schlegelii " ; Times: 1
+	Query: "mappable:1 scientificname:Duberria lutrix" ; Times: 2
+	Query: "mappable:1 scientificname:Hyperolius argus" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "KU 4900" ; Times: 1
+	Query: "mappable:1 scientificname:Arthroleptis xenodactyloides" ; Times: 1
+	Query: "zamenis longissimus" ; Times: 1
+	Query: "Oligodon cruentatus" ; Times: 2
+	Query: "genus:Drymarchon hastissue:1" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 7
+	Query: "mappable:1 scientificname:Hyperolius spinigularis" ; Times: 1
+	Query: "mappable:1 scientificname:Hyperolius pusillus" ; Times: 1
+	Query: "mappable:1 scientificname:Hyperolius mitchelli" ; Times: 1
+	Query: "mappable:1 scientificname:Arthroleptis stenodactylus" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber class:Reptilia country:&#34;Mexico&#34; AND (NOT CM)" ; Times: 1
+	Query: "naja oxiana" ; Times: 2
+	Query: "rana dalmatina" ; Times: 2
+	Query: "mappable:1 scientificname:Afrixalus fornasini" ; Times: 1
+	Query: "vandenburghi" ; Times: 1
+	Query: "Chrysopelea paradisi" ; Times: 1
+	Query: "opisthotropis" ; Times: 1
+	Query: "specificepithet:andreae genus:Antillophis hastissue:1" ; Times: 1
+	Query: "christiani" ; Times: 1
+	Query: "Oligodon albocinctus" ; Times: 1
+	Query: "mappable:1 scientificname:Hyperolius quinquevittatus" ; Times: 1
+	Query: "mappable:1 scientificname:Hydraethiops melanogaster" ; Times: 1
+	Query: "specificepithet:spectrum genus:Rhampholeon hastissue:1" ; Times: 1
+	Query: "genus:toxicocalamus hastissue:1" ; Times: 1
+	Query: "Pelophylax kurtmuelleri" ; Times: 1
+	Query: "mappable:1 scientificname:Chiromantis xerampelina" ; Times: 1
+	Query: "Kassina senegalensis" ; Times: 1
+	Query: "Anilius" ; Times: 1
+	Query: "mappable:1 scientificname:Dasypeltis scabra" ; Times: 2
+	Query: "Hydrophis caerulescens" ; Times: 1
+	Query: "mappable:1 scientificname:Prosymna ambigua" ; Times: 2
+	Query: "mappable:1 scientificname:Leptopelis flavomaculatus" ; Times: 1
+	Query: "mappable:1 scientificname:Pyxicephalus adspersus" ; Times: 1
+	Query: "Zoologisk Museum" ; Times: 1
+	Query: "specificepithet:muelleri genus:aspidomorphus hastissue:1" ; Times: 1
+	Query: "Psammophis typus" ; Times: 1
+	Query: "mappable:1 scientificname:Natriciteres olivacea" ; Times: 2
+	Query: "mappable:1 scientificname:Hyperolius benguellensis" ; Times: 1
+	Query: "mappable:1 scientificname:Ptychadena anchietae" ; Times: 1
+	Query: "mappable:1 scientificname:Leptopelis bocagii" ; Times: 1
+	Query: "mappable:1 scientificname:Hyperolius kivuensis" ; Times: 1
+	Query: "Leptopelis vermiculatus" ; Times: 1
+	Query: "Calamaria prakkei" ; Times: 1
+	Query: "opisthotropis hastissue:1" ; Times: 1
+	Query: "mappable:1 scientificname:Afrixalus delicatus" ; Times: 1
+	Query: "mappable:1 scientificname:Thelotornis capensis" ; Times: 2
+	Query: "psammophis lineolatus" ; Times: 1
+	Query: "Coronella girondica" ; Times: 1
+	Query: "genus:aspidomorphus hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 705 download events in this period)
+Total number of records downloaded: 4846
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 25
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-04 ; Times: 4
+	Date: 2020-12-21 ; Times: 1
+	Date: 2020-12-23 ; Times: 26
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-02 ; Times: 4
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-07 ; Times: 7
+	Date: 2020-12-05 ; Times: 1
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 4
+	Date: 2020-12-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Ctenophorus pictus" ; Times: 1
+	Query: "Zootoca vivipara" ; Times: 3
+	Query: "Diporiphora bilineata" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 2
+	Query: "gehyra dubia" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 2
+	Query: "naja oxiana" ; Times: 1
+	Query: "Lialis burtonis" ; Times: 1
+	Query: "Heteronotia binoei" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "Moloch horridus" ; Times: 1
+	Query: "psammophis lineolatus" ; Times: 1
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "Zamenis longissimus" ; Times: 2
+	Query: "Rana temporaria" ; Times: 1
+	Query: "class:Amphibia country:Brazil" ; Times: 3
+	Query: "Tarentola mauritanica" ; Times: 2
+	Query: "class:Reptilia country:Brazil" ; Times: 2
+	Query: "Natrix maura" ; Times: 1
+	Query: "calotes versicolor" ; Times: 1
+	Query: "Ctenophorus ornatus" ; Times: 1
+	Query: "Lepidodactylus lugubris" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Anilius" ; Times: 2
+	Query: "Anolis auratus" ; Times: 1
+	Query: "genus:MICRURUS country:&#34;México&#34; continent:America" ; Times: 1
+	Query: "Amphibolurus muricatus" ; Times: 1
+	Query: "Xenopeltis unicolor" ; Times: 2
+	Query: "Viperidae" ; Times: 1
+	Query: "Trapelus mutabilis" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 2
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "Christinus marmoratus" ; Times: 1
+	Query: "Cordylus cordylus" ; Times: 1
+	Query: "Lophognathus temporalis" ; Times: 1
+	Query: "Coronella girondica" ; Times: 1
+	Query: "agama agama" ; Times: 1
+
+
+End of report.
